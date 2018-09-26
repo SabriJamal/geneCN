@@ -1,0 +1,9 @@
+#################
+## Description ##
+#################
+
+1. Some parts in documentation unclear
+2. lzma is a dependancy for BIO-DB-HTS and lzma is now apart of xz package. For mac OSx run brew install xz if brew is installed
+3. prelim plot script documentation says input is BAM and script says output of perl script. Only way to figure out is through common sense and that script takes an CSV file and only one ouput is csv
+
+

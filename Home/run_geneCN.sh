@@ -1,0 +1,1 @@
+/scratch/DMP/DUDMP/TRANSGEN/sjamal/2.Scripts/geneCN/Home/scripts/run_geneCN.sh

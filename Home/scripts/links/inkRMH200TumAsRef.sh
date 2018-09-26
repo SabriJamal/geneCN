@@ -1,0 +1,1 @@
+/scratch/DMP/DUDMP/TRANSGEN/sjamal/2.Scripts/geneCN/Home/TEST_DATA/TumourAsReference/RMH200/linkRMH200TumAsRef.sh

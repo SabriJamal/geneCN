@@ -1,0 +1,21 @@
+These are the warnings prompted when running copy_numberNP
+
+Warning: ID3 has only 2 windows
+Warning: B2M has only 3 windows
+Warning: MYD88 has only 1 windows
+Warning: VHL has only 3 windows
+Warning: HIST1H3C has only 2 windows
+Warning: CXCR4 has only 3 windows
+Warning: GNA11 has only 1 windows
+Warning: GNAQ has only 1 windows
+Warning: BTK has only 1 windows
+Warning: BCL2 has only 2 windows
+Warning: H3F3B has only 3 windows
+Warning: HIST1H3B has only 2 windows
+Warning: H3F3A has only 2 windows
+
+script run:
+
+cd /Users/sjamal/Documents/Work/2.scripts/geneCN/Home/test
+
+perl ../../supporting_scripts/copy_number_NPbuild.pl -b /Users/sjamal/Documents/Work/2.scripts/geneCN/Home/REFERENCES/panel_RMH200.gc.annotated.bed -o /Users/sjamal/Documents/Work/2.scripts/geneCN/Home/test/test_NP.out -s sample_gender.list /Users/sjamal/Documents/Work/2.scripts/geneCN/Home/test/1700375-TruQ1-T.sort.bam /Users/sjamal/Documents/Work/2.scripts/geneCN/Home/test/1700376-TruQ2-T.sort.bam /Users/sjamal/Documents/Work/2.scripts/geneCN/Home/test/1700377-TruQ3-T.sort.bam /Users/sjamal/Documents/Work/2.scripts/geneCN/Home/test/1700378-TruQ4-T.sort.bam /Users/sjamal/Documents/Work/2.scripts/geneCN/Home/test/1700379-TruQ5-T.sort.bam /Users/sjamal/Documents/Work/2.scripts/geneCN/Home/test/1700380-TruQ6-T.sort.bam
