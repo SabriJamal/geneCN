@@ -1,0 +1,8 @@
+sample	segments	stdev	mad	iqr	bivar
+/mnt/lustre/users/sjamal/3.Tests/CNVkit_tests/PooledReference/DataFromValidation/PAED/1606998-007-T.sort.cnr	23	0.304493	0.281565	0.3803	0.294847
+/mnt/lustre/users/sjamal/3.Tests/CNVkit_tests/PooledReference/DataFromValidation/PAED/1609532-111015-T.sort.cnr	22	0.27162	0.237977	0.320293	0.252243
+/mnt/lustre/users/sjamal/3.Tests/CNVkit_tests/PooledReference/DataFromValidation/PAED/1709561-118-T.sort.cnr	53	0.599629	0.426392	0.574641	0.483655
+/mnt/lustre/users/sjamal/3.Tests/CNVkit_tests/PooledReference/DataFromValidation/PAED/1709815-108-T.sort.cnr	55	0.975483	0.557346	0.754354	0.61708
+/mnt/lustre/users/sjamal/3.Tests/CNVkit_tests/PooledReference/DataFromValidation/PAED/1709879-105-T.sort.cnr	58	0.810645	0.512628	0.691705	0.557819
+/mnt/lustre/users/sjamal/3.Tests/CNVkit_tests/PooledReference/DataFromValidation/PAED/1803598-169-T.sort.cnr	54	0.450411	0.312447	0.421085	0.337023
+/mnt/lustre/users/sjamal/3.Tests/CNVkit_tests/PooledReference/DataFromValidation/PAED/1807633-111158-T.sort.cnr	51	0.352835	0.286528	0.386871	0.301782

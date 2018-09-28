@@ -1,0 +1,41 @@
+1607001-025-T	Pool_423_PAED	ATM	ATM Deletion		Transcripts: ENST00000278616 ; These results are intended for research purposes	Paeds NGS v1.0
+1700679-111022-T	Pool_539_PAED	CDKN2A	CDKN2A Deletion		Transcripts: ENST00000498124,ENST00000361570,ENST00000498124,ENST00000304494; These results are intended for research purposes	Paeds NGS v1.0
+1700679-111022-T	Pool_539_PAED	CDKN2B	CDKN2B Deletion		Transcripts: ENST00000276925; These results are intended for research purposes	Paeds NGS v1.0
+1703151-CLONE-A3-T	Pool_575R_PAED	CDKN2A	CDKN2A Deletion		Transcripts: ENST00000498124,ENST00000361570,ENST00000498124,ENST00000304494; These results are intended for research purposes	PAED NGS v2.0
+1703151-CLONE-A3-T	Pool_575R_PAED	CDKN2B	CDKN2B Deletion		Transcripts: ENST00000276925; These results are intended for research purposes	PAED NGS v2.0
+1703465-01-098-T	Pool_575S_PAED	CHEK2	CHEK2 Deletion		Transcripts: ENST00000328354; These results are intended for research purposes	PAED NGS v2.0
+1703465-01-098-T	Pool_575S_PAED	SMARCB1	SMARCB1 Deletion		Transcripts: ENST00000263121; These results are intended for research purposes	PAED NGS v2.0
+1709815-108-T	Pool_697B_NEXTSEQ	PTCH1	PTCH1 Deletion		These results are intended for research purposes	PAED NGS v2.0
+1709816-115-T	Pool_697B_NEXTSEQ	CDKN2A	CDKN2A Deletion		These results are intended for research purposes	PAED NGS v2.0
+1709568-128-T	Pool_705D_NEXTSEQ	CDKN2A	CDKN2A Deletion		These results are intended for research purposes	PAED NGS v2.0
+1709568-128-T	Pool_705D_NEXTSEQ	CDKN2B	CDKN2B Deletion		These results are intended for research purposes	PAED NGS v2.0
+1709568-128-T	Pool_705D_NEXTSEQ	SMARCA2	SMARCA2 Deletion		These results are intended for research purposes	PAED NGS v2.0
+1707318-14658-T	Pool_731A_NEXTSEQ	ATRX	ATRX Deletion		These results are intended for research purposes	PAED NGS v2.0
+1711159-121-T	Pool_731_NEXTSEQ	PMS2	PMS2 Deletion| RidwanShaikh:No evidence of amplification		These results are intended for research purposes	PAED NGS v2.0
+1711159-121-T	Pool_731_NEXTSEQ	YAP1	YAP1 Deletion| RidwanShaikh:No evidence of amplification		These results are intended for research purposes	PAED NGS v2.0
+1712392-123-T	Pool_731_NEXTSEQ	CDKN2A	CDKN2A Deletion		These results are intended for research purposes	PAED NGS v2.0
+1712392-123-T	Pool_731_NEXTSEQ	CDKN2B	CDKN2B Deletion| RidwanShaikh:No evidence of amplification		These results are intended for research purposes	PAED NGS v2.0
+1713173-111036-T	Pool_746A_MOD_NEXTSEQ	CHEK2	CHEK2 Deletion		These results are intended for research purposes	PAED NGS v2.0
+1713521-113-T	Pool_746_NEXTSEQ	CDKN2A	CDKN2A Deletion		These results are intended for research purposes	PAED NGS v2.0
+1713521-113-T	Pool_746_NEXTSEQ	CDKN2B	CDKN2B Deletion		These results are intended for research purposes	PAED NGS v2.0
+1608211-MOLDX-T	Pool_758A_NEXTSEQ	MAP2K2	MAP2K2 Deletion		These results are intended for research purposes	PAED NGS v2.0
+1608211-MOLDX-T	Pool_758A_NEXTSEQ	SMARCA4	SMARCA4 Deletion		These results are intended for research purposes	PAED NGS v2.0
+1800732-136-T	Pool_758C_NEXTSEQ	CDKN2A	CDKN2A Deletion		These results are intended for research purposes	PAED NGS v2.0
+1800345-CLBGA-T	Pool_760_NEXTSEQ	ATM	ATM Deletion		These results are intended for research purposes	PAED NGS v2.0
+1800345-CLBGA-T	Pool_760_NEXTSEQ	YAP1	YAP1 Deletion| EleniKoutroumanidou:No evidence of amplification		These results are intended for research purposes	PAED NGS v2.0
+1800347-SKNAS-T	Pool_760_NEXTSEQ	ATM	ATM Deletion| EleniKoutroumanidou:No evidence of amplification		These results are intended for research purposes	PAED NGS v2.0
+1800347-SKNAS-T	Pool_760_NEXTSEQ	SMARCA2	SMARCA2 Deletion| EleniKoutroumanidou:No evidence of amplification		These results are intended for research purposes	PAED NGS v2.0
+1800347-SKNAS-T	Pool_760_NEXTSEQ	TP53	TP53 No evidence of amplification| EleniKoutroumanidou:Deletion		These results are intended for research purposes	PAED NGS v2.0
+1800347-SKNAS-T	Pool_760_NEXTSEQ	YAP1	YAP1 Deletion| EleniKoutroumanidou:No evidence of amplification		These results are intended for research purposes	PAED NGS v2.0
+1800349-GIMEN-T	Pool_760_NEXTSEQ	ATM	ATM Deletion| EleniKoutroumanidou:No evidence of amplification		These results are intended for research purposes	PAED NGS v2.0
+1800349-GIMEN-T	Pool_760_NEXTSEQ	YAP1	YAP1 Deletion| EleniKoutroumanidou:No evidence of amplification		These results are intended for research purposes	PAED NGS v2.0
+1800701-11782-T	Pool_805_NEXTSEQ	CDKN2A	CDKN2A Deletion		These results are intended for research purposes	PAED NGS v2.0
+1800701-11782-T	Pool_805_NEXTSEQ	CDKN2B	CDKN2B Deletion		These results are intended for research purposes	PAED NGS v2.0
+1808033-152-T	Pool_883_NEXTSEQ	ATM	c.3857G>T p.Cys1286Phe; ATM Deletion	88.0%	Transcripts: ENST00000452508.2; These results are intended for research purposes	PAED NGS v2.0
+1808033-152-T	Pool_883_NEXTSEQ	YAP1	YAP1 Deletion		These results are intended for research purposes	PAED NGS v2.0
+1808489-182-T	Pool_883_NEXTSEQ	CDKN2A	CDKN2A Deletion		These results are intended for research purposes	PAED NGS v2.0
+1808489-182-T	Pool_883_NEXTSEQ	CDKN2B	CDKN2B Deletion		These results are intended for research purposes	PAED NGS v2.0
+1808491-183-T	Pool_883_NEXTSEQ	FBXW7	FBXW7 Deletion		These results are intended for research purposes	PAED NGS v2.0
+1808491-183-T	Pool_883_NEXTSEQ	MAP2K2	MAP2K2 Deletion		These results are intended for research purposes	PAED NGS v2.0
+1808491-183-T	Pool_883_NEXTSEQ	OTX2	OTX2 Deletion		These results are intended for research purposes	PAED NGS v2.0
+1808491-183-T	Pool_883_NEXTSEQ	SMARCA4	SMARCA4 Deletion		These results are intended for research purposes	PAED NGS v2.0

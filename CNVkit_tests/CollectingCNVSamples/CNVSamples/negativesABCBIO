@@ -1,0 +1,272 @@
+Patient_ID	Pool	Gene	Mutation	Allele Frequency	Transcript	Panel
+153481-3991-L-003-T	Pool_137_ABCBIO	PIK3CA	c.3140A>G p.His1047Arg	33.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+153481-3991-L-003-T	Pool_137_ABCBIO	TP53	c.743G>A p.Arg248Gln	65.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+153481BW-3991-L-003-T	Pool_137_ABCBIO	PIK3CA	c.3140A>G p.His1047Arg	31.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+153481BW-3991-L-003-T	Pool_137_ABCBIO	TP53	c.743G>A p.Arg248Gln	68.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+153482-3991-S-004-T	Pool_137_ABCBIO	GATA3	c.1302delC p.His435fs	38.0%	Transcripts: ENST00000379328; These results are intended for research purposes	Breast NGS v1.0
+151929-L023-T	Pool_155_ABCBIO	BRCA2	c.1196C>A p.Thr399Asn	28.0%	Transcripts: ENST00000544455; These results are intended for research purposes	Breast NGS v1.0
+151929-L023-T	Pool_155_ABCBIO	ESR1	c.1138G>C p.Glu380Gln	22.0%	Transcripts: ENST00000440973; These results are intended for research purposes	Breast NGS v1.0
+153483-L002-T	Pool_155_ABCBIO	TP53	c.528C>G p.Cys176Trp	56.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+153484-L007-T	Pool_155_ABCBIO	MCL1	c.289C>G p.Leu97Val	16.0%	Transcripts: ENST00000369026; These results are intended for research purposes	Breast NGS v1.0
+153484-L007-T	Pool_155_ABCBIO	TP53	c.321C>A p.Tyr107Ter	49.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+153487-S007-T	Pool_156_ABCBIO	PDGFRA	c.2914A>T p.Ser972Cys	50.0%	Transcripts: ENST00000257290; These results are intended for research purposes	Breast NGS v1.0
+153487-S007-T	Pool_156_ABCBIO	TP53	c.380C>T p.Ser127Phe	66.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+153488-S005-T	Pool_156_ABCBIO	MAP3K1	c.1290_1296delTTCAGAA p.Ser430fs and c.4291G>A p.Asp1431Asn	19.0% and 38.0%	Transcripts: ENST00000399503; These results are intended for research purposes	Breast NGS v1.0
+153488-S005-T	Pool_156_ABCBIO	PIK3CA	c.1633G>A p.Glu545Lys	37.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+153489-S006-T	Pool_156_ABCBIO	NF1	c.574C>T p.Arg192Ter	13.0%	Transcripts: ENST00000358273; These results are intended for research purposes	Breast NGS v1.0
+155712-L016-T	Pool_223_ABCBIO	CDH1	c.1390dupG p.Val464fs	22.0%	Transcripts: ENST00000261769; These results are intended for research purposes	Breast NGS v1.0
+155713-L026-T	Pool_223_ABCBIO	PIK3CA	c.1035T>A p.Asn345Lys	54.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+158144-S019-T	Pool_223_ABCBIO	GATA3	c.1224dupG p.Pro409fs	45.0%	Transcripts: ENST00000379328; These results are intended for research purposes	Breast NGS v1.0
+158150-L036-T	Pool_223_ABCBIO	TP53	c.644G>T p.Ser215Ile	40.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+158784-L001-T	Pool_247_ABCBIO	PTEN	c.634+1G>A 	36.0%	Transcripts: ENST00000371953; These results are intended for research purposes	Breast NGS v1.0
+158789-L050-T	Pool_247_ABCBIO	ESR1	c.175G>T p.Ala59Ser	5.0%	Transcripts: ENST00000440973; These results are intended for research purposes	Breast NGS v1.0
+158981-L022-T	Pool_247_ABCBIO	TP53	c.996_998delCCG p.Arg333del	40.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1510382-L058-T	Pool_254A_ABCBIO	CDH1	c.168delT p.Asn56fs	22.0%	Transcripts: ENST00000261769; These results are intended for research purposes	Breast NGS v1.0
+1510382-L058-T	Pool_254A_ABCBIO	ERBB3	c.2413G>C p.Ala805Pro	10.0%	Transcripts: ENST00000267101; These results are intended for research purposes	Breast NGS v1.0
+1510382-L058-T	Pool_254A_ABCBIO	PTEN	c.388C>G p.Arg130Gly	36.0%	Transcripts: ENST00000371953; These results are intended for research purposes	Breast NGS v1.0
+1510382-L058-T	Pool_254A_ABCBIO	TP53	c.905_908delGGAG p.Gly302fs	16.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+155706-S010-T	Pool_254A_ABCBIO	AKT1	c.357C>G p.Asp119Glu	12.0%	Transcripts: ENST00000407796; These results are intended for research purposes	Breast NGS v1.0
+155706-S010-T	Pool_254A_ABCBIO	CDH1	c.1947dupT p.Ile650fs	28.0%	Transcripts: ENST00000261769; These results are intended for research purposes	Breast NGS v1.0
+155706-S010-T	Pool_254A_ABCBIO	NF1	c.8048G>C p.Gly2683Ala	15.0%	Transcripts: ENST00000358273; These results are intended for research purposes	Breast NGS v1.0
+155706-S010-T	Pool_254A_ABCBIO	PIK3CA	c.1624G>A p.Glu542Lys and c.1627A>T p.Ile543Phe and c.1659T>A p.Ser553Arg and c.3132T>A p.Asn1044Lys	17.0% and 18.0% and 22.0% and 21.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+155708-s023-T	Pool_254A_ABCBIO	ESR1	c.1604C>G p.Pro535Arg	14.0%	Transcripts: ENST00000440973; These results are intended for research purposes	Breast NGS v1.0
+159937-L047-T	Pool_254A_ABCBIO	TP53	c.833C>T p.Pro278Leu	42.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+158787-S026-T	Pool_267_ABCBIO	ATM	c.6248G>T p.Gly2083Val	6.0%	Transcripts: ENST00000278616; These results are intended for research purposes	Breast NGS v1.0
+158787-S026-T	Pool_267_ABCBIO	BRCA1	c.479delG p.Gly160fs	79.0%	Transcripts: ENST00000471181; These results are intended for research purposes	Breast NGS v1.0
+158787-S026-T	Pool_267_ABCBIO	TP53	c.524G>A p.Arg175His	84.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1600237-L059-T	Pool_267_ABCBIO	PIK3CA	c.1637A>G p.Gln546Arg	39.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1601408-S029-T	Pool_310_ABCBIO	TP53	c.722C>T p.Ser241Phe	76.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1601481-S009-T	Pool_310_ABCBIO	ATM	c.6814G>A p.Glu2272Lys and c.6915G>C p.Gln2305His	31.0% and 30.0%	Transcripts: ENST00000278616; These results are intended for research purposes	Breast NGS v1.0
+1601481-S009-T	Pool_310_ABCBIO	BRCA1	c.2461G>C p.Asp821His	29.0%	Transcripts: ENST00000471181; These results are intended for research purposes	Breast NGS v1.0
+1601600-L047-T	Pool_310_ABCBIO	TP53	c.833C>T p.Pro278Leu	42.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1602099-L066-T	Pool_332_ABCBIO	IGF1R	c.130C>G p.Gln44Glu	13.0%	Transcripts: ENST00000268035; These results are intended for research purposes	Breast NGS v1.0
+1602099-L066-T	Pool_332_ABCBIO	TP53	c.586C>T p.Arg196Ter	87.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1602483-L049-T	Pool_332_ABCBIO	GATA3	c.1051-1T>A 	9.0%	Transcripts: ENST00000379328; These results are intended for research purposes	Breast NGS v1.0
+1602483-L049-T	Pool_332_ABCBIO	MAP3K1	c.2893C>T p.Gln965Ter	24.0%	Transcripts: ENST00000399503; These results are intended for research purposes	Breast NGS v1.0
+1602483-L049-T	Pool_332_ABCBIO	PIK3CA	c.1624G>A p.Glu542Lys	6.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1602484-L051-T	Pool_332_ABCBIO	PTEN	c.45_47delATA p.Arg15_Tyr16delinsSer	20.0%	Transcripts: ENST00000371953; These results are intended for research purposes	Breast NGS v1.0
+1602484-L051-T	Pool_332_ABCBIO	TP53	c.742C>T p.Arg248Trp	24.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1602487-L027-T	Pool_332_ABCBIO	AKT1	c.49G>A p.Glu17Lys	60.0%	Transcripts: ENST00000407796; These results are intended for research purposes	Breast NGS v1.0
+1602487-L027-T	Pool_332_ABCBIO	SF3B1	c.3228C>A 	14.0%	Transcripts: ENST00000335508; These results are intended for research purposes	Breast NGS v1.0
+1602486-L015-T	Pool_333_ABCBIO	MAP3K1	c.835-1T>A  and c.4129A>T p.Ile1377Phe	45.0% and 48.0%	Transcripts: ENST00000399503; These results are intended for research purposes	Breast NGS v1.0
+1601480-S008-T	Pool_334_ABCBIO	TP53	c.80delC p.Pro27fs	31.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1602098-L055-T	Pool_334_ABCBIO	TP53	c.809T>C p.Phe270Ser	67.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1602485-L061-T	Pool_334_ABCBIO	TP53	c.673-1G>A 	27.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1601800-L035-T	Pool_335_ABCBIO	TP53	c.808T>C p.Phe270Leu	74.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1602962-L068-T	Pool_335_ABCBIO	TP53	c.742C>T p.Arg248Trp	32.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1602963-L070-T	Pool_335_ABCBIO	TP53	c.524G>A p.Arg175His	32.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1602965-S035-T	Pool_335_ABCBIO	PIK3CA	c.1633G>A p.Glu545Lys	19.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1602966-S034-T	Pool_335_ABCBIO	PIK3CA	c.3140A>T p.His1047Leu	49.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1602966-S034-T	Pool_335_ABCBIO	TP53	c.725G>T p.Cys242Phe	44.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+158154-L053-T	Pool_337_ABCBIO	ERBB2	c.398C>T p.Ser133Phe	82.0%	Transcripts: ENST00000269571; These results are intended for research purposes	Breast NGS v1.0
+158154-L053-T	Pool_337_ABCBIO	FGFR2	c.1769A>T p.Asp590Val	30.0%	Transcripts: ENST00000457416,ENST00000358487; These results are intended for research purposes	Breast NGS v1.0
+158154-L053-T	Pool_337_ABCBIO	TP53	c.916C>T p.Arg306Ter	87.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1601406-S025-T	Pool_337_ABCBIO	BRCA1	c.5437G>A p.Asp1813Asn	22.0%	Transcripts: ENST00000471181; These results are intended for research purposes	Breast NGS v1.0
+1601406-S025-T	Pool_337_ABCBIO	PIK3CA	c.3140A>G p.His1047Arg	66.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1601409-S030-T	Pool_337_ABCBIO	NF1	c.1885G>A p.Gly629Arg	73.0%	Transcripts: ENST00000358273; These results are intended for research purposes	Breast NGS v1.0
+1601409-S030-T	Pool_337_ABCBIO	TP53	c.818G>A p.Arg273His	74.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1601801-S036-T	Pool_337_ABCBIO	AKT1	c.49G>A p.Glu17Lys	25.0%	Transcripts: ENST00000407796; These results are intended for research purposes	Breast NGS v1.0
+1601798-L020-T	Pool_338_ABCBIO	PIK3CA	c.3140A>G p.His1047Arg	25.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1601798-L020-T	Pool_338_ABCBIO	PTEN	c.201dupA p.Tyr68fs	37.0%	Transcripts: ENST00000371953; These results are intended for research purposes	Breast NGS v1.0
+1602967-S037-T	Pool_338_ABCBIO	CCND1	c.826_828delGAG p.Glu280del	5.0%	Transcripts: ENST00000227507; These results are intended for research purposes	Breast NGS v1.0
+1602967-S037-T	Pool_338_ABCBIO	CDH1	c.581G>A p.Gly194Asp	19.0%	Transcripts: ENST00000261769; These results are intended for research purposes	Breast NGS v1.0
+1602967-S037-T	Pool_338_ABCBIO	PIK3CA	c.1633G>A p.Glu545Lys	36.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1603818-L074-T	Pool_338_ABCBIO	ATM	c.5998A>C p.Ser2000Arg	23.0%	Transcripts: ENST00000278616; These results are intended for research purposes	Breast NGS v1.0
+1603818-L074-T	Pool_338_ABCBIO	BRCA1	c.2629A>G p.Asn877Asp	38.0%	Transcripts: ENST00000471181; These results are intended for research purposes	Breast NGS v1.0
+1603818-L074-T	Pool_338_ABCBIO	PDGFRA	c.1288G>A p.Gly430Arg	30.0%	Transcripts: ENST00000257290; These results are intended for research purposes	Breast NGS v1.0
+1603818-L074-T	Pool_338_ABCBIO	PIK3R1	c.316G>T p.Glu106Ter	67.0%	Transcripts: ENST00000521381; These results are intended for research purposes	Breast NGS v1.0
+1603818-L074-T	Pool_338_ABCBIO	PTEN	c.954dupT p.Leu318fs	67.0%	Transcripts: ENST00000371953; These results are intended for research purposes	Breast NGS v1.0
+1603818-L074-T	Pool_338_ABCBIO	TP53	c.517G>A p.Val173Met	74.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1603814-L067-T	Pool_359_ABCBIO	PIK3R1	c.584A>G p.Glu195Gly	5.0%	Transcripts: ENST00000521381; These results are intended for research purposes	Breast NGS v1.0
+1603814-L067-T	Pool_359_ABCBIO	TP53	c.743G>A p.Arg248Gln	50.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1603819-L075-T	Pool_359_ABCBIO	CDH1	c.1711+1GCTACAGACAATGGTAAGGGG>- 	10.0%	Transcripts: ENST00000261769; These results are intended for research purposes	Breast NGS v1.0
+1603819-L075-T	Pool_359_ABCBIO	PIK3CA	c.1633G>C p.Glu545Gln	16.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1603819-L075-T	Pool_359_ABCBIO	TP53	c.853G>A p.Glu285Lys and c.638G>A p.Arg213Gln and c.559+2G>A 	25.0% and 19.0% and 20.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1604578-L053-T	Pool_367_ABCBIO	ERBB2	c.398C>T p.Ser133Phe	82.0%	Transcripts: ENST00000269571; These results are intended for research purposes	Breast NGS v1.0
+1604578-L053-T	Pool_367_ABCBIO	FGFR2	c.1769A>T p.Asp590Val	31.0%	Transcripts: ENST00000457416,ENST00000358487; These results are intended for research purposes	Breast NGS v1.0
+1604578-L053-T	Pool_367_ABCBIO	TP53	c.916C>T p.Arg306Ter	89.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1604585-L083-T	Pool_367_ABCBIO	ERBB3	c.922G>C p.Asp308His	25.0%	Transcripts: ENST00000267101; These results are intended for research purposes	Breast NGS v1.0
+1604585-L083-T	Pool_367_ABCBIO	MET	c.687G>C p.Leu229Phe	42.0%	Transcripts: ENST00000318493; These results are intended for research purposes	Breast NGS v1.0
+1604585-L083-T	Pool_367_ABCBIO	PIK3CA	c.1585G>C p.Glu529Gln	26.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1604585-L083-T	Pool_367_ABCBIO	TP53	c.1013_1014insG p.Phe338fs	74.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1605702-L060-T	Pool_367_ABCBIO	CDH1	c.70G>T p.Glu24Ter	55.0%	Transcripts: ENST00000261769; These results are intended for research purposes	Breast NGS v1.0
+1605702-L060-T	Pool_367_ABCBIO	ERBB2	c.2305G>T p.Asp769Tyr	31.0%	Transcripts: ENST00000269571; These results are intended for research purposes	Breast NGS v1.0
+1605711-S043-T	Pool_367_ABCBIO	TP53	c.584T>C p.Ile195Thr	43.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1604577-S040-T	Pool_368_ABCBIO	ESR1	c.1610A>C p.Tyr537Ser	41.0%	Transcripts: ENST00000440973; These results are intended for research purposes	Breast NGS v1.0
+1604581-L078-T	Pool_368_ABCBIO	KIT	c.443T>C p.Leu148Pro	11.0%	Transcripts: ENST00000288135; These results are intended for research purposes	Breast NGS v1.0
+1604583-L080-T	Pool_368_ABCBIO	CDH1	c.639G>A p.Trp213Ter	53.0%	Transcripts: ENST00000261769; These results are intended for research purposes	Breast NGS v1.0
+1604583-L080-T	Pool_368_ABCBIO	ERBB2	c.929C>T p.Ser310Phe	32.0%	Transcripts: ENST00000269571; These results are intended for research purposes	Breast NGS v1.0
+1604583-L080-T	Pool_368_ABCBIO	ESR1	c.1306C>T p.Arg436Cys	35.0%	Transcripts: ENST00000440973; These results are intended for research purposes	Breast NGS v1.0
+1605701-L011-T	Pool_388_ABCBIO	SF3B1	c.2098A>G p.Lys700Glu	53.0%	Transcripts: ENST00000335508; These results are intended for research purposes	Breast NGS v1.0
+1605703-L077-T	Pool_388_ABCBIO	GATA3	c.989_990insA p.Arg331fs	31.0%	Transcripts: ENST00000379328; These results are intended for research purposes	Breast NGS v1.0
+1605705-L087-T	Pool_388_ABCBIO	GATA3	c.169G>A p.Gly57Ser	5.0%	Transcripts: ENST00000379328; These results are intended for research purposes	Breast NGS v1.0
+1605705-L087-T	Pool_388_ABCBIO	PIK3CA	c.3140A>G p.His1047Arg	14.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1605705-L087-T	Pool_388_ABCBIO	RB1	c.1215+1G>A 	13.0%	Transcripts: ENST00000267163; These results are intended for research purposes	Breast NGS v1.0
+1605705-L087-T	Pool_388_ABCBIO	TP53	c.712T>G p.Cys238Gly	17.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1605706-L088-T	Pool_388_ABCBIO	MAP3K1	c.1456_1459delTTAA p.Leu486fs	35.0%	Transcripts: ENST00000399503; These results are intended for research purposes	Breast NGS v1.0
+1605707-L089-T	Pool_388_ABCBIO	PIK3CA	c.3140A>G p.His1047Arg	58.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1605704-L084-T	Pool_389_ABCBIO	PIK3CA	c.1624G>A p.Glu542Lys	27.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1605704-L084-T	Pool_389_ABCBIO	TP53	c.637C>T p.Arg213Ter	6.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1605709-L091-T	Pool_389_ABCBIO	ERBB3	c.545_548delCTGT p.Ala182fs	45.0%	Transcripts: ENST00000267101; These results are intended for research purposes	Breast NGS v1.0
+1605709-L091-T	Pool_389_ABCBIO	TP53	c.817C>T p.Arg273Cys	47.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1605710-S042-T	Pool_389_ABCBIO	NF1	c.3986C>G p.Ser1329Ter	64.0%	Transcripts: ENST00000358273; These results are intended for research purposes	Breast NGS v1.0
+1605710-S042-T	Pool_389_ABCBIO	TP53	c.530C>G p.Pro177Arg	66.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1605712-S044-T	Pool_389_ABCBIO	ATM	c.1201C>T p.Gln401Ter	36.0%	Transcripts: ENST00000278616; These results are intended for research purposes	Breast NGS v1.0
+1605712-S044-T	Pool_389_ABCBIO	PIK3CA	c.3140A>T p.His1047Leu	44.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1605708-L090-T	Pool_390_ABCBIO	PIK3CA	c.3140A>G p.His1047Arg	39.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1607578-S050-T	Pool_390_ABCBIO	PTEN	c.509G>T p.Ser170Ile	56.0%	Transcripts: ENST00000371953; These results are intended for research purposes	Breast NGS v1.0
+1607583-L097-T	Pool_425_ABCBIO	CDH1	c.2424_2427delAAAT p.Gly808fs	52.0%	Transcripts: ENST00000261769; These results are intended for research purposes	Breast NGS v1.0
+1607583-L097-T	Pool_425_ABCBIO	PIK3CA	c.115G>A p.Glu39Lys	34.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1607583-L097-T	Pool_425_ABCBIO	TP53	c.524G>A p.Arg175His	56.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1607584-L099-T	Pool_425_ABCBIO	CCND1	c.723+1G>A 	6.0%	Transcripts: ENST00000227507; These results are intended for research purposes	Breast NGS v1.0
+1607584-L099-T	Pool_425_ABCBIO	CDK4	c.295G>A p.Asp99Asn	11.0%	Transcripts: ENST00000257904; These results are intended for research purposes	Breast NGS v1.0
+1607584-L099-T	Pool_425_ABCBIO	ERBB3	c.2854G>A p.Glu952Lys and c.3342G>A p.Met1114Ile	11.0% and 11.0%	Transcripts: ENST00000267101; These results are intended for research purposes	Breast NGS v1.0
+1607584-L099-T	Pool_425_ABCBIO	FGFR2	c.760C>T p.His254Tyr	30.0%	Transcripts: ENST00000457416,ENST00000358487; These results are intended for research purposes	Breast NGS v1.0
+1607584-L099-T	Pool_425_ABCBIO	PIK3CA	c.1624G>A p.Glu542Lys	21.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1607584-L099-T	Pool_425_ABCBIO	TP53	c.722C>G p.Ser241Cys	12.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1607585-L107-T	Pool_425_ABCBIO	ATM	c.7308-1A>C 	5.0%	Transcripts: ENST00000278616; These results are intended for research purposes	Breast NGS v1.0
+1607585-L107-T	Pool_425_ABCBIO	ERBB2	c.2180G>C p.Gly727Ala	73.0%	Transcripts: ENST00000269571; These results are intended for research purposes	Breast NGS v1.0
+1607585-L107-T	Pool_425_ABCBIO	NF1	c.2842C>T p.Gln948Ter	65.0%	Transcripts: ENST00000358273; These results are intended for research purposes	Breast NGS v1.0
+1607585-L107-T	Pool_425_ABCBIO	PTEN	c.184A>T p.Lys62Ter	82.0%	Transcripts: ENST00000371953; These results are intended for research purposes	Breast NGS v1.0
+1607579-S051-T	Pool_426_ABCBIO	FGFR2	c.386C>T p.Ser129Leu	9.0%	Transcripts: ENST00000457416,ENST00000358487; These results are intended for research purposes	Breast NGS v1.0
+1607579-S051-T	Pool_426_ABCBIO	PIK3CA	c.1633G>A p.Glu545Lys	11.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1607579-S051-T	Pool_426_ABCBIO	TP53	c.749C>T p.Pro250Leu	52.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1607580-S052-T	Pool_426_ABCBIO	PIK3CA	c.3140A>G p.His1047Arg	46.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1607582-S055-T	Pool_426_ABCBIO	PIK3CA	c.1041T>A p.Asn347Lys and c.1624G>A p.Glu542Lys	18.0% and 28.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1608956-L109-T	Pool_456_ABCBIO	PIK3CA	c.3140A>G p.His1047Arg	39.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1608957-L112-T	Pool_456_ABCBIO	PIK3CA	c.3131A>G p.Asn1044Ser and c.3140A>T p.His1047Leu	45.0% and 44.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1608962-S056-T	Pool_456_ABCBIO	GATA3	c.1333dupT p.Ter445fs	29.0%	Transcripts: ENST00000379328; These results are intended for research purposes	Breast NGS v1.0
+1608962-S056-T	Pool_456_ABCBIO	PIK3CA	c.1624G>A p.Glu542Lys	34.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1608963-S058-T	Pool_456_ABCBIO	TP53	c.820G>T p.Val274Phe	77.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1608953-L008-T	Pool_457_ABCBIO	MAP3K1	c.817_818delAG p.Arg273fs and c.4365_4368delCAAT p.Ser1455fs	41.0% and 24.0%	Transcripts: ENST00000399503; These results are intended for research purposes	Breast NGS v1.0
+1608953-L008-T	Pool_457_ABCBIO	PIK3CA	c.3140A>G p.His1047Arg	48.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1608960-S047-T	Pool_457_ABCBIO	TP53	c.452C>A p.Pro151His	39.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1609039-S042-T	Pool_457_ABCBIO	TP53	c.530C>G p.Pro177Arg	72.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1608955-L094-T	Pool_458_ABCBIO	TP53	c.741dupA p.Asn247fs	85.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1608958-S012-T	Pool_458_ABCBIO	MAP3K1	c.1167delC p.Phe389fs and c.1878dupT p.Ile627fs	28.0% and 27.0%	Transcripts: ENST00000399503; These results are intended for research purposes	Breast NGS v1.0
+1608967-S063-T	Pool_458_ABCBIO	ERBB3	c.3701C>G p.Ser1234Cys	26.0%	Transcripts: ENST00000267101; These results are intended for research purposes	Breast NGS v1.0
+1608967-S063-T	Pool_458_ABCBIO	TP53	c.916C>T p.Arg306Ter	86.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1609040-S057-T	Pool_458_ABCBIO	CDH1	c.801dupT p.Phe267fs	69.0%	Transcripts: ENST00000261769; These results are intended for research purposes	Breast NGS v1.0
+1609040-S057-T	Pool_458_ABCBIO	PIK3CA	c.1633G>A p.Glu545Lys	35.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+16-08961-S054-T	Pool_459_ABCBIO	PIK3CA	c.1633G>A p.Glu545Lys	44.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+16-08966-S061-T	Pool_459_ABCBIO	PTEN	c.900delC p.Ile300fs	24.0%	Transcripts: ENST00000371953; These results are intended for research purposes	Breast NGS v1.0
+16-08973-S073-T	Pool_459_ABCBIO	CDKN2A	c.35C>G p.Ser12Trp	6.0%	Transcripts: ENST00000498124; These results are intended for research purposes	Breast NGS v1.0
+16-08973-S073-T	Pool_459_ABCBIO	TP53	c.511G>T p.Glu171Ter	48.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+16-09269-L121-T	Pool_459_ABCBIO	PIK3CA	c.3140A>G p.His1047Arg	47.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+16-09269-L121-T	Pool_459_ABCBIO	TP53	c.470T>G p.Val157Gly	49.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1608968-S064-T	Pool_460_ABCBIO	MAP3K1	c.4258-1T>A  and c.4493_4495delCAT p.Ser1499del	25.0% and 42.0%	Transcripts: ENST00000399503; These results are intended for research purposes	Breast NGS v1.0
+1608968-S064-T	Pool_460_ABCBIO	PIK3CA	c.1030G>A p.Val344Met and c.3140A>G p.His1047Arg	22.0% and 22.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1608971-S068-T	Pool_460_ABCBIO	TP53	c.406C>T p.Gln136Ter	30.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1608972-S069-T	Pool_460_ABCBIO	PIK3CA	c.1049A>G p.Asp350Gly and c.3140A>G p.His1047Arg	20.0% and 24.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1608974-S075-T	Pool_460_ABCBIO	MAP3K1	c.2179+1G>C 	37.0%	Transcripts: ENST00000399503; These results are intended for research purposes	Breast NGS v1.0
+1608974-S075-T	Pool_460_ABCBIO	PIK3CA	c.1035T>A p.Asn345Lys	36.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1607577-S049-T	Pool_461_ABCBIO	MAP3K1	c.817_818delAG p.Arg273fs	76.0%	Transcripts: ENST00000399503; These results are intended for research purposes	Breast NGS v1.0
+1607577-S049-T	Pool_461_ABCBIO	TP53	c.493C>T p.Gln165Ter	69.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1608965-S060-T	Pool_461_ABCBIO	GATA3	c.1064delT p.Leu355fs	21.0%	Transcripts: ENST00000379328; These results are intended for research purposes	Breast NGS v1.0
+1608965-S060-T	Pool_461_ABCBIO	MAP3K1	c.4206delA p.Ala1402fs	31.0%	Transcripts: ENST00000399503; These results are intended for research purposes	Breast NGS v1.0
+1609270-L120-T	Pool_461_ABCBIO	AKT1	c.49G>A p.Glu17Lys	65.0%	Transcripts: ENST00000407796; These results are intended for research purposes	Breast NGS v1.0
+1609270-L120-T	Pool_461_ABCBIO	NF1	c.910C>T p.Arg304Ter	67.0%	Transcripts: ENST00000358273; These results are intended for research purposes	Breast NGS v1.0
+1609270-L120-T	Pool_461_ABCBIO	TP53	c.560-1G>- 	65.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1610588-L118-T	Pool_461_ABCBIO	TP53	c.711G>A p.Met237Ile	80.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1610598-S080-T	Pool_461_ABCBIO	PIK3CA	c.1636C>A p.Gln546Lys	24.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1610598-S080-T	Pool_461_ABCBIO	PTEN	c.403A>G p.Ile135Val and c.740dupT p.Leu247fs	17.0% and 14.0%	Transcripts: ENST00000371953; These results are intended for research purposes	Breast NGS v1.0
+1610591-S065-T	Pool_491_ABCBIO	ERBB3	c.2233G>C p.Glu745Gln	13.0%	Transcripts: ENST00000267101; These results are intended for research purposes	Breast NGS v1.0
+1610591-S065-T	Pool_491_ABCBIO	TP53	c.734G>A p.Gly245Asp	59.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1610592-S070-T	Pool_491_ABCBIO	ESR1	c.1609T>A p.Tyr537Asn	40.0%	Transcripts: ENST00000440973; These results are intended for research purposes	Breast NGS v1.0
+1610592-S070-T	Pool_491_ABCBIO	GATA3	c.881T>A p.Met294Lys	59.0%	Transcripts: ENST00000379328; These results are intended for research purposes	Breast NGS v1.0
+1610592-S070-T	Pool_491_ABCBIO	PIK3CA	c.3140A>G p.His1047Arg	41.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1610595-S077-T	Pool_491_ABCBIO	TP53	c.469G>T p.Val157Phe	60.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1610584-L106-T	Pool_492_ABCBIO	TP53	c.715A>G p.Asn239Asp	38.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1610585-L110-T	Pool_492_ABCBIO	FGFR1	c.827G>A p.Arg276Lys	5.0%	Transcripts: ENST00000425967; These results are intended for research purposes	Breast NGS v1.0
+1610585-L110-T	Pool_492_ABCBIO	GATA3	c.1224dupG p.Pro409fs	15.0%	Transcripts: ENST00000379328; These results are intended for research purposes	Breast NGS v1.0
+1610585-L110-T	Pool_492_ABCBIO	RB1	c.1734delC p.Asp578fs	11.0%	Transcripts: ENST00000267163; These results are intended for research purposes	Breast NGS v1.0
+1610585-L110-T	Pool_492_ABCBIO	TP53	c.96+1G>A 	12.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1610587-L116-T	Pool_492_ABCBIO	AKT1	c.49G>A p.Glu17Lys	52.0%	Transcripts: ENST00000407796; These results are intended for research purposes	Breast NGS v1.0
+1610587-L116-T	Pool_492_ABCBIO	ESR1	c.1613A>G p.Asp538Gly	42.0%	Transcripts: ENST00000440973; These results are intended for research purposes	Breast NGS v1.0
+1610587-L116-T	Pool_492_ABCBIO	GATA3	c.1060delC p.Pro354fs	42.0%	Transcripts: ENST00000379328; These results are intended for research purposes	Breast NGS v1.0
+1610594-S074-T	Pool_492_ABCBIO	AKT1	c.49G>A p.Glu17Lys	56.0%	Transcripts: ENST00000407796; These results are intended for research purposes	Breast NGS v1.0
+1610594-S074-T	Pool_492_ABCBIO	MAP3K1	c.622C>T p.Arg208Ter and c.3316dupA p.Ile1106fs	32.0% and 29.0%	Transcripts: ENST00000399503; These results are intended for research purposes	Breast NGS v1.0
+1611246-L139-T	Pool_512_ABCBIO	ATM	c.1745T>A p.Phe582Tyr	67.0%	Transcripts: ENST00000278616; These results are intended for research purposes	Breast NGS v1.0
+1611246-L139-T	Pool_512_ABCBIO	ERBB2	c.2683C>G p.Leu895Val	44.0%	Transcripts: ENST00000269571; These results are intended for research purposes	Breast NGS v1.0
+1611246-L139-T	Pool_512_ABCBIO	TP53	c.517G>A p.Val173Met	78.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1611250-S083-T	Pool_512_ABCBIO	PIK3CA	c.1633G>A p.Glu545Lys and c.3143A>G p.His1048Arg	27.0% and 13.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1611250-S083-T	Pool_512_ABCBIO	SF3B1	c.2098A>G p.Lys700Glu	20.0%	Transcripts: ENST00000335508; These results are intended for research purposes	Breast NGS v1.0
+1611252-S087-T	Pool_512_ABCBIO	FGFR3	c.1408C>T p.Arg470Trp	13.0%	Transcripts: ENST00000340107,ENST00000440486; These results are intended for research purposes	Breast NGS v1.0
+1611252-S087-T	Pool_512_ABCBIO	PIK3CA	c.3140A>G p.His1047Arg	25.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1700441-L104-T	Pool_526_ABCBIO	AKT1	c.49G>A p.Glu17Lys	54.0%	Transcripts: ENST00000407796; These results are intended for research purposes	Breast NGS v1.0
+1700441-L104-T	Pool_526_ABCBIO	ATM	c.946T>C p.Tyr316His	16.0%	Transcripts: ENST00000278616; These results are intended for research purposes	Breast NGS v1.0
+1700441-L104-T	Pool_526_ABCBIO	NF1	c.4285A>T p.Lys1429Ter	22.0%	Transcripts: ENST00000358273; These results are intended for research purposes	Breast NGS v1.0
+1700445-L145-T	Pool_526_ABCBIO	PIK3CA	c.1633G>A p.Glu545Lys	21.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1700450-L156-T	Pool_526_ABCBIO	MAP3K1	c.2028_2029delinsC>GA p.Gln677fs and c.4355_4356delAA p.Glu1452fs	30.0% and 28.0%	Transcripts: ENST00000399503; These results are intended for research purposes	Breast NGS v1.0
+1700450-L156-T	Pool_526_ABCBIO	PIK3CA	c.3140A>G p.His1047Arg	30.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1700450-L156-T	Pool_526_ABCBIO	PTEN	c.723dupT p.Phe241fs	55.0%	Transcripts: ENST00000371953; These results are intended for research purposes	Breast NGS v1.0
+1700449-L153-T	Pool_527_ABCBIO	AKT1	c.49G>A p.Glu17Lys	88.0%	Transcripts: ENST00000407796; These results are intended for research purposes	Breast NGS v1.0
+1700449-L153-T	Pool_527_ABCBIO	BRAF	c.1397G>C p.Gly466Ala	44.0%	Transcripts: ENST00000288602; These results are intended for research purposes	Breast NGS v1.0
+1700449-L153-T	Pool_527_ABCBIO	ESR1	c.1138G>C p.Glu380Gln	43.0%	Transcripts: ENST00000440973; These results are intended for research purposes	Breast NGS v1.0
+1700451-L158-T	Pool_527_ABCBIO	PIK3CA	c.3140A>G p.His1047Arg	47.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1700451-L158-T	Pool_527_ABCBIO	TP53	c.314G>T p.Gly105Val	67.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1700452-L159-T	Pool_527_ABCBIO	CCNE1	c.929C>T p.Ser310Phe	10.0%	Transcripts: ENST00000262643; These results are intended for research purposes	Breast NGS v1.0
+1700452-L159-T	Pool_527_ABCBIO	PIK3CA	c.1624G>A p.Glu542Lys	22.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1701237-L092-T	Pool_527_ABCBIO	GATA3	c.1223_1224insT p.Pro409fs	23.0%	Transcripts: ENST00000379328; These results are intended for research purposes	Breast NGS v1.0
+1701237-L092-T	Pool_527_ABCBIO	PIK3CA	c.1633G>A p.Glu545Lys	32.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1701237-L092-T	Pool_527_ABCBIO	TP53	c.375+1C>T 	54.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1700444-L144-T	Pool_545_ABCBIO	ATM	c.3619G>A p.Glu1207Lys	20.0%	Transcripts: ENST00000278616; These results are intended for research purposes	Breast NGS v1.0
+1700444-L144-T	Pool_545_ABCBIO	IGF1R	c.265C>T p.Arg89Ter	30.0%	Transcripts: ENST00000268035; These results are intended for research purposes	Breast NGS v1.0
+1700444-L144-T	Pool_545_ABCBIO	PDGFRA	c.2692G>T p.Gly898Cys	12.0%	Transcripts: ENST00000257290; These results are intended for research purposes	Breast NGS v1.0
+1700444-L144-T	Pool_545_ABCBIO	TP53	c.605G>T p.Arg202Leu and c.574C>T p.Gln192Ter	46.0% and 49.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1701236-L080-T	Pool_545_ABCBIO	CDH1	c.639G>A p.Trp213Ter	31.0%	Transcripts: ENST00000261769; These results are intended for research purposes	Breast NGS v1.0
+1701236-L080-T	Pool_545_ABCBIO	ERBB2	c.929C>T p.Ser310Phe	27.0%	Transcripts: ENST00000269571; These results are intended for research purposes	Breast NGS v1.0
+1701236-L080-T	Pool_545_ABCBIO	ESR1	c.1306C>T p.Arg436Cys	23.0%	Transcripts: ENST00000440973; These results are intended for research purposes	Breast NGS v1.0
+1701239-L119-T	Pool_545_ABCBIO	TP53	c.817C>T p.Arg273Cys	27.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1701240-L149-T	Pool_545_ABCBIO	PIK3CA	c.1035T>A p.Asn345Lys	8.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1701241-L162-T	Pool_545_ABCBIO	GATA3	c.1000_1001insT p.Asn334fs	25.0%	Transcripts: ENST00000379328; These results are intended for research purposes	Breast NGS v1.0
+1702494-L166-T	Pool_568_ABCBIO	CDH1	c.2057_2058dupGT p.Val685fs	5.0%	Transcripts: ENST00000261769; These results are intended for research purposes	Breast NGS v1.0
+1702494-L166-T	Pool_568_ABCBIO	PIK3CA	c.3140A>G p.His1047Arg	7.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1702496-L168-T	Pool_568_ABCBIO	GATA3	c.985_995delTGGAGGAGGAA p.Trp329fs	27.0%	Transcripts: ENST00000379328; These results are intended for research purposes	Breast NGS v1.0
+1702501-S086-T	Pool_568_ABCBIO	CDH1	c.1387G>C p.Glu463Gln	48.0%	Transcripts: ENST00000261769; These results are intended for research purposes	Breast NGS v1.0
+1702501-S086-T	Pool_568_ABCBIO	ESR1	c.1609T>A p.Tyr537Asn	50.0%	Transcripts: ENST00000440973; These results are intended for research purposes	Breast NGS v1.0
+1702502-S088-T	Pool_568_ABCBIO	BRCA2	c.3812C>T p.Ser1271Leu	27.0%	Transcripts: ENST00000544455; These results are intended for research purposes	Breast NGS v1.0
+1702502-S088-T	Pool_568_ABCBIO	TP53	c.827C>G p.Ala276Gly	45.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1701242-L155-T	Pool_569_ABCBIO	KIT	c.284_287delACAC p.Tyr95fs	20.0%	Transcripts: ENST00000288135; These results are intended for research purposes	Breast NGS v1.0
+1701242-L155-T	Pool_569_ABCBIO	TP53	c.743G>A p.Arg248Gln	35.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1702493-L034-T	Pool_569_ABCBIO	AKT1	c.49G>A p.Glu17Lys	33.0%	Transcripts: ENST00000407796; These results are intended for research purposes	Breast NGS v1.0
+1702493-L034-T	Pool_569_ABCBIO	ESR1	c.1607T>G p.Leu536Arg	29.0%	Transcripts: ENST00000440973; These results are intended for research purposes	Breast NGS v1.0
+1702498-S027-T	Pool_569_ABCBIO	TP53	c.1025G>C p.Arg342Pro	54.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1702499-S041-T	Pool_569_ABCBIO	ERBB2	c.2264T>C p.Leu755Ser	36.0%	Transcripts: ENST00000269571; These results are intended for research purposes	Breast NGS v1.0
+1702499-S041-T	Pool_569_ABCBIO	PIK3CA	c.1624G>A p.Glu542Lys	30.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1702499-S041-T	Pool_569_ABCBIO	TP53	c.817C>T p.Arg273Cys	21.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1702508-S097-T	Pool_569_ABCBIO	PIK3CA	c.3140A>G p.His1047Arg	44.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1702508-S097-T	Pool_569_ABCBIO	TP53	c.839G>A p.Arg280Lys	37.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1702495-L167-T	Pool_570_ABCBIO	PIK3CA	c.3140A>G p.His1047Arg	49.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1702497-S013-T	Pool_570_ABCBIO	PIK3CA	c.3140A>G p.His1047Arg	13.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1702497-S013-T	Pool_570_ABCBIO	TP53	c.818G>A p.Arg273His	14.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1702500-S072-T	Pool_570_ABCBIO	PIK3CA	c.3140A>G p.His1047Arg and c.3143A>G p.His1048Arg	49.0% and 49.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1702500-S072-T	Pool_570_ABCBIO	TP53	c.473G>C p.Arg158Pro	40.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1702504-S092-T	Pool_570_ABCBIO	CDKN2A	c.86G>T p.Arg29Leu	24.0%	Transcripts: ENST00000498124; These results are intended for research purposes	Breast NGS v1.0
+1702504-S092-T	Pool_570_ABCBIO	ESR1	c.1387T>C p.Ser463Pro	46.0%	Transcripts: ENST00000440973; These results are intended for research purposes	Breast NGS v1.0
+1702506-S094-T	Pool_571_ABCBIO	GATA3	c.1224_1231delGCCCTTCA p.Ser408fs	26.0%	Transcripts: ENST00000379328; These results are intended for research purposes	Breast NGS v1.0
+1702510-S102-T	Pool_571_ABCBIO	PIK3CA	c.317_322delGCAACC p.Asn107_Arg108del	21.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1702510-S102-T	Pool_571_ABCBIO	TP53	c.375+1G>- 	33.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1703962-L027-T	Pool_589A_ABCBIO	AKT1	c.49G>A p.Glu17Lys	63.0%	Transcripts: ENST00000407796; These results are intended for research purposes	Breast NGS v1.0
+1703964-L139-T	Pool_589A_ABCBIO	ATM	c.1745T>A p.Phe582Tyr	19.0%	Transcripts: ENST00000278616; These results are intended for research purposes	Breast NGS v1.0
+1703964-L139-T	Pool_589A_ABCBIO	TP53	c.517G>A p.Val173Met	38.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1703965-L150-T	Pool_589A_ABCBIO	NF1	c.4543C>A p.Gln1515Lys	44.0%	Transcripts: ENST00000358273; These results are intended for research purposes	Breast NGS v1.0
+1703965-L150-T	Pool_589A_ABCBIO	PIK3CA	c.1633G>A p.Glu545Lys	67.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1703966-L152-T	Pool_589A_ABCBIO	BRAF	c.1397G>C p.Gly466Ala	22.0%	Transcripts: ENST00000288602; These results are intended for research purposes	Breast NGS v1.0
+1703966-L152-T	Pool_589A_ABCBIO	RB1	c.409delG p.Glu137fs	31.0%	Transcripts: ENST00000267163; These results are intended for research purposes	Breast NGS v1.0
+1703966-L152-T	Pool_589A_ABCBIO	TP53	c.818G>A p.Arg273His	69.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1703975-S010-T	Pool_589A_ABCBIO	TP53	c.847dupG p.Arg283fs	50.0%	Transcripts: ENST00000269305; These results are intended for research purposes	Breast NGS v1.0
+1703982-S107-T	Pool_589A_ABCBIO	CDH1	c.478delC p.Pro160fs	22.0%	Transcripts: ENST00000261769; These results are intended for research purposes	Breast NGS v1.0
+1703982-S107-T	Pool_589A_ABCBIO	PIK3CA	c.3140A>G p.His1047Arg	27.0%	Transcripts: ENST00000263967; These results are intended for research purposes	Breast NGS v1.0
+1703982-S107-T	Pool_589A_ABCBIO	SF3B1	c.1951G>A p.Val651Met	16.0%	Transcripts: ENST00000335508; These results are intended for research purposes	Breast NGS v1.0
+1711014-L111-T	Pool_687A_NEXTSEQ	PIK3CA	c.1633G>A p.Glu545Lys	26.0%	Transcripts: ENST00000263967.3; These results are intended for research purposes	Breast NGS v1.1
+1711015-L130-T	Pool_687A_NEXTSEQ	NF1	c.2309_2322delCTGCAGGAAACACT p.Thr770fs	55.0%	Transcripts: ENST00000358273.4; These results are intended for research purposes	Breast NGS v1.1
+1711018-S113-T	Pool_687A_NEXTSEQ	BRAF	c.1322T>G p.Leu441Arg	8.0%	Transcripts: ENST00000288602.6; These results are intended for research purposes	Breast NGS v1.1
+1711018-S113-T	Pool_687A_NEXTSEQ	GATA3	c.871_872delTA p.Tyr291fs	12.0%	Transcripts: ENST00000379328.3; These results are intended for research purposes	Breast NGS v1.1
+1711018-S113-T	Pool_687A_NEXTSEQ	KIT	c.178G>A p.Asp60Asn	8.0%	Transcripts: ENST00000288135.5; These results are intended for research purposes	Breast NGS v1.1
+1711018-S113-T	Pool_687A_NEXTSEQ	PIK3CA	c.1633G>A p.Glu545Lys	66.0%	Transcripts: ENST00000263967.3; These results are intended for research purposes	Breast NGS v1.1
+1711018-S113-T	Pool_687A_NEXTSEQ	TP53	c.241dupT p.Thr81fs	42.0%	Transcripts: ENST00000269305.4; These results are intended for research purposes	Breast NGS v1.1
+1803441-SARCOMA-T	Pool_814_NEXTSEQ	TP53	c.524G>A p.Arg175His	17.0%	Transcripts: ENST00000420246.2; These results are intended for research purposes	PAED NGS v2.0
+1804116-142-T	Pool_814_NEXTSEQ	BCOR	c.4376A>T p.Asn1459Ile	40.0%	Transcripts: ENST00000378444.4; These results are intended for research purposes	PAED NGS v2.0
+1804116-142-T	Pool_814_NEXTSEQ	CREBBP	c.223C>T p.Arg75Ter	35.0%	Transcripts: ENST00000262367.5; These results are intended for research purposes	PAED NGS v2.0
+1804118-128-T	Pool_814_NEXTSEQ	MAP2K1	c.519A>C p.Arg173Ser	41.0%	Transcripts: ENST00000566326.1; These results are intended for research purposes	PAED NGS v2.0

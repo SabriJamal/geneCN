@@ -1,0 +1,22 @@
+Patient_ID	Pool	Gene	Mutation	Allele Frequency	Transcript	Panel
+1701270-W1612256-T	Pool_576_3_NEXTSEQ	KMT2D	c.14206G>T p.Ala4736Ser	50.0%	Transcripts: ENST00000301067.7; These results are intended for research purposes	idiopathic cytopenia
+1701270-W1612256-T	Pool_576_3_NEXTSEQ	TET2	c.3785G>C p.Arg1262Pro and c.5103G>T p.Met1701Ile and c.5104C>T p.Gln1702Ter	20.0% and 29.0% and 29.0%	Transcripts: ENST00000540549.1; These results are intended for research purposes	idiopathic cytopenia
+1700557-CMP-RMH-4384-0011-T	Pool_722BM_NEXTSEQ	ETNK1	c.982A>G p.Ile328Val	32.0%	Transcripts: ENST00000266517.4; These results are intended for research purposes	idiopathic cytopenia
+1700557-CMP-RMH-4384-0011-T	Pool_722BM_NEXTSEQ	IDH2	c.419G>A p.Arg140Gln	45.0%	Transcripts: ENST00000330062.3; These results are intended for research purposes	idiopathic cytopenia
+1700557-CMP-RMH-4384-0011-T	Pool_722BM_NEXTSEQ	NPM1	c.859_860insTG p.Leu287fs	39.0%	Transcripts: ENST00000296930.5; These results are intended for research purposes	idiopathic cytopenia
+1700557-CMP-RMH-4384-0011-T	Pool_722BM_NEXTSEQ	SRSF2	c.284C>T p.Pro95Leu	40.0%	Transcripts: ENST00000392485.2; These results are intended for research purposes	idiopathic cytopenia
+1709421-RVR-RMH-4384-0007-T	Pool_722BM_NEXTSEQ	TET2	c.3918delA p.Pro1306fs	24.0%	Transcripts: ENST00000540549.1; These results are intended for research purposes	idiopathic cytopenia
+1709421-RVR-RMH-4384-0007-T	Pool_722BM_NEXTSEQ	TP53	c.533A>C p.His178Pro	31.0%	Transcripts: ENST00000269305.4; These results are intended for research purposes	idiopathic cytopenia
+1713515-RAX-RMH-4384-0001-T	Pool_766_NEXTSEQ	NF1	c.2671G>C p.Val891Leu	37.0%	Transcripts: ENST00000358273.4; These results are intended for research purposes	idiopathic cytopenia
+1713515-RAX-RMH-4384-0001-T	Pool_766_NEXTSEQ	NRD1	c.462_464delAGA p.Glu154del	100.0%	Transcripts: ENST00000354831.7; These results are intended for research purposes	idiopathic cytopenia
+1713819-RAX-RMH-4384-0002-T	Pool_766_NEXTSEQ	TET2	c.5671A>G p.Arg1891Gly	33.0%	Transcripts: ENST00000540549.1; These results are intended for research purposes	idiopathic cytopenia
+1800642-RDU-RMH-4384-0005-T	Pool_766_NEXTSEQ	BCOR	c.2211_2214delTACT p.Ile737fs	19.0%	Transcripts: ENST00000378444.4; These results are intended for research purposes	idiopathic cytopenia
+1800642-RDU-RMH-4384-0005-T	Pool_766_NEXTSEQ	GNAS	c.1244G>A p.Arg415Gln	51.0%	Transcripts: ENST00000306120.3; These results are intended for research purposes	idiopathic cytopenia
+1800642-RDU-RMH-4384-0005-T	Pool_766_NEXTSEQ	KMT2D	c.14186G>A p.Arg4729Gln	51.0%	Transcripts: ENST00000301067.7; These results are intended for research purposes	idiopathic cytopenia
+1800642-RDU-RMH-4384-0005-T	Pool_766_NEXTSEQ	NCOR2	c.3013C>A p.Leu1005Met	43.0%	Transcripts: ENST00000405201.1; These results are intended for research purposes	idiopathic cytopenia
+1801368-CMP-RMH-4384-0015-T	Pool_766_NEXTSEQ	CUX1	c.106G>A p.Glu36Lys	5.0%	Transcripts: ENST00000292535.7;	idiopathic cytopenia
+1801368-CMP-RMH-4384-0015-T	Pool_766_NEXTSEQ	JAK2	c.1849G>T p.Val617Phe	47.0%	Transcripts: ENST00000381652.3;	idiopathic cytopenia
+1801711-CMP-RMH-4384-0016-T	Pool_766_NEXTSEQ	KMT2C	c.2722G>T p.Gly908Cys	11.0%	Transcripts: ENST00000262189.6; These results are intended for research purposes	idiopathic cytopenia
+1713514-RJ6RMH43840003-T	Pool_805_NEXTSEQ	RUNX1	c.529C>T p.Arg177Ter	12.0%	Transcripts: ENST00000344691.4; These results are intended for research purposes	idiopathic cytopenia
+1713514-RJ6RMH43840003-T	Pool_805_NEXTSEQ	SF3B1	c.2098A>G p.Lys700Glu	32.0%	Transcripts: ENST00000335508.6; These results are intended for research purposes	idiopathic cytopenia
+1801120-RJ6RMH43840005-T	Pool_805_NEXTSEQ	BOD1L1	c.104G>T p.Gly35Val	51.0%	Transcripts: ENST00000040738.5; These results are intended for research purposes	idiopathic cytopenia

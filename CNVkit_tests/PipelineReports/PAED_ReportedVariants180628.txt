@@ -1,0 +1,507 @@
+Patient_ID	Pool/Panel	Gene	Mutation	Allele Frequency	Transcript	Panel
+1600622-4137-T	Pool_300b_PAED	BRAF	c.1799T>A p.Val600Glu	59.0%	Transcripts: ENST00000288602; These results are intended for research purposes	Paeds NGS v1.0
+1600622-4137-T	Pool_300b_PAED	IDH1	c.394C>T p.Arg132Cys	43.0%	Transcripts: ENST00000415913; These results are intended for research purposes	Paeds NGS v1.0
+1602521-004-T	Pool_343_PAED	PTPN11	c.1520C>A p.Thr507Lys	21.0%	These results are intended for research purposes	Paeds NGS v1.0
+1510379C-4085-T	Pool_344_PAED	H3F3A	c.83A>T p.Lys28Met	30.0%	These results are intended for research purposes	Paeds NGS v1.0
+1510379C-4085-T	Pool_344_PAED	PDGFRA	c.1682T>G p.Val561Gly	33.0%	These results are intended for research purposes	Paeds NGS v1.0
+1510379C-4085-T	Pool_344_PAED	PIK3CA	c.3140A>G p.His1047Arg	34.0%	These results are intended for research purposes	Paeds NGS v1.0
+1510379C-4085-T	Pool_344_PAED	PTPN11	c.1505C>T p.Ser502Leu	34.0%	These results are intended for research purposes	Paeds NGS v1.0
+1510379C-4085-T	Pool_344_PAED	TP53	c.518T>G p.Val173Gly	33.0%	These results are intended for research purposes	Paeds NGS v1.0
+1600150-4136-T	Pool_344_PAED	CTNNB1	c.101G>A p.Gly34Glu	45.0%	These results are intended for research purposes	Paeds NGS v1.0
+1600150-4136-T	Pool_344_PAED	TP53	c.817C>T p.Arg273Cys	42.0%	These results are intended for research purposes	Paeds NGS v1.0
+1603988-001-T	Pool_355_PAED	RB1	RB1 Deletion		These results are intended for research purposes	Paeds NGS v1.0
+1603990-010-T	Pool_355_PAED	FGFR4	c.1605C>A p.Asn535Lys	32.0%	These results are intended for research purposes	Paeds NGS v1.0
+1603990-010-T	Pool_355_PAED	KMT2D	c.16501C>T p.Arg5501Ter and c.2425C>T p.Gln809Ter	23.0% and 25.0%	These results are intended for research purposes	Paeds NGS v1.0
+1604630-021-T	Pool_370_Fail_PAED	ATM	ATM LOH		These results are intended for research purposes	Paeds NGS v1.0
+1604630-021-T	Pool_370_Fail_PAED	TP53	c.817C>T p.Arg273Cys	100.0%	These results are intended for research purposes	Paeds NGS v1.0
+1604661-012-T	Pool_370_Fail_PAED	CDK4	CDK4 Amplification		These results are intended for research purposes	Paeds NGS v1.0
+1604661-012-T	Pool_370_Fail_PAED	KIT	KIT Amplification		These results are intended for research purposes	Paeds NGS v1.0
+1604661-012-T	Pool_370_Fail_PAED	PDGFRA	PDGFRA Amplification		These results are intended for research purposes	Paeds NGS v1.0
+1604661-012-T	Pool_370_Fail_PAED	PTCH1	c.2125delA p.Arg709fs	30.0%	These results are intended for research purposes	Paeds NGS v1.0
+1604661-012-T	Pool_370_Fail_PAED	TP53	c.396G>C p.Lys132Asn	25.0%	These results are intended for research purposes	Paeds NGS v1.0
+1604663-017-T	Pool_370_Fail_PAED	EWSR1	EWSR1-WT1 tx		These results are intended for research purposes	Paeds NGS v1.0
+1604665-022-T	Pool_370_Fail_PAED	BRAF	c.1799T>A p.Val600Glu	29.0%	These results are intended for research purposes	Paeds NGS v1.0
+1604665-022-T	Pool_370_Fail_PAED	TP53	c.843C>A p.Asp281Glu	26.0%	These results are intended for research purposes	Paeds NGS v1.0
+1604666-32-T	Pool_379_PAED	EWSR1	EWSR1-FLI1tx		These results are intended for research purposes	Paeds NGS v1.0
+1605265-020-T	Pool_379_PAED	MYCN	MYCN Amplification		These results are intended for research purposes	Paeds NGS v1.0
+1605266-030-T	Pool_379_PAED	CDKN2A	CDKN2A Deletion		These results are intended for research purposes	Paeds NGS v1.0
+1605266-030-T	Pool_379_PAED	CDKN2B	CDKN2B Deletion		These results are intended for research purposes	Paeds NGS v1.0
+1605266-030-T	Pool_379_PAED	KRAS	c.34G>T p.Gly12Cys	92.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606165-040-T	Pool_405_PAED	NF1	NF1 Deletion		These results are intended for research purposes	Paeds NGS v1.0
+1606165-040-T	Pool_405_PAED	TP53	c.404G>T p.Cys135Phe	74.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606162-014-T	Pool_406_PAED	MYOD1	c.365T>G p.Leu122Arg	51.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606162-014-T	Pool_406_PAED	NRAS	c.35G>C p.Gly12Ala	52.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606162-014-T	Pool_406_PAED	PIK3CA	c.3132T>A p.Asn1044Lys	30.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606164-037-T	Pool_406_PAED	EWSR1	ESWR1-FLI1		These results are intended for research purposes	Paeds NGS v1.0
+1606471-045-T	Pool_406_PAED	AKT1	c.302G>A p.Arg101His and c.65G>A p.Gly22Asp	37.0% and 43.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606471-045-T	Pool_406_PAED	APC	c.4889T>C p.Val1630Ala and c.6920C>T p.Ser2307Leu and c.7414G>A p.Ala2472Thr	42.0% and 40.0% and 42.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606471-045-T	Pool_406_PAED	ARID1A	c.2063A>G p.His688Arg	40.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606471-045-T	Pool_406_PAED	ARID1B	c.4870C>T p.Arg1624Ter and c.5516delA p.Glu1839fs and c.6166A>G p.Met2056Val	27.0% and 18.0% and 19.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606471-045-T	Pool_406_PAED	ASXL1	c.1954G>A p.Gly652Ser	47.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606471-045-T	Pool_406_PAED	ATM	c.2867G>A p.Gly956Glu and c.5243G>A p.Ser1748Asn and c.7112A>G p.Tyr2371Cys	38.0% and 33.0% and 40.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606471-045-T	Pool_406_PAED	ATRX	c.6796T>G p.Leu2266Val and c.5327T>C p.Phe1776Ser and c.992T>C p.Leu331Ser	6.0% and 82.0% and 83.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606471-045-T	Pool_406_PAED	CDKN2A	c.502-2A>C 	19.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606471-045-T	Pool_406_PAED	DDR2	c.1195C>T p.Arg399Trp	38.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606471-045-T	Pool_406_PAED	EGFR	c.1870C>T p.Arg624Ter and c.2035G>A p.Gly679Ser and c.2206T>C p.Cys736Arg	35.0% and 37.0% and 42.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606471-045-T	Pool_406_PAED	ERBB2	c.1016C>T p.Ala339Val	11.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606471-045-T	Pool_406_PAED	FGFR1	c.1004G>A p.Arg335His	38.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606471-045-T	Pool_406_PAED	FGFR4	c.1958T>C p.Val653Ala	30.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606471-045-T	Pool_406_PAED	KMT2D	c.14653G>A p.Ala4885Thr and c.12040G>T p.Ala4014Ser and c.5459C>T p.Ser1820Leu and c.5182G>A p.Asp1728Asn and c.3965G>A p.Arg1322His	33.0% and 43.0% and 7.0% and 15.0% and 39.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606471-045-T	Pool_406_PAED	MYOD1	c.841C>T p.Arg281Cys	50.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606471-045-T	Pool_406_PAED	NF1	c.2507A>G p.Glu836Gly and c.5050T>G p.Ser1684Ala	40.0% and 30.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606471-045-T	Pool_406_PAED	NRAS	c.272C>T p.Ala91Val	36.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606471-045-T	Pool_406_PAED	PDGFRA	c.1697G>T p.Ser566Ile	43.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606471-045-T	Pool_406_PAED	PHOX2B	c.235G>A p.Ala79Thr	33.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606471-045-T	Pool_406_PAED	PIK3R1	c.643G>A p.Asp215Asn and c.826C>T p.Arg276Ter	41.0% and 40.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606471-045-T	Pool_406_PAED	PTEN	c.491dupA p.Lys163fs	26.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606471-045-T	Pool_406_PAED	PTPRD	c.4094A>G p.Asp1365Gly	42.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606471-045-T	Pool_406_PAED	SETD2	c.6071G>A p.Arg2024Gln and c.698T>C p.Val233Ala	35.0% and 43.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606471-045-T	Pool_406_PAED	SMARCA4	c.115G>A p.Ala39Thr and c.1422A>C p.Glu474Asp and c.2402G>T p.Arg801Leu	36.0% and 39.0% and 39.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606471-045-T	Pool_406_PAED	TENM3	c.4925C>T p.Thr1642Met and c.6811A>G p.Thr2271Ala	38.0% and 41.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606471-045-T	Pool_406_PAED	TP53	c.844C>T p.Arg282Trp and c.803A>T p.Asn268Ile and c.523C>T p.Arg175Cys	40.0% and 40.0% and 41.0%	These results are intended for research purposes	Paeds NGS v1.0
+1604662-012-T	Pool_407_PAED	SMARCB1	c.589C>T p.Gln197Ter	59.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606160-009-T	Pool_407_PAED	KIT	KIT Amplification		These results are intended for research purposes	Paeds NGS v1.0
+1606160-009-T	Pool_407_PAED	PDGFRA	PDGFRA Amplification		These results are intended for research purposes	Paeds NGS v1.0
+1606161-013-T	Pool_407_PAED	H3F3A	c.83A>T p.Lys28Met	60.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606161-013-T	Pool_407_PAED	TP53	c.726C>G p.Cys242Trp and c.638G>T p.Arg213Leu	25.0% and 23.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606722-038-T	Pool_423_PAED	HIST1H3C	c.31T>G p.Ser11Ala	11.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606722-038-T	Pool_423_PAED	RB1	RB1 Deletion		These results are intended for research purposes	Paeds NGS v1.0
+1606722-038-T	Pool_423_PAED	TP53	c.742C>T p.Arg248Trp	78.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606723-035-T	Pool_423_PAED	CDKN2A	CDKN2A Deletion		These results are intended for research purposes	Paeds NGS v1.0
+1606723-035-T	Pool_423_PAED	EWSR1	EWSR1-FLI1		These results are intended for research purposes	Paeds NGS v1.0
+1606723-035-T	Pool_423_PAED	SMARCA4	c.2341A>G p.Met781Val	46.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606997-024-T	Pool_423_PAED	ATM	ATM LOH		These results are intended for research purposes	Paeds NGS v1.0
+1606999-039-T	Pool_423_PAED	KMT2D	c.7933C>T p.Arg2645Ter	25.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606999-039-T	Pool_423_PAED	SMARCB1	c.983G>A p.Arg328Gln	13.0%	These results are intended for research purposes	Paeds NGS v1.0
+1607001-025-T	Pool_423_PAED	ATM	ATM Deletion		These results are intended for research purposes	Paeds NGS v1.0
+1606916-048-T	Pool_424_PAED	ATM	c.3340A>G p.Lys1114Glu	6.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606916-048-T	Pool_424_PAED	PTPRD	c.2024A>T p.Glu675Val; PTPRD LOH	80.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606916-048-T	Pool_424_PAED	TP53	c.527G>A p.Cys176Tyr; TP53 LOH	87.0%	These results are intended for research purposes	Paeds NGS v1.0
+1606998-007-T	Pool_424_PAED	MYCN	MYCN Amplification		Transcripts: ENST00000281043; These results are intended for research purposes	Paeds NGS v1.0
+1606998-007-T	Pool_424_PAED	SETD2	c.1736A>T p.Asn579Ile and c.1737T>G p.Asn579Lys	5.0% and 35.0%	Transcripts: ENST00000409792; These results are intended for research purposes	Paeds NGS v1.0
+1607000-028-T	Pool_424_PAED	PTCH1	PTCH1 Amplification		Transcripts: ENST00000331920; These results are intended for research purposes	Paeds NGS v1.0
+1607802-026-T	Pool_433_PAED	MYCN	MYCN Amplification		These results are intended for research purposes	Paeds NGS v1.0
+1607802-026-T	Pool_433_PAED	PAX7	PAX7 Amplification		These results are intended for research purposes	Paeds NGS v1.0
+1607824-055-T	Pool_433_PAED	CDK4	CDK4 Amplification		These results are intended for research purposes	Paeds NGS v1.0
+1607824-055-T	Pool_433_PAED	PHOX2B	c.236C>A p.Ala79Asp	17.0%	These results are intended for research purposes	Paeds NGS v1.0
+1608098-051-T	Pool_443_PAED	AMER1	c.1072C>T p.Arg358Ter	7.0%	These results are intended for research purposes	Paeds NGS v1.0
+1608098-051-T	Pool_443_PAED	ATM	ATM LOH		These results are intended for research purposes	Paeds NGS v1.0
+1608098-051-T	Pool_443_PAED	MYCN	c.131C>T p.Pro44Leu	64.0%	These results are intended for research purposes	Paeds NGS v1.0
+1608098-051-T	Pool_443_PAED	WT1	c.310_311dupAA p.Lys104fs	30.0%	These results are intended for research purposes	Paeds NGS v1.0
+1608099-054-T	Pool_443_PAED	AKT1	c.49G>A p.Glu17Lys	80.0%	These results are intended for research purposes	Paeds NGS v1.0
+1608099-054-T	Pool_443_PAED	ATRX	c.5104_5107delGAAA p.Glu1702fs	38.0%	These results are intended for research purposes	Paeds NGS v1.0
+1608099-054-T	Pool_443_PAED	H3F3A	c.103G>A p.Gly34Arg		These results are intended for research purposes	Paeds NGS v1.0
+1608099-054-T	Pool_443_PAED	TP53	c.818G>A p.Arg273His	79.0%	These results are intended for research purposes	Paeds NGS v1.0
+1609120-008-T	Pool_463_PAED	EWSR1	EWSR1-FLI1		These results are intended for research purposes	Paeds NGS v1.0
+1609122-056-T	Pool_463_PAED	EWSR1	EWSR1-FLI1		These results are intended for research purposes	Paeds NGS v1.0
+1609123-059-T	Pool_463_PAED	BRAF	c.1799T>A p.Val600Glu	37.0%	These results are intended for research purposes	Paeds NGS v1.0
+1609123-059-T	Pool_463_PAED	CDKN2A	CDKN2A Deletion		These results are intended for research purposes	Paeds NGS v1.0
+1609123-059-T	Pool_463_PAED	CDKN2B	CDKN2B Deletion		These results are intended for research purposes	Paeds NGS v1.0
+1609869-005-T	Pool_475_PAED	ATM	c.7950C>A p.Asp2650Glu	37.0%	These results are intended for research purposes	Paeds NGS v1.0
+1609869-005-T	Pool_475_PAED	CDKN2A	CDKN2A Deletion		These results are intended for research purposes	Paeds NGS v1.0
+1609869-005-T	Pool_475_PAED	CDKN2B	CDKN2B Deletion		These results are intended for research purposes	Paeds NGS v1.0
+1609869-005-T	Pool_475_PAED	PIK3CA	c.316G>C p.Gly106Arg	37.0%	These results are intended for research purposes	Paeds NGS v1.0
+1609869-005-T	Pool_475_PAED	PTCH1	PTCH1 No evidence of amplification| ElisaIzquierdo:Deletion		These results are intended for research purposes	Paeds NGS v1.0
+1609869-005-T	Pool_475_PAED	TP53	c.400T>C p.Phe134Leu	5.0%	These results are intended for research purposes	Paeds NGS v1.0
+1609869-005-T	Pool_475_PAED	TSC1	TSC1 No evidence of amplification| ElisaIzquierdo:Deletion		These results are intended for research purposes	Paeds NGS v1.0
+1609870-047-T	Pool_475_PAED	AMER1	AMER1 Deletion		These results are intended for research purposes	Paeds NGS v1.0
+1609870-047-T	Pool_475_PAED	TP53	c.541C>T p.Arg181Cys	86.0%	These results are intended for research purposes	Paeds NGS v1.0
+1610015-11-1021-T	Pool_475_PAED	AMER1	c.1072C>T p.Arg358Ter	46.0%	These results are intended for research purposes	Paeds NGS v1.0
+1610015-11-1021-T	Pool_475_PAED	WT1	c.575_576insT p.Lys192fs	94.0%	These results are intended for research purposes	Paeds NGS v1.0
+1609530-11-682-T	Pool_476_PAED	FGFR1	FGFR1 tandem duplication exon9 to 18		These results are intended for research purposes	Paeds NGS v1.0
+1609532-11-1015-T	Pool_476_PAED	MYCN	MYCN Amplification		These results are intended for research purposes	Paeds NGS v1.0
+1609867-058-T	Pool_479_PAED	TP53	c.734G>A p.Gly245Asp; TP53 LOH	77.0%	These results are intended for research purposes	Paeds NGS v1.0
+1609868-060-T	Pool_479_PAED	NF1	c.1907C>G p.Ser636Cys; NF1 LOH	63.0%	These results are intended for research purposes	Paeds NGS v1.0
+1610116-067-T	Pool_479_PAED	CTNNB1	c.97T>C p.Ser33Pro	33.0%	These results are intended for research purposes	Paeds NGS v1.0
+16-10115z-11-1029-T	Pool_487_PAED	ATRX	c.4714_4756delTGGGATTGCTGCTGTGAGTCTGTGAAAAAAACAAAGAAATCTC p.Trp1572fs	5.0%	These results are intended for research purposes	Paeds NGS v1.0
+16-10115z-11-1029-T	Pool_487_PAED	CDKN2A	CDKN2A Deletion		These results are intended for research purposes	Paeds NGS v1.0
+16-10115z-11-1029-T	Pool_487_PAED	CDKN2B	CDKN2B Deletion		These results are intended for research purposes	Paeds NGS v1.0
+16-10115z-11-1029-T	Pool_487_PAED	KMT2D	c.3265A>T p.Ser1089Cys	19.0%	These results are intended for research purposes	Paeds NGS v1.0
+16-10115z-11-1029-T	Pool_487_PAED	MDM2	c.630G>C p.Trp210Cys	38.0%	These results are intended for research purposes	Paeds NGS v1.0
+16-10115z-11-1029-T	Pool_487_PAED	NF1	c.5902C>T p.Arg1968Ter	85.0%	These results are intended for research purposes	Paeds NGS v1.0
+16-10115z-11-1029-T	Pool_487_PAED	TP53	c.814G>T p.Val272Leu	85.0%	These results are intended for research purposes	Paeds NGS v1.0
+16-10218-01026-T	Pool_487_PAED	KIT	c.1669T>C p.Trp557Arg	69.0%	These results are intended for research purposes	Paeds NGS v1.0
+16-10219-11-1024-T	Pool_487_PAED	APC	c.6667T>A p.Ser2223Thr	5.0%	These results are intended for research purposes	Paeds NGS v1.0
+16-10251-zymo-043-T	Pool_487_PAED	CFL1	CFL1 No evidence of amplification| RidwanShaikh:No evidence of amplification| RidwanShaikh:Amplification		These results are intended for research purposes	Paeds NGS v1.0
+16-10251-zymo-043-T	Pool_487_PAED	MYCN	MYCN amplified		These results are intended for research purposes	Paeds NGS v1.0
+16-10251-zymo-043-T	Pool_487_PAED	PIK3CA	c.1624G>A p.Glu542Lys and c.1633G>A p.Glu545Lys	15.0% and 17.0%	These results are intended for research purposes	Paeds NGS v1.0
+1610286-071-T	Pool_499A_PAED	FGFR3	FGFR3 No evidence of amplification| RidwanShaikh:Amplification		These results are intended for research purposes	Paeds NGS v1.0
+1610286-071-T	Pool_499A_PAED	KMT2D	c.11220_11222delGCA p.Gln3745del and c.10821_10823delGCA p.Gln3612del	6.0% and 6.0%	These results are intended for research purposes	Paeds NGS v1.0
+1611060-068-T	Pool_499A_PAED	DDX3X	DDX3X low Amplification		These results are intended for research purposes	Paeds NGS v1.0
+1611060-068-T	Pool_499A_PAED	SETD2	c.5422C>A p.Pro1808Thr	11.0%	These results are intended for research purposes	Paeds NGS v1.0
+1610254-14614-T	Pool_499B_PAED	ARID1B	c.1678A>G p.Ile560Val	47.0%	These results are intended for research purposes	Paeds NGS v1.0
+1610254-14614-T	Pool_499B_PAED	CTNNB1	c.110C>T p.Ser37Phe	39.0%	These results are intended for research purposes	Paeds NGS v1.0
+1610793-15507-T	Pool_499B_PAED	CDK4	CDK4 Amplification		These results are intended for research purposes	Paeds NGS v1.0
+1610795-111017-T	Pool_519_PAED	MYCN	MYCN No evidence of amplification| EleniKoutroumanidou:Amplification		These results are intended for research purposes	Paeds NGS v1.0
+1611295-081-T	Pool_519_PAED	ARID1A	c.4634G>A p.Trp1545Ter	5.0%	These results are intended for research purposes	Paeds NGS v1.0
+1611295-081-T	Pool_519_PAED	BCOR	c.4257delC p.Phe1419fs	16.0%	These results are intended for research purposes	Paeds NGS v1.0
+1611354-00802-T	Pool_519_PAED	NF1	c.3917G>A p.Arg1306Gln	45.0%	These results are intended for research purposes	Paeds NGS v1.0
+1611445-076-T	Pool_519_PAED	ATM	ATM Deletion		These results are intended for research purposes	Paeds NGS v1.0
+1611466-JON-T	Pool_519_PAED	ATRX	c.1636G>A p.Gly546Arg	43.0%	Transcripts: ENST00000373344; These results are intended for research purposes	Paeds NGS v1.0
+1611466-JON-T	Pool_519_PAED	KMT2D	c.13531-1G>T 	44.0%	Transcripts: ENST00000301067; These results are intended for research purposes	Paeds NGS v1.0
+1611466-JON-T	Pool_519_PAED	SMARCA4	c.2274+1G>A 	41.0%	Transcripts: ENST00000450717; These results are intended for research purposes	Paeds NGS v1.0
+1700136-111014-T	Pool_521_PAED	NF1	NF1 LOH		These results are intended for research purposes	Paeds NGS v1.0
+1700137-111030-T	Pool_521_PAED	NRAS	c.182A>G p.Gln61Arg	32.0%	These results are intended for research purposes	Paeds NGS v1.0
+1700280-065-T	Pool_521_PAED	EWSR1	EWSR1-WT1 tx		These results are intended for research purposes	Paeds NGS v1.0
+1700280-065-T	Pool_521_PAED	TP53	c.734G>T p.Gly245Val	55.0%	These results are intended for research purposes	Paeds NGS v1.0
+1700281-080-T	Pool_521_PAED	MYCN	MYCN Amplification		These results are intended for research purposes	Paeds NGS v1.0
+1700282-066-T	Pool_521_PAED	FBXW7	c.1698G>A p.Trp566Ter and c.1430_1436dupGTTCTCG p.Arg479fs	42.0% and 18.0%	These results are intended for research purposes	Paeds NGS v1.0
+1700282-066-T	Pool_521_PAED	PTPRD	c.4948-1C>T 	5.0%	These results are intended for research purposes	Paeds NGS v1.0
+1700678-111010-T	Pool_539_promega_PAED	H3F3A	c.83A>T p.Lys28Met	38.0%	These results are intended for research purposes	Paeds NGS v1.0
+1700678-111010-T	Pool_539_promega_PAED	TP53	c.637C>T p.Arg213Ter	74.0%	These results are intended for research purposes	Paeds NGS v1.0
+1700679-111022-T	Pool_539_promega_PAED	CDKN2A	CDKN2A Deletion		These results are intended for research purposes	Paeds NGS v1.0
+1700679-111022-T	Pool_539_promega_PAED	CDKN2B	CDKN2B Deletion		These results are intended for research purposes	Paeds NGS v1.0
+1606997-024-T	Pool_558_PAED	ATM	ATM LOH		These results are intended for research purposes	PAED NGS v2.0
+1606997-024-T	Pool_558_PAED	YAP1	YAP1 LOH		These results are intended for research purposes	PAED NGS v2.0
+1611446-074-T	Pool_558_PAED	DDX1	DDX1 Amplification		These results are intended for research purposes	PAED NGS v2.0
+1611446-074-T	Pool_558_PAED	MYCN	MYCN Amplification		These results are intended for research purposes	PAED NGS v2.0
+1611446-074-T	Pool_558_PAED	TP53	c.742C>T p.Arg248Trp	74.0%	These results are intended for research purposes	PAED NGS v2.0
+1701631-070-T	Pool_558_PAED	ATM	11qTEL LOH (ATM,YAP1)		These results are intended for research purposes	PAED NGS v2.0
+1701631-070-T	Pool_558_PAED	ATRX	c.3814G>C p.Ala1272Pro	79.0%	These results are intended for research purposes	PAED NGS v2.0
+1701631-070-T	Pool_558_PAED	CCND1	CCND1 Amplification		These results are intended for research purposes	PAED NGS v2.0
+1701631-070-T	Pool_558_PAED	YAP1	11qTEL LOH (ATM,YAP1)		These results are intended for research purposes	PAED NGS v2.0
+1701634-062-T	Pool_559A_PAED	DDX3X	c.78T>G p.Asn26Lys	93.0%	These results are intended for research purposes	PAED NGS v2.0
+1702271-075-T	Pool_559_PAED	CCNE1	c.250G>A p.Asp84Asn	5.0%	Transcripts: ENST00000262643.3; These results are intended for research purposes	PAED NGS v2.0
+1702272-068-T	Pool_559_PAED	ARID1B	c.1346_1348dupCGC p.Pro450_Pro450dup	10.0%	These results are intended for research purposes	PAED NGS v2.0
+1702226-14-636-T	Pool_574S_PAED	EGFR	c.2071G>T p.Glu691Ter	45.0%	These results are intended for research purposes	PAED NGS v2.0
+1702227-15-324-T	Pool_574S_PAED	FGFR4	c.1471C>G p.Pro491Ala	11.0%	These results are intended for research purposes	PAED NGS v2.0
+1702273-084-T	Pool_574S_PAED	AMER1	AMER1 Deletion		These results are intended for research purposes	PAED NGS v2.0
+1702273-084-T	Pool_574S_PAED	ARID1B	c.3746C>G p.Pro1249Arg	28.0%	These results are intended for research purposes	PAED NGS v2.0
+1702273-084-T	Pool_574S_PAED	MAP2K2	c.22G>A p.Val8Met and c.-2C>G ; MAP2K2 Deletion	11.0% and 15.0%	These results are intended for research purposes	PAED NGS v2.0
+1702275-088-T	Pool_574S_PAED	H3F3A	c.83A>T p.Lys28Met	60.0%	These results are intended for research purposes	PAED NGS v2.0
+1702275-088-T	Pool_574S_PAED	TP53	c.469G>T p.Val157Phe	78.0%	These results are intended for research purposes	PAED NGS v2.0
+1703151-CLONE-A3-T	Pool_575R_PAED	ALK	c.3522C>A p.Phe1174Leu	28.0%	Transcripts: ENST00000389048; These results are intended for research purposes	PAED NGS v2.0
+1703151-CLONE-A3-T	Pool_575R_PAED	CDKN2A	CDKN2A Deletion		Transcripts: ENST00000498124,ENST00000361570,ENST00000498124,ENST00000304494; These results are intended for research purposes	PAED NGS v2.0
+1703151-CLONE-A3-T	Pool_575R_PAED	CDKN2B	CDKN2B Deletion		Transcripts: ENST00000276925; These results are intended for research purposes	PAED NGS v2.0
+1703151-CLONE-A3-T	Pool_575R_PAED	CHEK2	c.1229delC p.Thr410fs	47.0%	Transcripts: ENST00000328354; These results are intended for research purposes	PAED NGS v2.0
+1703151-CLONE-A3-T	Pool_575R_PAED	NRAS	c.181C>A p.Gln61Lys	48.0%	Transcripts: ENST00000369535; These results are intended for research purposes	PAED NGS v2.0
+1703151-CLONE-A3-T	Pool_575R_PAED	SMARCA4	c.2917C>T p.Arg973Trp	45.0%	Transcripts: ENST00000450717; These results are intended for research purposes	PAED NGS v2.0
+1703151-CLONE-A3-T	Pool_575R_PAED	TP53	c.491_500delAGCAGTCACA p.Lys164fs	88.0%	Transcripts: ENST00000269305,ENST00000420246.2,ENST00000455263.2; These results are intended for research purposes	PAED NGS v2.0
+1609536-15-659-T	Pool_575S_PAED	CTNNB1	c.98C>G p.Ser33Cys	54.0%	These results are intended for research purposes	PAED NGS v2.0
+1609536-15-659-T	Pool_575S_PAED	FBXW7	c.1418A>C p.His473Pro	48.0%	These results are intended for research purposes	PAED NGS v2.0
+1609536-15-659-T	Pool_575S_PAED	SMARCA4	c.2738C>T p.Pro913Leu	46.0%	These results are intended for research purposes	PAED NGS v2.0
+1703465-01-098-T	Pool_575S_PAED	CHEK2	CHEK2 Deletion		Transcripts: ENST00000328354; These results are intended for research purposes	PAED NGS v2.0
+1703465-01-098-T	Pool_575S_PAED	SMARCB1	SMARCB1 Deletion		Transcripts: ENST00000263121; These results are intended for research purposes	PAED NGS v2.0
+1703541-14-644-T	Pool_575S_PAED	NF2	c.784C>T p.Arg262Ter	62.0%	These results are intended for research purposes	PAED NGS v2.0
+1702273-084-T	Pool_593A_PAED	ARID1B	c.3746C>G p.Pro1249Arg	28.0%	These results are intended for research purposes	PAED NGS v2.0
+1702273-084-T	Pool_593A_PAED	ATRX	ATRX Deletion from exon 2 to exon 10		These results are intended for research purposes	PAED NGS v2.0
+1702273-084-T	Pool_593A_PAED	MAP2K2	MAP2K2 Deletion		These results are intended for research purposes	PAED NGS v2.0
+1702274-083-T	Pool_593S_PAED	PTCH1	c.907G>C p.Asp303His	60.0%	These results are intended for research purposes	PAED NGS v2.0
+1702274-083-T	Pool_593S_PAED	SMO	c.1685G>A p.Arg562Gln	78.0%	These results are intended for research purposes	PAED NGS v2.0
+1702275-088-T	Pool_593S_PAED	H3F3A	c.83A>T p.Lys28Met	52.0%	These results are intended for research purposes	PAED NGS v2.0
+1702275-088-T	Pool_593S_PAED	TP53	c.469G>T p.Val157Phe	78.0%	These results are intended for research purposes	PAED NGS v2.0
+1703605-087-T	Pool_594C_PAED	CDK12	c.643A>T p.Ser215Cys	8.0%	These results are intended for research purposes	PAED NGS v2.0
+1703605-087-T	Pool_594C_PAED	MYC	MYC Amplification		These results are intended for research purposes	PAED NGS v2.0
+1702033-161041-T	Pool_611_PAED	SMARCB1	c.1007delC p.Ala336fs	76.0%	These results are intended for research purposes	PAED NGS v2.0
+1702034-161036-T	Pool_611_PAED	SMARCB1	c.1005delG p.Thr335fs	78.0%	These results are intended for research purposes	PAED NGS v2.0
+1704034-6521-T	Pool_611_PAED	SMARCB1	SMARCB1 Deletion		These results are intended for research purposes	PAED NGS v2.0
+1703543-15510-T	Pool_620_PAED	EGFR	c.965G>T p.Gly322Val	20.0%	These results are intended for research purposes	PAED NGS v2.0
+1704673-111034-T	Pool_620_PAED	BRAF	No Variant Detected 		These results are intended for research purposes	PAED NGS v2.0
+1704673-111034-T	Pool_620_PAED	CCND1	No Variant Detected 		These results are intended for research purposes	PAED NGS v2.0
+1704673-111034-T	Pool_620_PAED	CDK12	No Variant Detected 		These results are intended for research purposes	PAED NGS v2.0
+1704673-111034-T	Pool_620_PAED	EGFR	No Variant Detected 		These results are intended for research purposes	PAED NGS v2.0
+1704673-111034-T	Pool_620_PAED	ERBB2	No Variant Detected 		These results are intended for research purposes	PAED NGS v2.0
+1704673-111034-T	Pool_620_PAED	EZH2	No Variant Detected 		These results are intended for research purposes	PAED NGS v2.0
+1704673-111034-T	Pool_620_PAED	IDH2	No Variant Detected 		These results are intended for research purposes	PAED NGS v2.0
+1704673-111034-T	Pool_620_PAED	KRAS	No Variant Detected 		These results are intended for research purposes	PAED NGS v2.0
+1704673-111034-T	Pool_620_PAED	MYCN	No Variant Detected 		These results are intended for research purposes	PAED NGS v2.0
+1704673-111034-T	Pool_620_PAED	NF2	No Variant Detected 		These results are intended for research purposes	PAED NGS v2.0
+1704673-111034-T	Pool_620_PAED	PIK3CA	No Variant Detected 		These results are intended for research purposes	PAED NGS v2.0
+1704673-111034-T	Pool_620_PAED	PMS2	No Variant Detected 		These results are intended for research purposes	PAED NGS v2.0
+1704673-111034-T	Pool_620_PAED	TERT	No Variant Detected 		These results are intended for research purposes	PAED NGS v2.0
+1704673-111034-T	Pool_620_PAED	TSC2	No Variant Detected 		These results are intended for research purposes	PAED NGS v2.0
+1704673-111034-T	Pool_620_PAED	chr20	No Variant Detected 		These results are intended for research purposes	PAED NGS v2.0
+1704673-111034-T	Pool_620_PAED	chr9	No Variant Detected 		These results are intended for research purposes	PAED NGS v2.0
+1704675-111019-T	Pool_620_PAED	TP53	TP53:AMER1tx		These results are intended for research purposes	PAED NGS v2.0
+1704677-111035-T	Pool_620_PAED	CDK4	CDK4 Amplification		These results are intended for research purposes	PAED NGS v2.0
+1704677-111035-T	Pool_620_PAED	CIC	c.4414G>A p.Ala1472Thr	46.0%	These results are intended for research purposes	PAED NGS v2.0
+1704677-111035-T	Pool_620_PAED	PTCH1	c.-4->GGC 	55.0%	These results are intended for research purposes	PAED NGS v2.0
+1704679-11989-T	Pool_620_PAED	DDX1	DDX1 Amplification		These results are intended for research purposes	PAED NGS v2.0
+1704679-11989-T	Pool_620_PAED	MYCN	MYCN Amplification		These results are intended for research purposes	PAED NGS v2.0
+1704679-11989-T	Pool_620_PAED	PIK3CA	c.3073A>G p.Thr1025Ala	5.0%	These results are intended for research purposes	PAED NGS v2.0
+1704679-11989-T	Pool_620_PAED	TERT	c.2261A>C p.His754Pro	28.0%	These results are intended for research purposes	PAED NGS v2.0
+1704031-077-T	Pool_636_PAED	BCOR	c.468_472delAAAAA p.Lys157fs	38.0%	These results are intended for research purposes	PAED NGS v2.0
+1704031-077-T	Pool_636_PAED	PMS2	c.1408C>T p.Pro470Ser	5.0%	These results are intended for research purposes	PAED NGS v2.0
+1702225-14638-T	Pool_637_PAED	ATRX	c.1615C>T p.Gln539Ter	35.0%	These results are intended for research purposes	PAED NGS v2.0
+1702225-14638-T	Pool_637_PAED	NF1	c.1466A>G p.Tyr489Cys	28.0%	These results are intended for research purposes	PAED NGS v2.0
+1702225-14638-T	Pool_637_PAED	TP53	c.455C>T p.Pro152Leu	62.0%	These results are intended for research purposes	PAED NGS v2.0
+1702225-14638-T	Pool_637_PAED	TSC1	c.183delG p.Leu61fs	17.0%	These results are intended for research purposes	PAED NGS v2.0
+1703540-14641-T	Pool_637_PAED	TSC2	c.2009C>T p.Pro670Leu	54.0%	These results are intended for research purposes	PAED NGS v2.0
+1704250-14646-T	Pool_637_PAED	FGFR1	FGFR1 No evidence of amplification| EleniKoutroumanidou:No evidence of amplification| EleniKoutroumanidou:Amplification		These results are intended for research purposes	PAED NGS v2.0
+1704250-14646-T	Pool_637_PAED	FGFR4	c.1648G>C p.Val550Leu	93.0%	These results are intended for research purposes	PAED NGS v2.0
+1704250-14646-T	Pool_637_PAED	MYC	MYC No evidence of amplification| EleniKoutroumanidou:No evidence of amplification| EleniKoutroumanidou:Amplification		These results are intended for research purposes	PAED NGS v2.0
+1704746-089-T	Pool_637_PAED	CDK4	CDK4 Amplification		These results are intended for research purposes	PAED NGS v2.0
+1705422-097-T	Pool_638B_PAED	CDK4	CDK4 Amplification		These results are intended for research purposes	PAED NGS v2.0
+1705422-097-T	Pool_638B_PAED	TP53	c.817C>T p.Arg273Cys	48.0%	These results are intended for research purposes	PAED NGS v2.0
+1705940-11938-T	Pool_638B_PAED	TERT	c.1679T>C p.Phe560Ser	11.0%	These results are intended for research purposes	PAED NGS v2.0
+1705942-096-T	Pool_638_PAED	DDX3X	DDX3X No evidence of amplification| EleniKoutroumanidou:Amplification		Transcripts: ENST00000399959; These results are intended for research purposes	PAED NGS v2.0
+1708031-11804-T	Pool_655_PAED	CTNNB1	c.121A>G p.Thr41Ala	24.0%	Transcripts: ENST00000349496.5; These results are intended for research purposes	PAED NGS v2.0
+1707422-14660-T	Pool_656_PAED	TP53	c.159G>A p.Trp53Ter	59.0%	These results are intended for research purposes	PAED NGS v2.0
+1707419-14656-T	Pool_657_PAED	AMER1	c.1045C>T p.Gln349Ter	41.0%	Transcripts: ENST00000330258; These results are intended for research purposes	PAED NGS v2.0
+1707419-14656-T	Pool_657_PAED	HIST1H3C	c.83A>T p.Lys28Met	40.0%	Transcripts: ENST00000612966; These results are intended for research purposes	PAED NGS v2.0
+1707419-14656-T	Pool_657_PAED	MYCN	c.131C>T p.Pro44Leu	41.0%	Transcripts: ENST00000281043; These results are intended for research purposes	PAED NGS v2.0
+1707419-14656-T	Pool_657_PAED	SMARCA2	c.4163_4165dupACG p.Asn1388_Ala1389insAsp	32.0%	Transcripts: ENST00000349721.2; These results are intended for research purposes	PAED NGS v2.0
+1707919-111031-T	Pool_657_PAED	KRAS	c.53C>A p.Ala18Asp	42.0%	Transcripts: ENST00000256078; These results are intended for research purposes	PAED NGS v2.0
+1707712-100-T	Pool_697B_NEXTSEQ	AMER1	c.1886A>C p.Gln629Pro	53.0%	Transcripts: ENST00000330258.3; These results are intended for research purposes	PAED NGS v2.0
+1707785-106-T	Pool_697B_NEXTSEQ	ATRX	c.6572A>G p.Asp2191Gly	70.0%	Transcripts: ENST00000373344.5; These results are intended for research purposes	PAED NGS v2.0
+1707785-106-T	Pool_697B_NEXTSEQ	IDH1	c.395G>A p.Arg132His	67.0%	Transcripts: ENST00000415913.1; These results are intended for research purposes	PAED NGS v2.0
+1707785-106-T	Pool_697B_NEXTSEQ	MET	MET Amplification		These results are intended for research purposes	PAED NGS v2.0
+1707785-106-T	Pool_697B_NEXTSEQ	RB1	c.1215+1G>A 	91.0%	Transcripts: ENST00000267163.4; These results are intended for research purposes	PAED NGS v2.0
+1707785-106-T	Pool_697B_NEXTSEQ	TERT	c.-403C>T 	34.0%	Transcripts: ENST00000522877.1; These results are intended for research purposes	PAED NGS v2.0
+1707785-106-T	Pool_697B_NEXTSEQ	TP53	c.824G>A p.Cys275Tyr	98.0%	Transcripts: ENST00000420246.2; These results are intended for research purposes	PAED NGS v2.0
+1708432-111-T	Pool_697B_NEXTSEQ	EZH2	c.47G>T p.Arg16Leu	39.0%	Transcripts: ENST00000320356.2; These results are intended for research purposes	PAED NGS v2.0
+1708432-111-T	Pool_697B_NEXTSEQ	NF1	c.4231C>G p.Leu1411Val	61.0%	Transcripts: ENST00000358273.4; These results are intended for research purposes	PAED NGS v2.0
+1708432-111-T	Pool_697B_NEXTSEQ	PIK3CA	c.1624G>A p.Glu542Lys	30.0%	Transcripts: ENST00000263967.3; These results are intended for research purposes	PAED NGS v2.0
+1708432-111-T	Pool_697B_NEXTSEQ	TP53	c.586C>T p.Arg196Ter	56.0%	Transcripts: ENST00000420246.2; These results are intended for research purposes	PAED NGS v2.0
+1708433-110-T	Pool_697B_NEXTSEQ	ALK	c.3522C>A p.Phe1174Leu	17.0%	Transcripts: ENST00000389048.3; These results are intended for research purposes	PAED NGS v2.0
+1709533-11972-T	Pool_697B_NEXTSEQ	CTNNB1	c.98C>T p.Ser33Phe	34.0%	Transcripts: ENST00000349496.5; These results are intended for research purposes	PAED NGS v2.0
+1709534-111149-T	Pool_697B_NEXTSEQ	CTNNB1	c.110C>T p.Ser37Phe	20.0%	Transcripts: ENST00000349496.5; These results are intended for research purposes	PAED NGS v2.0
+1709814-102-T	Pool_697B_NEXTSEQ	CTNNB1	c.121A>G p.Thr41Ala	42.0%	Transcripts: ENST00000349496.5; These results are intended for research purposes	PAED NGS v2.0
+1709815-108-T	Pool_697B_NEXTSEQ	FBXW7	c.1338G>T p.Trp446Cys and c.1154G>A p.Arg385His	26.0% and 33.0%	Transcripts: ENST00000263981.5; These results are intended for research purposes	PAED NGS v2.0
+1709815-108-T	Pool_697B_NEXTSEQ	MYC	MYC No evidence of amplification| EleniKoutroumanidou:Amplification		These results are intended for research purposes	PAED NGS v2.0
+1709815-108-T	Pool_697B_NEXTSEQ	PTCH1	PTCH1 Deletion		These results are intended for research purposes	PAED NGS v2.0
+1709816-115-T	Pool_697B_NEXTSEQ	BRAF	c.1799T>A p.Val600Glu	31.0%	Transcripts: ENST00000288602.6; These results are intended for research purposes	PAED NGS v2.0
+1709816-115-T	Pool_697B_NEXTSEQ	CDKN2A	CDKN2A Deletion		These results are intended for research purposes	PAED NGS v2.0
+1709879-105-T	Pool_697B_NEXTSEQ	MYCN	MYCN Amplification		These results are intended for research purposes	PAED NGS v2.0
+1709548-121-T	Pool_705C_NEXTSEQ	H3F3A	c.83A>T p.Lys28Met	43.0%	Transcripts: ENST00000366813.1; These results are intended for research purposes	PAED NGS v2.0
+1709550-138-T	Pool_705C_NEXTSEQ	H3F3A	c.83A>T p.Lys28Met	69.0%	Transcripts: ENST00000366813.1; These results are intended for research purposes	PAED NGS v2.0
+1709550-138-T	Pool_705C_NEXTSEQ	TP53	c.817C>T p.Arg273Cys	85.0%	Transcripts: ENST00000420246.2; These results are intended for research purposes	PAED NGS v2.0
+1709552-134-T	Pool_705C_NEXTSEQ	H3F3A	c.83A>T p.Lys28Met	69.0%	Transcripts: ENST00000366813.1; These results are intended for research purposes	PAED NGS v2.0
+1709552-134-T	Pool_705C_NEXTSEQ	KIT	KIT Amplification		These results are intended for research purposes	PAED NGS v2.0
+1709552-134-T	Pool_705C_NEXTSEQ	PDGFRA	PDGFRA Amplification		These results are intended for research purposes	PAED NGS v2.0
+1709552-134-T	Pool_705C_NEXTSEQ	TP53	c.97-1G>C 	90.0%	Transcripts: ENST00000420246.2; These results are intended for research purposes	PAED NGS v2.0
+1709554-133-T	Pool_705C_NEXTSEQ	H3F3A	c.83A>T p.Lys28Met	59.0%	Transcripts: ENST00000366813.1; These results are intended for research purposes	PAED NGS v2.0
+1709554-133-T	Pool_705C_NEXTSEQ	PIK3CA	c.1624G>A p.Glu542Lys	12.0%	Transcripts: ENST00000263967.3; These results are intended for research purposes	PAED NGS v2.0
+1709554-133-T	Pool_705C_NEXTSEQ	TP53	c.711G>A p.Met237Ile	75.0%	Transcripts: ENST00000420246.2; These results are intended for research purposes	PAED NGS v2.0
+1709557-131-T	Pool_705C_NEXTSEQ	ASXL1	c.3202C>T p.Arg1068Ter	42.0%	Transcripts: ENST00000375687.4; These results are intended for research purposes	PAED NGS v2.0
+1709557-131-T	Pool_705C_NEXTSEQ	H3F3A	c.83A>T p.Lys28Met	45.0%	Transcripts: ENST00000366813.1; These results are intended for research purposes	PAED NGS v2.0
+1709557-131-T	Pool_705C_NEXTSEQ	TP53	c.818G>A p.Arg273His	68.0%	Transcripts: ENST00000420246.2; These results are intended for research purposes	PAED NGS v2.0
+1709563-125-T	Pool_705C_NEXTSEQ	ATRX	c.6406G>T p.Asp2136Tyr	80.0%	Transcripts: ENST00000373344.5; These results are intended for research purposes	PAED NGS v2.0
+1709563-125-T	Pool_705C_NEXTSEQ	H3F3A	c.83A>T p.Lys28Met	64.0%	Transcripts: ENST00000366813.1; These results are intended for research purposes	PAED NGS v2.0
+1709563-125-T	Pool_705C_NEXTSEQ	PIK3CA	PIK3CA No evidence of amplification| EleniKoutroumanidou:Amplification		These results are intended for research purposes	PAED NGS v2.0
+1709563-125-T	Pool_705C_NEXTSEQ	PPM1D	c.1434C>A p.Cys478Ter	41.0%	Transcripts: ENST00000305921.3; These results are intended for research purposes	PAED NGS v2.0
+1709555-133-T	Pool_705D_NEXTSEQ	H3F3A	c.83A>T p.Lys28Met	58.0%	Transcripts: ENST00000366813.1; These results are intended for research purposes	PAED NGS v2.0
+1709555-133-T	Pool_705D_NEXTSEQ	IGF1R	IGF1R Amplification		These results are intended for research purposes	PAED NGS v2.0
+1709555-133-T	Pool_705D_NEXTSEQ	PIK3CA	c.1624G>A p.Glu542Lys 8.0% 		Transcripts: ENST00000263967.3; These results are intended for research purposes	PAED NGS v2.0
+1709555-133-T	Pool_705D_NEXTSEQ	TP53	c.711G>A p.Met237Ile	80.0%	Transcripts: ENST00000420246.2; These results are intended for research purposes	PAED NGS v2.0
+1709559-117-T	Pool_705D_NEXTSEQ	H3F3A	c.83A>T p.Lys28Met	69.0%	Transcripts: ENST00000366813.1; These results are intended for research purposes	PAED NGS v2.0
+1709559-117-T	Pool_705D_NEXTSEQ	PIK3R1	c.1967_1968insTATTG p.His450_Glu451insValPhe	79.0%	Transcripts: ENST00000521381.1; These results are intended for research purposes	PAED NGS v2.0
+1709559-117-T	Pool_705D_NEXTSEQ	TP53	c.818G>A p.Arg273His	85.0%	Transcripts: ENST00000420246.2; These results are intended for research purposes	PAED NGS v2.0
+1709561-118-T	Pool_705D_NEXTSEQ	IGF1R	Structural variant detected		These results are intended for research purposes	PAED NGS v2.0
+1709561-118-T	Pool_705D_NEXTSEQ	MYCN	MYCN Amplification		These results are intended for research purposes	PAED NGS v2.0
+1709561-118-T	Pool_705D_NEXTSEQ	TP53	c.508_509delAC p.Thr170fs	78.0%	Transcripts: ENST00000420246.2; These results are intended for research purposes	PAED NGS v2.0
+1709564-125-T	Pool_705D_NEXTSEQ	ATRX	c.6406G>T p.Asp2136Tyr	85.0%	Transcripts: ENST00000373344.5; These results are intended for research purposes	PAED NGS v2.0
+1709564-125-T	Pool_705D_NEXTSEQ	H3F3A	c.83A>T p.Lys28Met	62.0%	Transcripts: ENST00000366813.1; These results are intended for research purposes	PAED NGS v2.0
+1709564-125-T	Pool_705D_NEXTSEQ	PIK3CA	PIK3CA No evidence of amplification| EleniKoutroumanidou:Amplification		These results are intended for research purposes	PAED NGS v2.0
+1709564-125-T	Pool_705D_NEXTSEQ	PPM1D	c.1434C>A p.Cys478Ter	39.0%	Transcripts: ENST00000305921.3; These results are intended for research purposes	PAED NGS v2.0
+1709564-125-T	Pool_705D_NEXTSEQ	PTEN	c.512A>C p.Gln171Pro	67.0%	Transcripts: ENST00000371953.3; These results are intended for research purposes	PAED NGS v2.0
+1709566-126-T	Pool_705D_NEXTSEQ	ATRX	c.4540C>T p.Arg1514Ter	75.0%	Transcripts: ENST00000373344.5; These results are intended for research purposes	PAED NGS v2.0
+1709566-126-T	Pool_705D_NEXTSEQ	H3F3A	c.83A>T p.Lys28Met	48.0%	Transcripts: ENST00000366813.1; These results are intended for research purposes	PAED NGS v2.0
+1709566-126-T	Pool_705D_NEXTSEQ	TP53	c.766_782+1CACTGGAAGACTCCAGG>- p.TLEDSS256fs	70.0%	Transcripts: ENST00000420246.2; These results are intended for research purposes	PAED NGS v2.0
+1709568-128-T	Pool_705D_NEXTSEQ	CDKN2A	CDKN2A Deletion		These results are intended for research purposes	PAED NGS v2.0
+1709568-128-T	Pool_705D_NEXTSEQ	CDKN2B	CDKN2B Deletion		These results are intended for research purposes	PAED NGS v2.0
+1709568-128-T	Pool_705D_NEXTSEQ	PIK3CA	c.3140A>G p.His1047Arg	41.0%	Transcripts: ENST00000263967.3; These results are intended for research purposes	PAED NGS v2.0
+1709568-128-T	Pool_705D_NEXTSEQ	SMARCA2	SMARCA2 Deletion		These results are intended for research purposes	PAED NGS v2.0
+1709568-128-T	Pool_705D_NEXTSEQ	TP53	c.742C>T p.Arg248Trp and c.644G>A p.Ser215Asn	39.0% and 47.0%	Transcripts: ENST00000420246.2; These results are intended for research purposes	PAED NGS v2.0
+1707713-103-T	Pool_715A_NEXTSEQ	PTEN	c.675T>G p.Tyr225Ter	18.0%	Transcripts: ENST00000371953.3; These results are intended for research purposes	PAED NGS v2.0
+1707713-103-T	Pool_715A_NEXTSEQ	RB1	c.2116T>C p.Cys706Arg	16.0%	Transcripts: ENST00000267163.4; These results are intended for research purposes	PAED NGS v2.0
+1707713-103-T	Pool_715A_NEXTSEQ	TP53	c.713G>A p.Cys238Tyr	16.0%	Transcripts: ENST00000420246.2; These results are intended for research purposes	PAED NGS v2.0
+1707713-103-T	Pool_715A_NEXTSEQ	TSC2	c.211A>T p.Lys71Ter	18.0%	Transcripts: ENST00000219476.3; These results are intended for research purposes	PAED NGS v2.0
+1708041-15583-T	Pool_715A_NEXTSEQ	ATRX	c.4745dupA p.Thr1582fs	44.0%	Transcripts: ENST00000373344.5; These results are intended for research purposes	PAED NGS v2.0
+1708041-15583-T	Pool_715A_NEXTSEQ	H3F3A	c.103G>A p.Gly35Arg	74.0%	Transcripts: ENST00000366813.1; These results are intended for research purposes	PAED NGS v2.0
+1708041-15583-T	Pool_715A_NEXTSEQ	RB1	c.1935_1936delCT p.Ser646fs	90.0%	Transcripts: ENST00000267163.4; These results are intended for research purposes	PAED NGS v2.0
+1708041-15583-T	Pool_715A_NEXTSEQ	TP53	c.*131C>T 	94.0%	Transcripts: ENST00000420246.2; These results are intended for research purposes	PAED NGS v2.0
+1708042-15700-T	Pool_715A_NEXTSEQ	CCND1	c.859C>T p.Pro287Ser	40.0%	Transcripts: ENST00000227507.2; These results are intended for research purposes	PAED NGS v2.0
+1708042-15700-T	Pool_715A_NEXTSEQ	KRAS	c.34G>T p.Gly12Cys	62.0%	Transcripts: ENST00000256078.4; These results are intended for research purposes	PAED NGS v2.0
+1708042-15700-T	Pool_715A_NEXTSEQ	SETD2	c.3978_3984delAGTACCA p.Gln1326fs	37.0%	Transcripts: ENST00000409792.3; These results are intended for research purposes	PAED NGS v2.0
+1710499-107-T	Pool_715A_NEXTSEQ	ALK	SQSTM1-ALK tx		These results are intended for research purposes	PAED NGS v2.0
+1710500-119-T	Pool_715A_NEXTSEQ	ACVR1	c.983G>A p.Gly328Glu	48.0%	Transcripts: ENST00000263640.3; These results are intended for research purposes	PAED NGS v2.0
+1710500-119-T	Pool_715A_NEXTSEQ	HIST1H3B	c.83A>T p.Lys28Met	41.0%	Transcripts: ENST00000244661.2; These results are intended for research purposes	PAED NGS v2.0
+1710500-119-T	Pool_715A_NEXTSEQ	PIK3CA	c.1624G>A p.Glu542Lys	56.0%	Transcripts: ENST00000263967.3; These results are intended for research purposes	PAED NGS v2.0
+1711053-15654-T	Pool_715A_NEXTSEQ	TP53	c.581T>C p.Leu194Pro	6.0%	Transcripts: ENST00000420246.2; These results are intended for research purposes	PAED NGS v2.0
+1711176-120-T	Pool_715A_NEXTSEQ	ATRX	c.4745dupA p.Thr1582fs	51.0%	Transcripts: ENST00000373344.5; These results are intended for research purposes	PAED NGS v2.0
+1711176-120-T	Pool_715A_NEXTSEQ	H3F3A	c.103G>A p.Gly35Arg	60.0%	Transcripts: ENST00000366813.1; These results are intended for research purposes	PAED NGS v2.0
+1711176-120-T	Pool_715A_NEXTSEQ	TP53	c.*131C>T 	91.0%	Transcripts: ENST00000420246.2; These results are intended for research purposes	PAED NGS v2.0
+1710282-19244-T	Pool_715A_ReRun_Dual_NEXTSEQ	BRAF	c.1406G>C p.Gly469Ala	30.0%	Transcripts: ENST00000288602.6; These results are intended for research purposes	PAED NGS v2.0
+1710282-19244-T	Pool_715A_ReRun_Dual_NEXTSEQ	CHEK2	c.1392delT p.Leu464fs	53.0%	Transcripts: ENST00000382580.2; These results are intended for research purposes	PAED NGS v2.0
+1711161-101-T	Pool_715B_NEXTSEQ	FGFR3	FGFR3 No evidence of amplification| EleniKoutroumanidou:Amplification		Transcripts: ENST00000340107,ENST00000440486.2; These results are intended for research purposes	PAED NGS v2.0
+1707318-14658-T	Pool_731A_NEXTSEQ	ATRX	ATRX Deletion		These results are intended for research purposes	PAED NGS v2.0
+1707417-41269-T	Pool_731A_NEXTSEQ	HIST1H3B	HIST1H3B Amplification		These results are intended for research purposes	PAED NGS v2.0
+1707417-41269-T	Pool_731A_NEXTSEQ	HIST1H3C	HIST1H3C Amplification		These results are intended for research purposes	PAED NGS v2.0
+1707417-41269-T	Pool_731A_NEXTSEQ	PIK3CA	c.1432G>T p.Asp478Tyr	47.0%	Transcripts: ENST00000263967.3; These results are intended for research purposes	PAED NGS v2.0
+1707417-41269-T	Pool_731A_NEXTSEQ	RB1	c.1403T>A p.Leu468Ter	74.0%	Transcripts: ENST00000267163.4; These results are intended for research purposes	PAED NGS v2.0
+1707423-14663-T	Pool_731A_NEXTSEQ	ARID1B	c.230C>T p.Ala77Val	57.0%	Transcripts: ENST00000346085.5; These results are intended for research purposes	PAED NGS v2.0
+1707423-14663-T	Pool_731A_NEXTSEQ	CTNNB1	c.131_133delCTT p.Ser45del	14.0%	Transcripts: ENST00000349496.5; These results are intended for research purposes	PAED NGS v2.0
+1707917-111013-T	Pool_731A_NEXTSEQ	ALK	c.3824G>T p.Arg1275Leu	55.0%	Transcripts: ENST00000389048.3; These results are intended for research purposes	PAED NGS v2.0
+1707917-111013-T	Pool_731A_NEXTSEQ	BCOR	c.4304C>T p.Pro1435Leu	31.0%	Transcripts: ENST00000378444.4; These results are intended for research purposes	PAED NGS v2.0
+1707917-111013-T	Pool_731A_NEXTSEQ	PPM1D	c.1333delT p.Phe445fs	35.0%	Transcripts: ENST00000305921.3; These results are intended for research purposes	PAED NGS v2.0
+1708037-111135-T	Pool_731A_NEXTSEQ	CDKN2A	c.94C>T p.His32Tyr	7.0%	Transcripts: ENST00000479692.2; These results are intended for research purposes	PAED NGS v2.0
+1708037-111135-T	Pool_731A_NEXTSEQ	TERT	TERT Amplification		These results are intended for research purposes	PAED NGS v2.0
+1708037-111135-T	Pool_731A_NEXTSEQ	TP53	c.534C>A p.His178Gln	67.0%	Transcripts: ENST00000420246.2; These results are intended for research purposes	PAED NGS v2.0
+1710283-41252-T	Pool_731A_NEXTSEQ	BCOR	c.3848-2A>T 	67.0%	Transcripts: ENST00000378444.4; These results are intended for research purposes	PAED NGS v2.0
+1707920-111137-T	Pool_731B_NEXTSEQ	CCND2	c.841C>T p.Pro281Ser	16.0%	Transcripts: ENST00000261254.3; These results are intended for research purposes	PAED NGS v2.0
+1707920-111137-T	Pool_731B_NEXTSEQ	CDK4	CDK4 Amplification		These results are intended for research purposes	PAED NGS v2.0
+1708040-121170-T	Pool_731B_NEXTSEQ	CTNNB1	c.134C>T p.Ser45Phe	15.0%	Transcripts: ENST00000349496.5; These results are intended for research purposes	PAED NGS v2.0
+1711177-114-T	Pool_731B_NEXTSEQ	CDK4	CDK4 Amplification		These results are intended for research purposes	PAED NGS v2.0
+1711177-114-T	Pool_731B_NEXTSEQ	MDM4	MDM4 Amplification		These results are intended for research purposes	PAED NGS v2.0
+1712394-125-T	Pool_731B_NEXTSEQ	H3F3A	c.83A>T p.Lys28Met	39.0%	Transcripts: ENST00000366813.1; These results are intended for research purposes	PAED NGS v2.0
+1712394-125-T	Pool_731B_NEXTSEQ	PTEN	c.164+1G>A 	56.0%	Transcripts: ENST00000371953.3; These results are intended for research purposes	PAED NGS v2.0
+1712394-125-T	Pool_731B_NEXTSEQ	TP53	c.844C>T p.Arg282Trp and c.472C>G p.Arg158Gly	37.0% and 31.0%	Transcripts: ENST00000420246.2; These results are intended for research purposes	PAED NGS v2.0
+1709878-116-T	Pool_731_NEXTSEQ	DDX1	DDX1 Amplification		These results are intended for research purposes	PAED NGS v2.0
+1709878-116-T	Pool_731_NEXTSEQ	MYCN	MYCN Amplification		These results are intended for research purposes	PAED NGS v2.0
+1711159-121-T	Pool_731_NEXTSEQ	ATM	11q loss including ATM		These results are intended for research purposes	PAED NGS v2.0
+1711159-121-T	Pool_731_NEXTSEQ	EGFR	c.896A>G p.Glu299Gly	36.0%	Transcripts: ENST00000455089.1; These results are intended for research purposes	PAED NGS v2.0
+1711159-121-T	Pool_731_NEXTSEQ	PMS2	PMS2 Deletion| RidwanShaikh:No evidence of amplification		These results are intended for research purposes	PAED NGS v2.0
+1711159-121-T	Pool_731_NEXTSEQ	YAP1	YAP1 Deletion| RidwanShaikh:No evidence of amplification		These results are intended for research purposes	PAED NGS v2.0
+1712392-123-T	Pool_731_NEXTSEQ	CDKN2A	CDKN2A Deletion		These results are intended for research purposes	PAED NGS v2.0
+1712392-123-T	Pool_731_NEXTSEQ	CDKN2B	CDKN2B Deletion| RidwanShaikh:No evidence of amplification		These results are intended for research purposes	PAED NGS v2.0
+1712897-SMARCA4-T	Pool_731_NEXTSEQ	SMARCA4	c.1738delA p.Lys588fs and c.1741A>T p.Lys581Ter	51.0% and 44.0%	Transcripts: ENST00000541122.2; These results are intended for research purposes	PAED NGS v2.0
+1713173-111036-T	Pool_746A_MOD_NEXTSEQ	CHEK2	CHEK2 Deletion		These results are intended for research purposes	PAED NGS v2.0
+1713173-111036-T	Pool_746A_MOD_NEXTSEQ	PHOX2B	c.919_922dupGCCT p.Ala307fs	42.0%	Transcripts: ENST00000226382.2; These results are intended for research purposes	PAED NGS v2.0
+1713521-113-T	Pool_746_NEXTSEQ	ASXL1	c.2269C>T p.Gln757Ter	26.0%	Transcripts: ENST00000375687.4; These results are intended for research purposes	PAED NGS v2.0
+1713521-113-T	Pool_746_NEXTSEQ	CDKN2A	CDKN2A Deletion		These results are intended for research purposes	PAED NGS v2.0
+1713521-113-T	Pool_746_NEXTSEQ	CDKN2B	CDKN2B Deletion		These results are intended for research purposes	PAED NGS v2.0
+1713521-113-T	Pool_746_NEXTSEQ	NRAS	c.182A>G p.Gln61Arg	42.0%	Transcripts: ENST00000369535.4; These results are intended for research purposes	PAED NGS v2.0
+1800284-132-T	Pool_746_NEXTSEQ	ATRX	c.2081delC p.Pro694fs	24.0%	Transcripts: ENST00000373344.5; These results are intended for research purposes	PAED NGS v2.0
+1800285-131-T	Pool_746_NEXTSEQ	H3F3A	c.83A>T p.Lys28Met	41.0%	Transcripts: ENST00000366813.1; These results are intended for research purposes	PAED NGS v2.0
+1800285-131-T	Pool_746_NEXTSEQ	KIT	KIT Amplification		These results are intended for research purposes	PAED NGS v2.0
+1800285-131-T	Pool_746_NEXTSEQ	PDGFRA	PDGFRA Amplification		These results are intended for research purposes	PAED NGS v2.0
+1800285-131-T	Pool_746_NEXTSEQ	TP53	c.287_288delCT p.Ser96fs	59.0%	Transcripts: ENST00000420246.2; These results are intended for research purposes	PAED NGS v2.0
+1608211-MOLDX-T	Pool_758A_NEXTSEQ	ARID1A	c.5499G>A p.Trp1833Ter	81.0%	Transcripts: ENST00000457599.2; These results are intended for research purposes	PAED NGS v2.0
+1608211-MOLDX-T	Pool_758A_NEXTSEQ	ATM	c.5644C>T p.Arg1882Ter	75.0%	Transcripts: ENST00000452508.2; These results are intended for research purposes	PAED NGS v2.0
+1608211-MOLDX-T	Pool_758A_NEXTSEQ	CDKN2A	CDKN2A Amplification		These results are intended for research purposes	PAED NGS v2.0
+1608211-MOLDX-T	Pool_758A_NEXTSEQ	CDKN2B	CDKN2B Amplification		These results are intended for research purposes	PAED NGS v2.0
+1608211-MOLDX-T	Pool_758A_NEXTSEQ	MAP2K2	MAP2K2 Deletion		These results are intended for research purposes	PAED NGS v2.0
+1608211-MOLDX-T	Pool_758A_NEXTSEQ	PIK3CA	c.3140A>T p.His1047Leu	40.0%	Transcripts: ENST00000263967.3; These results are intended for research purposes	PAED NGS v2.0
+1608211-MOLDX-T	Pool_758A_NEXTSEQ	SMARCA4	SMARCA4 Deletion		These results are intended for research purposes	PAED NGS v2.0
+1707420-14662-T	Pool_758A_NEXTSEQ	ARID1A	c.1010delG p.Trp337fs	26.0%	Transcripts: ENST00000457599.2; These results are intended for research purposes	PAED NGS v2.0
+1707420-14662-T	Pool_758A_NEXTSEQ	CTNNB1	c.122C>T p.Thr41Ile	28.0%	Transcripts: ENST00000349496.5; These results are intended for research purposes	PAED NGS v2.0
+1711056-14669-T	Pool_758A_NEXTSEQ	DROSHA	c.3451G>C p.Asp1151His	39.0%	Transcripts: ENST00000511367.2; These results are intended for research purposes	PAED NGS v2.0
+1712281-130-T	Pool_758A_NEXTSEQ	ATRX	c.5258A>G p.Asn1753Ser	48.0%	Transcripts: ENST00000373344.5; These results are intended for research purposes	PAED NGS v2.0
+1712281-130-T	Pool_758A_NEXTSEQ	H3F3A	c.83A>T p.Lys28Met	68.0%	Transcripts: ENST00000366813.1; These results are intended for research purposes	PAED NGS v2.0
+1712281-130-T	Pool_758A_NEXTSEQ	PDGFRA	c.1587_1628dupTGCAGTCCTGGTGCTGTTGGTGATTGTGATCATCTCACTTAT p.Ala530_Val531insValLeuValLeuLeuValIleValIleIleSerLeuIleAla	59.0%	Transcripts: ENST00000257290.5; These results are intended for research purposes	PAED NGS v2.0
+1712281-130-T	Pool_758A_NEXTSEQ	TP53	c.817C>T p.Arg273Cys	92.0%	Transcripts: ENST00000420246.2; These results are intended for research purposes	PAED NGS v2.0
+1712690-19218-T	Pool_758A_NEXTSEQ	TP53	c.586C>T p.Arg196Ter	88.0%	Transcripts: ENST00000420246.2; These results are intended for research purposes	PAED NGS v2.0
+1712691-14604-T	Pool_758A_NEXTSEQ	BCOR	c.4054_4061dupGACAACAG p.Ser1354fs	77.0%	Transcripts: ENST00000378444.4; These results are intended for research purposes	PAED NGS v2.0
+1712691-14604-T	Pool_758A_NEXTSEQ	CREBBP	c.4174C>T p.Arg1392Ter	16.0%	Transcripts: ENST00000262367.5; These results are intended for research purposes	PAED NGS v2.0
+1712691-14604-T	Pool_758A_NEXTSEQ	EGFR	c.674A>G p.Tyr225Cys	21.0%	Transcripts: ENST00000455089.1; These results are intended for research purposes	PAED NGS v2.0
+1801209-118-T	Pool_758A_NEXTSEQ	TERT	TERT Structural Variant (INV)		These results are intended for research purposes	PAED NGS v2.0
+1801378-59-T	Pool_758A_NEXTSEQ	BRAF	c.1799T>A p.Val600Glu	24.0%	Transcripts: ENST00000288602.6; These results are intended for research purposes	PAED NGS v2.0
+1801378-59-T	Pool_758A_NEXTSEQ	NF1	c.2090_2097dupACCCTGAC p.Asp699fs and c.5609+2T>C 	11.0% and 11.0%	Transcripts: ENST00000358273.4; These results are intended for research purposes	PAED NGS v2.0
+1801378-59-T	Pool_758A_NEXTSEQ	PTEN	c.388C>G p.Arg130Gly	7.0%	Transcripts: ENST00000371953.3; These results are intended for research purposes	PAED NGS v2.0
+1801378-59-T	Pool_758A_NEXTSEQ	TP53	c.799C>T p.Arg267Trp and c.711G>A p.Met237Ile	8.0% and 10.0%	Transcripts: ENST00000420246.2; These results are intended for research purposes	PAED NGS v2.0
+1712889-18980-T	Pool_758C_NEXTSEQ	NF1	c.7472C>T p.Thr2491Ile	40.0%	Transcripts: ENST00000358273.4; These results are intended for research purposes	PAED NGS v2.0
+1800700-22448-T	Pool_758C_NEXTSEQ	EGFR	c.1652C>T p.Pro551Leu and c.2162_2170dupTGGCCAGCG p.Ala722_Val724dup	55.0% and 27.0%	Transcripts: ENST00000455089.1; These results are intended for research purposes	PAED NGS v2.0
+1800700-22448-T	Pool_758C_NEXTSEQ	MDM4	MDM4 Amplification		These results are intended for research purposes	PAED NGS v2.0
+1800700-22448-T	Pool_758C_NEXTSEQ	MYC	MYC Amplification		These results are intended for research purposes	PAED NGS v2.0
+1800732-136-T	Pool_758C_NEXTSEQ	CDKN2A	CDKN2A Deletion		These results are intended for research purposes	PAED NGS v2.0
+1800732-136-T	Pool_758C_NEXTSEQ	NRAS	c.34G>T p.Gly12Cys	38.0%	Transcripts: ENST00000369535.4; These results are intended for research purposes	PAED NGS v2.0
+1800329-SKNHS2-T	Pool_760_NEXTSEQ	ALK	c.3522C>A p.Phe1174Leu	28.0%	Transcripts: ENST00000389048.3; These results are intended for research purposes	PAED NGS v2.0
+1800329-SKNHS2-T	Pool_760_NEXTSEQ	PHOX2B	c.721_740delGCAGCAGCAGCGGCGGCGGC p.Ala248fs	43.0%	Transcripts: ENST00000226382.2; These results are intended for research purposes	PAED NGS v2.0
+1800329-SKNHS2-T	Pool_760_NEXTSEQ	SMARCA4	c.2917C>T p.Arg973Trp	44.0%	Transcripts: ENST00000541122.2; These results are intended for research purposes	PAED NGS v2.0
+1800332-LAN1-T	Pool_760_NEXTSEQ	ALK	c.3522C>A p.Phe1174Leu	54.0%	Transcripts: ENST00000389048.3; These results are intended for research purposes	PAED NGS v2.0
+1800332-LAN1-T	Pool_760_NEXTSEQ	ATM	c.5509_5510delTT p.Phe1837fs	28.0%	Transcripts: ENST00000452508.2; These results are intended for research purposes	PAED NGS v2.0
+1800332-LAN1-T	Pool_760_NEXTSEQ	CHEK2	c.1373T>A p.Val458Asp	56.0%	Transcripts: ENST00000382580.2; These results are intended for research purposes	PAED NGS v2.0
+1800332-LAN1-T	Pool_760_NEXTSEQ	DDX1	DDX1 Amplification; 		These results are intended for research purposes	PAED NGS v2.0
+1800332-LAN1-T	Pool_760_NEXTSEQ	ERBB2	c.817A>T p.Thr273Ser	46.0%	Transcripts: ENST00000584450.1; These results are intended for research purposes	PAED NGS v2.0
+1800332-LAN1-T	Pool_760_NEXTSEQ	MYCN	MYCN Amplification		These results are intended for research purposes	PAED NGS v2.0
+1800332-LAN1-T	Pool_760_NEXTSEQ	TP53	c.546C>A p.Cys182Ter	99.0%	Transcripts: ENST00000420246.2; These results are intended for research purposes	PAED NGS v2.0
+1800332-LAN1-T	Pool_760_NEXTSEQ	TSC1	c.2507C>A p.Ser836Ter	24.0%	Transcripts: ENST00000298552.3; These results are intended for research purposes	PAED NGS v2.0
+1800333-PECCI-T	Pool_760_NEXTSEQ	DDX1	DDX1 Amplification		These results are intended for research purposes	PAED NGS v2.0
+1800333-PECCI-T	Pool_760_NEXTSEQ	MYCN	MYCN Amplification		These results are intended for research purposes	PAED NGS v2.0
+1800345-CLBGA-T	Pool_760_NEXTSEQ	ALK	c.3824G>A p.Arg1275Gln	33.0%	Transcripts: ENST00000389048.3; These results are intended for research purposes	PAED NGS v2.0
+1800345-CLBGA-T	Pool_760_NEXTSEQ	ATM	ATM Deletion		These results are intended for research purposes	PAED NGS v2.0
+1800345-CLBGA-T	Pool_760_NEXTSEQ	GLI2	c.274A>G p.Ser92Gly	55.0%	Transcripts: ENST00000361492.4; These results are intended for research purposes	PAED NGS v2.0
+1800345-CLBGA-T	Pool_760_NEXTSEQ	TERT	TERT structure variant		These results are intended for research purposes	PAED NGS v2.0
+1800345-CLBGA-T	Pool_760_NEXTSEQ	YAP1	YAP1 Deletion| EleniKoutroumanidou:No evidence of amplification		These results are intended for research purposes	PAED NGS v2.0
+1800347-SKNAS-T	Pool_760_NEXTSEQ	ATM	ATM Deletion| EleniKoutroumanidou:No evidence of amplification		These results are intended for research purposes	PAED NGS v2.0
+1800347-SKNAS-T	Pool_760_NEXTSEQ	NRAS	c.181C>A p.Gln61Lys	45.0%	Transcripts: ENST00000369535.4; These results are intended for research purposes	PAED NGS v2.0
+1800347-SKNAS-T	Pool_760_NEXTSEQ	RB1	c.1430T>C p.Leu477Pro	44.0%	Transcripts: ENST00000267163.4; These results are intended for research purposes	PAED NGS v2.0
+1800347-SKNAS-T	Pool_760_NEXTSEQ	SMARCA2	SMARCA2 Deletion| EleniKoutroumanidou:No evidence of amplification		These results are intended for research purposes	PAED NGS v2.0
+1800347-SKNAS-T	Pool_760_NEXTSEQ	TP53	TP53 No evidence of amplification| EleniKoutroumanidou:Deletion		These results are intended for research purposes	PAED NGS v2.0
+1800347-SKNAS-T	Pool_760_NEXTSEQ	YAP1	YAP1 Deletion| EleniKoutroumanidou:No evidence of amplification		These results are intended for research purposes	PAED NGS v2.0
+1800348-CLBTR-T	Pool_760_NEXTSEQ	ALK	c.3520T>C p.Phe1174Leu	54.0%	Transcripts: ENST00000389048.3; These results are intended for research purposes	PAED NGS v2.0
+1800348-CLBTR-T	Pool_760_NEXTSEQ	DDX1	DDX1 Amplification		These results are intended for research purposes	PAED NGS v2.0
+1800348-CLBTR-T	Pool_760_NEXTSEQ	MSH2	c.1237C>A p.Gln413Lys	7.0%	Transcripts: ENST00000233146.2; These results are intended for research purposes	PAED NGS v2.0
+1800348-CLBTR-T	Pool_760_NEXTSEQ	MYCN	MYCN Amplification		These results are intended for research purposes	PAED NGS v2.0
+1800348-CLBTR-T	Pool_760_NEXTSEQ	PMS2	c.2380C>T p.Pro794Ser	22.0%	Transcripts: ENST00000265849.7; These results are intended for research purposes	PAED NGS v2.0
+1800349-GIMEN-T	Pool_760_NEXTSEQ	ATM	ATM Deletion| EleniKoutroumanidou:No evidence of amplification		These results are intended for research purposes	PAED NGS v2.0
+1800349-GIMEN-T	Pool_760_NEXTSEQ	SETD2	c.4032G>T p.Gln1344His	100.0%	Transcripts: ENST00000409792.3; These results are intended for research purposes	PAED NGS v2.0
+1800349-GIMEN-T	Pool_760_NEXTSEQ	YAP1	YAP1 Deletion| EleniKoutroumanidou:No evidence of amplification		These results are intended for research purposes	PAED NGS v2.0
+1800351-CHP212-T	Pool_760_NEXTSEQ	DDX1	DDX1 Amplification; DDX1 structure variant		These results are intended for research purposes	PAED NGS v2.0
+1800351-CHP212-T	Pool_760_NEXTSEQ	ERBB2	ERBB2 No evidence of amplification| EleniKoutroumanidou:Amplification		These results are intended for research purposes	PAED NGS v2.0
+1800351-CHP212-T	Pool_760_NEXTSEQ	MYCN	MYCN Amplification		These results are intended for research purposes	PAED NGS v2.0
+1800351-CHP212-T	Pool_760_NEXTSEQ	NRAS	c.181C>A p.Gln61Lys	43.0%	Transcripts: ENST00000369535.4; These results are intended for research purposes	PAED NGS v2.0
+1800353-SKNBE-T	Pool_760_NEXTSEQ	ATRX	c.2265T>G p.Asn755Lys	100.0%	Transcripts: ENST00000373344.5; These results are intended for research purposes	PAED NGS v2.0
+1800353-SKNBE-T	Pool_760_NEXTSEQ	CDKN2A	c.96C>A p.His32Gln	52.0%	Transcripts: ENST00000479692.2; These results are intended for research purposes	PAED NGS v2.0
+1800353-SKNBE-T	Pool_760_NEXTSEQ	MYCN	MYCN Amplification		These results are intended for research purposes	PAED NGS v2.0
+1800353-SKNBE-T	Pool_760_NEXTSEQ	NF1	c.2001+1GGGAACTCCTCTAT>- p.GNSSM663fs	100.0%	Transcripts: ENST00000358273.4; These results are intended for research purposes	PAED NGS v2.0
+1800353-SKNBE-T	Pool_760_NEXTSEQ	PMS2	c.1237_1239delAAA p.Lys413del	15.0%	Transcripts: ENST00000265849.7; These results are intended for research purposes	PAED NGS v2.0
+1800353-SKNBE-T	Pool_760_NEXTSEQ	RB1	c.2302A>C p.Ile768Leu	41.0%	Transcripts: ENST00000267163.4; These results are intended for research purposes	PAED NGS v2.0
+1800353-SKNBE-T	Pool_760_NEXTSEQ	TP53	c.404G>T p.Cys135Phe	100.0%	Transcripts: ENST00000420246.2; These results are intended for research purposes	PAED NGS v2.0
+1800354-SJNBI-T	Pool_760_NEXTSEQ	KRAS	c.35G>A p.Gly12Asp	5.0%	Transcripts: ENST00000256078.4; These results are intended for research purposes	PAED NGS v2.0
+1800355-CLBCAR-T	Pool_760_NEXTSEQ	DDX1	DDX1 Amplification; DDX1 structure variant		These results are intended for research purposes	PAED NGS v2.0
+1800355-CLBCAR-T	Pool_760_NEXTSEQ	MYCN	MYCN Amplification		These results are intended for research purposes	PAED NGS v2.0
+1800355-CLBCAR-T	Pool_760_NEXTSEQ	TP53	c.707A>G p.Tyr236Cys	100.0%	Transcripts: ENST00000420246.2; These results are intended for research purposes	PAED NGS v2.0
+1800973-PL0006SARPA-T	Pool_760_NEXTSEQ	MYCN	MYCN Amplification		These results are intended for research purposes	PAED NGS v2.0
+1800997-ES0327HM-T	Pool_760_NEXTSEQ	DDX1	DDX1 Amplification		These results are intended for research purposes	PAED NGS v2.0
+1800997-ES0327HM-T	Pool_760_NEXTSEQ	MYCN	MYCN Amplification		These results are intended for research purposes	PAED NGS v2.0
+1800998-ES0367DL-T	Pool_760_NEXTSEQ	DICER1	c.2423A>G p.Lys808Arg	45.0%	Transcripts: ENST00000343455.3; These results are intended for research purposes	PAED NGS v2.0
+1800998-ES0367DL-T	Pool_760_NEXTSEQ	MYCN	MYCN Amplification		These results are intended for research purposes	PAED NGS v2.0
+1800998-ES0367DL-T	Pool_760_NEXTSEQ	TSC2	c.2023G>T p.Ala675Ser	48.0%	Transcripts: ENST00000219476.3; These results are intended for research purposes	PAED NGS v2.0
+1800999-ES0373GO-T	Pool_760_NEXTSEQ	MLH1	c.319A>G p.Ile107Val	28.0%	Transcripts: ENST00000231790.2; These results are intended for research purposes	PAED NGS v2.0
+1800999-ES0373GO-T	Pool_760_NEXTSEQ	TSC2	c.5155G>A p.Ala1719Thr	45.0%	Transcripts: ENST00000219476.3; These results are intended for research purposes	PAED NGS v2.0
+1801001-BE0094LY-T	Pool_760_NEXTSEQ	TERT	no variant detected		These results are intended for research purposes	PAED NGS v2.0
+1801002-BE0095RY-T	Pool_760_NEXTSEQ	DDX1	DDX1 Amplification		These results are intended for research purposes	PAED NGS v2.0
+1801002-BE0095RY-T	Pool_760_NEXTSEQ	MYCN	MYCN Amplification		These results are intended for research purposes	PAED NGS v2.0
+1801007-FR0372ZRANA-T	Pool_760_NEXTSEQ	DDX1	DDX1 Amplification; DDX1 structure variant		These results are intended for research purposes	PAED NGS v2.0
+1801007-FR0372ZRANA-T	Pool_760_NEXTSEQ	FGFR1	c.1383G>T p.Trp461Cys	49.0%	Transcripts: ENST00000335922.5; These results are intended for research purposes	PAED NGS v2.0
+1801007-FR0372ZRANA-T	Pool_760_NEXTSEQ	KIT	c.2554G>A p.Val852Ile	44.0%	Transcripts: ENST00000288135.5; These results are intended for research purposes	PAED NGS v2.0
+1801007-FR0372ZRANA-T	Pool_760_NEXTSEQ	MYCN	MYCN Amplification		These results are intended for research purposes	PAED NGS v2.0
+1801009-FR0483NAUTI-T	Pool_760_NEXTSEQ	DDX1	DDX1 Amplification		These results are intended for research purposes	PAED NGS v2.0
+1801009-FR0483NAUTI-T	Pool_760_NEXTSEQ	MYCN	MYCN Amplification		These results are intended for research purposes	PAED NGS v2.0
+1801009-FR0483NAUTI-T	Pool_760_NEXTSEQ	PPM1D	c.364G>A p.Gly122Ser	47.0%	Transcripts: ENST00000305921.3; These results are intended for research purposes	PAED NGS v2.0
+1801010-UK0107HAWHA-T	Pool_760_NEXTSEQ	ASXL1	c.3371C>G p.Pro1124Arg	52.0%	Transcripts: ENST00000375687.4; These results are intended for research purposes	PAED NGS v2.0
+1801010-UK0107HAWHA-T	Pool_760_NEXTSEQ	TERT	TERT structure variant		These results are intended for research purposes	PAED NGS v2.0
+1801011-DK0021JM-T	Pool_760_NEXTSEQ	DDX1	DDX1 Amplification		These results are intended for research purposes	PAED NGS v2.0
+1801011-DK0021JM-T	Pool_760_NEXTSEQ	MYCN	MYCN Amplification		These results are intended for research purposes	PAED NGS v2.0
+1801012-DK0026SS-T	Pool_760_NEXTSEQ	ACVR1	c.1088A>G p.Gln363Arg	49.0%	Transcripts: ENST00000263640.3; These results are intended for research purposes	PAED NGS v2.0
+1801012-DK0026SS-T	Pool_760_NEXTSEQ	MET	c.3632+1T>C p.M1211T	50.0%	Transcripts: ENST00000397752.3; These results are intended for research purposes	PAED NGS v2.0
+1703542-15679-T	Pool_788_NEXTSEQ	ATM	c.2953G>C p.Asp985His	46.0%	Transcripts: ENST00000452508.2; These results are intended for research purposes	PAED NGS v2.0
+1703542-15679-T	Pool_788_NEXTSEQ	MYOD1	c.365T>G p.Leu122Arg	47.0%	Transcripts: ENST00000250003.3; These results are intended for research purposes	PAED NGS v2.0
+1703542-15679-T	Pool_788_NEXTSEQ	NRAS	c.181C>A p.Gln61Lys	47.0%	Transcripts: ENST00000369535.4; These results are intended for research purposes	PAED NGS v2.0
+1703542-15679-T	Pool_788_NEXTSEQ	PIK3CA	c.1624G>A p.Glu542Lys	44.0%	Transcripts: ENST00000263967.3; These results are intended for research purposes	PAED NGS v2.0
+1703542-15679-T	Pool_788_NEXTSEQ	SMARCB1	c.402_403insCA p.Leu135fs	18.0%	Transcripts: ENST00000263121.7; These results are intended for research purposes	PAED NGS v2.0
+1703544-15664-T	Pool_788_NEXTSEQ	DICER1	c.5428G>T p.Asp1810Tyr and c.3615C>G p.Tyr1205Ter	44.0% and 51.0%	Transcripts: ENST00000343455.3; These results are intended for research purposes	PAED NGS v2.0
+1704033-15681-T	Pool_788_NEXTSEQ	SMO	c.1726C>T p.Arg576Trp	72.0%	Transcripts: ENST00000249373.3; These results are intended for research purposes	PAED NGS v2.0
+1704033-15681-T	Pool_788_NEXTSEQ	TP53	c.743G>A p.Arg248Gln	53.0%	Transcripts: ENST00000420246.2; These results are intended for research purposes	PAED NGS v2.0
+1800653-15550-T	Pool_788_NEXTSEQ	CDK6	c.244G>A p.Val82Met	15.0%	Transcripts: ENST00000265734.4; These results are intended for research purposes	PAED NGS v2.0
+1800653-15550-T	Pool_788_NEXTSEQ	SETD2	c.6931C>T p.Pro2311Ser	6.0%	Transcripts: ENST00000409792.3; These results are intended for research purposes	PAED NGS v2.0
+1800653-15550-T	Pool_788_NEXTSEQ	TSC1	c.1702G>A p.Gly568Arg	16.0%	Transcripts: ENST00000298552.3; These results are intended for research purposes	PAED NGS v2.0
+1800654-21354-T	Pool_788_NEXTSEQ	ALK	ALK Amplification		These results are intended for research purposes	PAED NGS v2.0
+1800656-6525-T	Pool_788_NEXTSEQ	BCOR	c.3486_3487delCC p.Arg1162fs	36.0%	Transcripts: ENST00000378444.4; These results are intended for research purposes	PAED NGS v2.0
+1800656-6525-T	Pool_788_NEXTSEQ	KRAS	c.38G>A p.Gly13Asp	53.0%	Transcripts: ENST00000256078.4; These results are intended for research purposes	PAED NGS v2.0
+1802326-25-T	Pool_788_NEXTSEQ	TSC2	c.2570A>C p.Tyr857Ser	5.0%	Transcripts: ENST00000219476.3; These results are intended for research purposes	PAED NGS v2.0
+1713514-RJ6RMH43840003-T	Pool_805_NEXTSEQ	RUNX1	c.529C>T p.Arg177Ter	12.0%	Transcripts: ENST00000344691.4; These results are intended for research purposes	idiopathic cytopenia
+1713514-RJ6RMH43840003-T	Pool_805_NEXTSEQ	SF3B1	c.2098A>G p.Lys700Glu	32.0%	Transcripts: ENST00000335508.6; These results are intended for research purposes	idiopathic cytopenia
+1800701-11782-T	Pool_805_NEXTSEQ	CDKN2A	CDKN2A Deletion		These results are intended for research purposes	PAED NGS v2.0
+1800701-11782-T	Pool_805_NEXTSEQ	CDKN2B	CDKN2B Deletion		These results are intended for research purposes	PAED NGS v2.0
+1800701-11782-T	Pool_805_NEXTSEQ	TSC1	c.930_931insTACA p.Pro311fs	47.0%	Transcripts: ENST00000298552.3; These results are intended for research purposes	PAED NGS v2.0
+1801120-RJ6RMH43840005-T	Pool_805_NEXTSEQ	BOD1L1	c.104G>T p.Gly35Val	51.0%	Transcripts: ENST00000040738.5; These results are intended for research purposes	idiopathic cytopenia
+1802295-15728-T	Pool_805_NEXTSEQ	KRAS	KRAS Amplification		These results are intended for research purposes	PAED NGS v2.0
+1802295-15728-T	Pool_805_NEXTSEQ	TP53	c.613T>C p.Tyr205His	72.0%	Transcripts: ENST00000420246.2; These results are intended for research purposes	PAED NGS v2.0
+1802296-6527-T	Pool_805_NEXTSEQ	CTNNB1	c.134C>T p.Ser45Phe	61.0%	Transcripts: ENST00000349496.5; These results are intended for research purposes	PAED NGS v2.0
+1802296-6527-T	Pool_805_NEXTSEQ	KRAS	c.35G>A p.Gly12Asp	36.0%	Transcripts: ENST00000256078.4; These results are intended for research purposes	PAED NGS v2.0
+1802651-125-T	Pool_805_NEXTSEQ	H3F3A	c.83A>T p.Lys28Met	27.0%	Transcripts: ENST00000366813.1; These results are intended for research purposes	PAED NGS v2.0
+1802651-125-T	Pool_805_NEXTSEQ	PIK3CA	c.316G>T p.Gly106Cys	12.0%	Transcripts: ENST00000263967.3; These results are intended for research purposes	PAED NGS v2.0
+1802651-125-T	Pool_805_NEXTSEQ	TP53	c.844C>T p.Arg282Trp and c.472C>G p.Arg158Gly	17.0% and 17.0%	Transcripts: ENST00000420246.2; These results are intended for research purposes	PAED NGS v2.0
+1803580-152-T	Pool_805_NEXTSEQ	H3F3A	c.83A>T p.Lys28Met	29.0%	Transcripts: ENST00000366813.1; These results are intended for research purposes	PAED NGS v2.0
+1803598-169-T	Pool_805_NEXTSEQ	BRAF	c.1406G>T p.Gly469Val	49.0%	Transcripts: ENST00000288602.6; These results are intended for research purposes	PAED NGS v2.0
+1803598-169-T	Pool_805_NEXTSEQ	H3F3A	c.83A>T p.Lys28Met; 	93.0%	Transcripts: ENST00000366813.1; These results are intended for research purposes	PAED NGS v2.0
+1803598-169-T	Pool_805_NEXTSEQ	TP53	c.527G>A p.Cys176Tyr	73.0%	Transcripts: ENST00000420246.2; These results are intended for research purposes	PAED NGS v2.0
+1803600-148-T	Pool_805_NEXTSEQ	H3F3A	c.83A>T p.Lys28Met	35.0%	Transcripts: ENST00000366813.1; These results are intended for research purposes	PAED NGS v2.0
+1803600-148-T	Pool_805_NEXTSEQ	HIST1H3B	HIST1H3B structure variant		These results are intended for research purposes	PAED NGS v2.0
+1803441-SARCOMA-T	Pool_814_NEXTSEQ	TP53	c.524G>A p.Arg175His	17.0%	Transcripts: ENST00000420246.2; These results are intended for research purposes	PAED NGS v2.0
+1804116-142-T	Pool_814_NEXTSEQ	BCOR	c.4376A>T p.Asn1459Ile	40.0%	Transcripts: ENST00000378444.4; These results are intended for research purposes	PAED NGS v2.0
+1804116-142-T	Pool_814_NEXTSEQ	CREBBP	c.223C>T p.Arg75Ter	35.0%	Transcripts: ENST00000262367.5; These results are intended for research purposes	PAED NGS v2.0
+1804118-128-T	Pool_814_NEXTSEQ	MAP2K1	c.519A>C p.Arg173Ser	41.0%	Transcripts: ENST00000566326.1; These results are intended for research purposes	PAED NGS v2.0

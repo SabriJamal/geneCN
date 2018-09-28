@@ -1,0 +1,10 @@
+sample	segments	stdev	mad	iqr	bivar
+/mnt/lustre/users/sjamal/3.Tests/CNVkit_tests/PooledReference/DataFromValidation/ABCBIO/158787-S026-T.sort.cnr	177	0.356121	0.320973	0.433479	0.329756
+/mnt/lustre/users/sjamal/3.Tests/CNVkit_tests/PooledReference/DataFromValidation/ABCBIO/1601800-L035-T.sort.cnr	98	0.523952	0.318863	0.429995	0.338215
+/mnt/lustre/users/sjamal/3.Tests/CNVkit_tests/PooledReference/DataFromValidation/ABCBIO/1605701-L011-T.sort.cnr	31	0.300413	0.255344	0.343252	0.278042
+/mnt/lustre/users/sjamal/3.Tests/CNVkit_tests/PooledReference/DataFromValidation/ABCBIO/1605702-L060-T.sort.cnr	65	0.329579	0.301443	0.407075	0.306127
+/mnt/lustre/users/sjamal/3.Tests/CNVkit_tests/PooledReference/DataFromValidation/ABCBIO/1605703-L077-T.sort.cnr	31	0.355331	0.260687	0.353785	0.278441
+/mnt/lustre/users/sjamal/3.Tests/CNVkit_tests/PooledReference/DataFromValidation/ABCBIO/1700442-L122-T.sort.cnr	79	0.47915	0.363071	0.489218	0.376812
+/mnt/lustre/users/sjamal/3.Tests/CNVkit_tests/PooledReference/DataFromValidation/ABCBIO/1706421-S111-T.sort.cnr	121	0.542851	0.334275	0.450394	0.346311
+/mnt/lustre/users/sjamal/3.Tests/CNVkit_tests/PooledReference/DataFromValidation/ABCBIO/1708171-S112-T.sort.cnr	55	0.727481	0.522985	0.70611	0.549093
+/mnt/lustre/users/sjamal/3.Tests/CNVkit_tests/PooledReference/DataFromValidation/ABCBIO/1803806-L196-T.sort.cnr	99	0.37762	0.247814	0.334374	0.256198

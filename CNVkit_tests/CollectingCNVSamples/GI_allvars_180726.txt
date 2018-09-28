@@ -1,0 +1,732 @@
+Patient_ID	Pool	Gene	Mutation	Allele Frequency	Transcript	Panel
+156217-1744-T	Pool_168_GI	APC	c.835-1G>A  and c.3949G>T p.Glu1317Ter	21.0% and 21.0%	These results are intended for research purposes	GI NGS Panel v1.0
+156217-1744-T	Pool_168_GI	KRAS	c.38G>A p.Gly13Asp	20.0%	These results are intended for research purposes	GI NGS Panel v1.0
+156226-1737-T	Pool_168_GI	APC	c.3325delG p.Gly1109fs	28.0%	These results are intended for research purposes	GI NGS Panel v1.0
+156226-1737-T	Pool_168_GI	TP53	c.550_551insC p.Asp184fs and c.550G>C p.Asp184His and c.329G>T p.Arg110Leu	9.0% and 9.0% and 26.0%	These results are intended for research purposes	GI NGS Panel v1.0
+156218-1745-T	Pool_169_GI	KRAS	c.35G>A p.Gly12Asp	36.0%	These results are intended for research purposes	GI NGS Panel v1.0
+156218-1745-T	Pool_169_GI	TP53	c.273G>A p.Trp91Ter	55.0%	These results are intended for research purposes	GI NGS Panel v1.0
+156219-1730-T	Pool_169_GI	APC	c.2336T>A p.Leu779Ter and c.4360delA p.Lys1454fs	23.0% and 19.0%	These results are intended for research purposes	GI NGS Panel v1.0
+156219-1730-T	Pool_169_GI	KRAS	c.35G>A p.Gly12Asp	20.0%	These results are intended for research purposes	GI NGS Panel v1.0
+156219-1730-T	Pool_169_GI	PIK3CA	c.1633G>A p.Glu545Lys	25.0%	These results are intended for research purposes	GI NGS Panel v1.0
+156219-1730-T	Pool_169_GI	TP53	c.577C>T p.His193Tyr	18.0%	These results are intended for research purposes	GI NGS Panel v1.0
+156220-1736-T	Pool_169_GI	APC	c.4385_4386delAG p.Lys1462fs	9.0%	These results are intended for research purposes	GI NGS Panel v1.0
+156222-1732-T	Pool_169_GI	APC	c.3907C>T p.Gln1303Ter and c.7570A>G p.Lys2524Glu	14.0% and 37.0%	These results are intended for research purposes	GI NGS Panel v1.0
+156222-1732-T	Pool_169_GI	TP53	c.782+1G>A 	18.0%	These results are intended for research purposes	GI NGS Panel v1.0
+156223-1731-T	Pool_169_GI	APC	c.2563G>T p.Glu855Ter	14.0%	These results are intended for research purposes	GI NGS Panel v1.0
+156223-1731-T	Pool_169_GI	PIK3CA	c.1633G>A p.Glu545Lys	31.0%	These results are intended for research purposes	GI NGS Panel v1.0
+156224-1741-T	Pool_169_GI	APC	c.637C>T p.Arg213Ter	40.0%	These results are intended for research purposes	GI NGS Panel v1.0
+156224-1741-T	Pool_169_GI	CCND1	CCND1 Amplification		These results are intended for research purposes	GI NGS Panel v1.0
+156224-1741-T	Pool_169_GI	TP53	c.524G>A p.Arg175His	41.0%	These results are intended for research purposes	GI NGS Panel v1.0
+156225-1742-T	Pool_169_GI	APC	c.4587G>C p.Gln1529His	23.0%	These results are intended for research purposes	GI NGS Panel v1.0
+156225-1742-T	Pool_169_GI	KRAS	c.35G>C p.Gly12Ala	21.0%	These results are intended for research purposes	GI NGS Panel v1.0
+156225-1742-T	Pool_169_GI	TP53	c.734G>A p.Gly245Asp	29.0%	These results are intended for research purposes	GI NGS Panel v1.0
+15-6890-137-T	Pool_176_GI	CTNNB1	c.110C>G p.Ser37Cys	28.0%	These results are intended for research purposes	GI NGS Panel v1.0
+15-6890-137-T	Pool_176_GI	TP53	c.800_806delGGAACAG p.Arg267ProfsTer76 and c.309C>A p.Tyr103Ter	32.0% and 19.0%	These results are intended for research purposes	GI NGS Panel v1.0
+15-6895-144-T	Pool_176_GI	NOTCH1	c.410C>A p.Ser137Ter	31.0%	These results are intended for research purposes	GI NGS Panel v1.0
+15-6895-144-T	Pool_176_GI	TP53	c.993+1G>C  and c.371dupG p.Cys124TrpfsTer25	46.0% and 28.0%	These results are intended for research purposes	GI NGS Panel v1.0
+15-6898-149-T	Pool_176_GI	BRAF	c.1799T>A p.Val600Glu	23.0%	These results are intended for research purposes	GI NGS Panel v1.0
+15-6898-149-T	Pool_176_GI	SMAD4	c.1522G>A p.Gly508Ser and c.1607T>C p.Leu536Pro	28.0% and 30.0%	These results are intended for research purposes	GI NGS Panel v1.0
+15-6898-149-T	Pool_176_GI	TP53	c.644_645GT>AG p.Ser215Lys	34.0% and 33.0%	These results are intended for research purposes	GI NGS Panel v1.0
+15-6903-155-T	Pool_176_GI	KRAS	KRAS Amplification		These results are intended for research purposes	GI NGS Panel v1.0
+15-6903-155-T	Pool_176_GI	TP53	c.58delT p.Ser20GlnfsTer24		These results are intended for research purposes	GI NGS Panel v1.0
+006L-007-T	Pool_186_GI	ARID1A	c.1956dupG p.Met651fs	59.0%	Transcripts: ENST00000324856; These results are intended for research purposes	GI NGS v2.0
+006L-007-T	Pool_186_GI	TP53	c.482C>A p.Ala161Asp	57.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+021L-002-T	Pool_186_GI	APC	c.2413C>T p.Arg805Ter	38.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+021L-002-T	Pool_186_GI	KRAS	c.35G>A p.Gly12Asp	18.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+021L-002-T	Pool_186_GI	PIK3CA	c.1624G>A p.Glu542Lys	17.0%	Transcripts: ENST00000263967; These results are intended for research purposes	GI NGS v2.0
+022L-007-T	Pool_186_GI	ARID1A	c.1956dupG p.Met651fs	42.0%	Transcripts: ENST00000324856; These results are intended for research purposes	GI NGS v2.0
+022L-007-T	Pool_186_GI	TP53	c.482C>A p.Ala161Asp	47.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+152167-002-T	Pool_186_GI	APC	c.2413C>T p.Arg805Ter	39.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+152167-002-T	Pool_186_GI	KRAS	c.35G>A p.Gly12Asp	21.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+152167-002-T	Pool_186_GI	PIK3CA	c.1624G>A p.Glu542Lys	25.0%	Transcripts: ENST00000263967; These results are intended for research purposes	GI NGS v2.0
+028L-005-T	Pool_187_GI	FBXW7	c.1378C>T p.His460Tyr	21.0%	Transcripts: ENST00000281708; These results are intended for research purposes	GI NGS v2.0
+030L-011-T	Pool_188_GI	APC	c.1660C>T p.Arg554Ter and c.3958delG p.Val1320fs and c.4196G>A p.Arg1399His	16.0% and 34.0% and 28.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+030L-011-T	Pool_188_GI	FBXW7	c.916C>T p.Gln306Ter	33.0%	Transcripts: ENST00000281708; These results are intended for research purposes	GI NGS v2.0
+030L-011-T	Pool_188_GI	KRAS	c.37G>C p.Gly13Arg	31.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+030L-011-T	Pool_188_GI	TP53	c.844C>T p.Arg282Trp	40.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+150390-032-T	Pool_188_GI	APC	c.4017delT p.Gly1339fs and c.4099C>T p.Gln1367Ter	22.0% and 26.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+150390-032-T	Pool_188_GI	CTNNB1	c.455C>G p.Ala152Gly	28.0%	Transcripts: ENST00000396183; These results are intended for research purposes	GI NGS v2.0
+150390-032-T	Pool_188_GI	KRAS	c.38G>A p.Gly13Asp	27.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+150390-032-T	Pool_188_GI	NOTCH3	c.2748C>A p.Tyr916Ter	26.0%	Transcripts: ENST00000263388; These results are intended for research purposes	GI NGS v2.0
+150390-032-T	Pool_188_GI	TP53	c.424_425dupCC p.Pro142fs	31.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+152158-011-T	Pool_188_GI	APC	c.1660C>T p.Arg554Ter and c.4196G>A p.Arg1399His	22.0% and 36.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+152158-011-T	Pool_188_GI	FBXW7	c.916C>T p.Gln306Ter	39.0%	Transcripts: ENST00000281708; These results are intended for research purposes	GI NGS v2.0
+152158-011-T	Pool_188_GI	KRAS	c.37G>C p.Gly13Arg	37.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+152158-011-T	Pool_188_GI	TP53	c.844C>T p.Arg282Trp	54.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+152191-032-T	Pool_188_GI	APC	c.4017delT p.Gly1339fs and c.4099C>T p.Gln1367Ter	24.0% and 27.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+152191-032-T	Pool_188_GI	CTNNB1	c.455C>G p.Ala152Gly	28.0%	Transcripts: ENST00000396183; These results are intended for research purposes	GI NGS v2.0
+152191-032-T	Pool_188_GI	KRAS	c.38G>A p.Gly13Asp	31.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+152191-032-T	Pool_188_GI	NOTCH3	c.2748C>A p.Tyr916Ter	38.0%	Transcripts: ENST00000263388; These results are intended for research purposes	GI NGS v2.0
+152191-032-T	Pool_188_GI	TP53	c.424_425dupCC p.Pro142fs	44.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+150353-040-T	Pool_189_GI	APC	c.2985C>A p.Cys995Ter and c.4335delA p.Thr1445fs	28.0% and 28.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+150353-040-T	Pool_189_GI	KRAS	c.35G>T p.Gly12Val	49.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+150380-040-T	Pool_189_GI	APC	c.2985C>A p.Cys995Ter and c.4335delA p.Thr1445fs	22.0% and 29.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+150380-040-T	Pool_189_GI	KRAS	c.35G>T p.Gly12Val	29.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+152150-019-T	Pool_189_GI	NRAS	c.35G>A p.Gly12Asp	11.0%	Transcripts: ENST00000369535; These results are intended for research purposes	GI NGS v2.0
+152150-019-T	Pool_189_GI	PIK3CA	c.1624G>A p.Glu542Lys	10.0%	Transcripts: ENST00000263967; These results are intended for research purposes	GI NGS v2.0
+152150-019-T	Pool_189_GI	PTEN	c.445C>T p.Gln149Ter	19.0%	Transcripts: ENST00000371953; These results are intended for research purposes	GI NGS v2.0
+152150-019-T	Pool_189_GI	SMAD4	c.788G>A p.Gly263Glu	11.0%	Transcripts: ENST00000342988; These results are intended for research purposes	GI NGS v2.0
+152182-040-T	Pool_189_GI	APC	c.2985C>A p.Cys995Ter and c.4335delA p.Thr1445fs	10.0% and 11.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+152182-040-T	Pool_189_GI	KRAS	c.35G>T p.Gly12Val	21.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+153898-019-T	Pool_189_GI	NRAS	c.35G>A p.Gly12Asp	35.0%	Transcripts: ENST00000369535; These results are intended for research purposes	GI NGS v2.0
+153898-019-T	Pool_189_GI	PIK3CA	c.1624G>A p.Glu542Lys	38.0%	Transcripts: ENST00000263967; These results are intended for research purposes	GI NGS v2.0
+153898-019-T	Pool_189_GI	PTEN	c.445C>T p.Gln149Ter	57.0%	Transcripts: ENST00000371953; These results are intended for research purposes	GI NGS v2.0
+153898-019-T	Pool_189_GI	SMAD4	c.788G>A p.Gly263Glu	49.0%	Transcripts: ENST00000342988; These results are intended for research purposes	GI NGS v2.0
+152187-033-T	Pool_190_GI	APC	c.646-1C>T  and c.3921_3925delAAAAG p.Lys1308fs	28.0% and 6.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+152187-033-T	Pool_190_GI	FBXW7	c.1394G>A p.Arg465His	16.0%	Transcripts: ENST00000281708; These results are intended for research purposes	GI NGS v2.0
+152187-033-T	Pool_190_GI	KRAS	c.436G>A p.Ala146Thr	46.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+152189-033-T	Pool_190_GI	APC	c.646-1C>T 	24.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+152189-033-T	Pool_190_GI	FBXW7	c.1394G>A p.Arg465His	19.0%	Transcripts: ENST00000281708; These results are intended for research purposes	GI NGS v2.0
+152189-033-T	Pool_190_GI	KRAS	c.436G>A p.Ala146Thr	47.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+153585-033-T	Pool_190_GI	APC	c.646-1C>T 	9.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+153585-033-T	Pool_190_GI	FBXW7	c.1394G>A p.Arg465His	8.0%	Transcripts: ENST00000281708; These results are intended for research purposes	GI NGS v2.0
+153585-033-T	Pool_190_GI	KRAS	c.436G>A p.Ala146Thr	24.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+153892-022-T	Pool_190_GI	RET	c.341G>A p.Arg114His	12.0%	Transcripts: ENST00000355710; These results are intended for research purposes	GI NGS v2.0
+154259-033-T	Pool_190_GI	APC	c.646-1C>T 	5.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+154259-033-T	Pool_190_GI	KRAS	c.436G>A p.Ala146Thr	7.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+150378-041-T	Pool_191_GI	APC	c.637C>T p.Arg213Ter and c.4468C>T p.His1490Tyr	28.0% and 23.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+150378-041-T	Pool_191_GI	ATM	c.7328G>A p.Arg2443Gln	24.0%	Transcripts: ENST00000278616; These results are intended for research purposes	GI NGS v2.0
+150378-041-T	Pool_191_GI	CTNNB1	c.1303A>G p.Lys435Glu	23.0%	Transcripts: ENST00000396183; These results are intended for research purposes	GI NGS v2.0
+150378-041-T	Pool_191_GI	KRAS	c.35G>C p.Gly12Ala	47.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+150378-041-T	Pool_191_GI	TP53	c.404G>A p.Cys135Tyr	59.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+152178-041-T	Pool_191_GI	APC	c.637C>T p.Arg213Ter and c.4469_4470dupAT p.His1490fs	14.0% and 12.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+152178-041-T	Pool_191_GI	ATM	c.7328G>A p.Arg2443Gln	15.0%	Transcripts: ENST00000278616; These results are intended for research purposes	GI NGS v2.0
+152178-041-T	Pool_191_GI	CTNNB1	c.1303A>G p.Lys435Glu	19.0%	Transcripts: ENST00000396183; These results are intended for research purposes	GI NGS v2.0
+152178-041-T	Pool_191_GI	KRAS	c.35G>C p.Gly12Ala	28.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+152178-041-T	Pool_191_GI	TP53	c.404G>A p.Cys135Tyr	42.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+152180-041-T	Pool_191_GI	APC	c.637C>T p.Arg213Ter and c.4469_4470dupAT p.His1490fs	14.0% and 10.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+152180-041-T	Pool_191_GI	ATM	c.7328G>A p.Arg2443Gln	11.0%	Transcripts: ENST00000278616; These results are intended for research purposes	GI NGS v2.0
+152180-041-T	Pool_191_GI	CTNNB1	c.1303A>G p.Lys435Glu	9.0%	Transcripts: ENST00000396183; These results are intended for research purposes	GI NGS v2.0
+152180-041-T	Pool_191_GI	KRAS	c.35G>C p.Gly12Ala	19.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+152180-041-T	Pool_191_GI	TP53	c.404G>A p.Cys135Tyr	28.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+154249-044-T	Pool_191_GI	APC	c.694C>T p.Arg232Ter	25.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+154249-044-T	Pool_191_GI	ERBB2	ERBB2 Amplification		Transcripts: ENST00000269571; These results are intended for research purposes	GI NGS v2.0
+154249-044-T	Pool_191_GI	TP53	c.955A>T p.Lys319Ter	53.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+154267-044-T	Pool_191_GI	APC	c.694C>T p.Arg232Ter	22.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+154267-044-T	Pool_191_GI	TP53	c.955A>T p.Lys319Ter	49.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+150384-037-T	Pool_192_GI	APC	c.2602G>T p.Glu868Ter and c.4497delA p.Gly1499fs	29.0% and 25.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+150384-037-T	Pool_192_GI	KRAS	c.35G>T p.Gly12Val	28.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+150384-037-T	Pool_192_GI	PIK3CA	c.1624G>A p.Glu542Lys	25.0%	Transcripts: ENST00000263967; These results are intended for research purposes	GI NGS v2.0
+150384-037-T	Pool_192_GI	TP53	c.818G>A p.Arg273His	42.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+152184-037-T	Pool_192_GI	KRAS	c.35G>T p.Gly12Val	7.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+152184-037-T	Pool_192_GI	PIK3CA	c.1624G>A p.Glu542Lys	6.0%	Transcripts: ENST00000263967; These results are intended for research purposes	GI NGS v2.0
+152184-037-T	Pool_192_GI	TP53	c.818G>A p.Arg273His	5.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+154261-035-T	Pool_192_GI	APC	c.1312+3A>C 	55.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+154261-035-T	Pool_192_GI	FBXW7	c.2065C>T p.Arg689Trp	25.0%	Transcripts: ENST00000281708; These results are intended for research purposes	GI NGS v2.0
+154261-035-T	Pool_192_GI	KRAS	c.35G>T p.Gly12Val	26.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+154261-035-T	Pool_192_GI	PTEN	c.911G>T p.Cys304Phe	27.0%	Transcripts: ENST00000371953; These results are intended for research purposes	GI NGS v2.0
+154261-035-T	Pool_192_GI	TCF7L2	c.932+1G>A 	26.0%	Transcripts: ENST00000627217; These results are intended for research purposes	GI NGS v2.0
+150372-045-T	Pool_193_GI	APC	c.4385_4386delAG p.Lys1462fs	6.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+152183-038-T	Pool_193_GI	APC	c.674delA p.Glu225fs and c.3340C>T p.Arg1114Ter	29.0% and 26.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+152183-038-T	Pool_193_GI	BRAF	c.1742-1A>T 	47.0%	Transcripts: ENST00000288602; These results are intended for research purposes	GI NGS v2.0
+152183-038-T	Pool_193_GI	TP53	c.747G>T p.Arg249Ser and c.743G>A p.Arg248Gln	31.0% and 27.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+153589-038-T	Pool_193_GI	APC	c.674delA p.Glu225fs and c.3340C>T p.Arg1114Ter	17.0% and 16.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+153589-038-T	Pool_193_GI	BRAF	c.1742-1A>T 	26.0%	Transcripts: ENST00000288602; These results are intended for research purposes	GI NGS v2.0
+153589-038-T	Pool_193_GI	TP53	c.747G>T p.Arg249Ser and c.743G>A p.Arg248Gln	25.0% and 17.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+150368-050-T	Pool_194_GI	APC	c.694C>T p.Arg232Ter and c.4630delG p.Glu1544fs	26.0% and 31.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+150368-050-T	Pool_194_GI	KRAS	c.38G>A p.Gly13Asp	28.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+150368-050-T	Pool_194_GI	TCF7L2	c.430C>T p.Gln144Ter	26.0%	Transcripts: ENST00000627217; These results are intended for research purposes	GI NGS v2.0
+150368-050-T	Pool_194_GI	TP53	c.818G>A p.Arg273His	41.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+154183-050-T	Pool_194_GI	APC	c.694C>T p.Arg232Ter and c.4630delG p.Glu1544fs	21.0% and 21.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+154183-050-T	Pool_194_GI	KRAS	c.38G>A p.Gly13Asp	17.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+154183-050-T	Pool_194_GI	TCF7L2	c.430C>T p.Gln144Ter	23.0%	Transcripts: ENST00000627217; These results are intended for research purposes	GI NGS v2.0
+154183-050-T	Pool_194_GI	TP53	c.818G>A p.Arg273His	24.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+154184-052-T	Pool_194_GI	KRAS	c.35G>T p.Gly12Val	15.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+154184-052-T	Pool_194_GI	NRAS	c.38G>A p.Gly13Asp	19.0%	Transcripts: ENST00000369535; These results are intended for research purposes	GI NGS v2.0
+154184-052-T	Pool_194_GI	PIK3CA	c.1633G>A p.Glu545Lys	19.0%	Transcripts: ENST00000263967; These results are intended for research purposes	GI NGS v2.0
+154184-052-T	Pool_194_GI	TP53	c.733G>A p.Gly245Ser	23.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+154186-052-T	Pool_194_GI	KRAS	c.35G>T p.Gly12Val	11.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+154186-052-T	Pool_194_GI	NRAS	c.38G>A p.Gly13Asp	10.0%	Transcripts: ENST00000369535; These results are intended for research purposes	GI NGS v2.0
+154186-052-T	Pool_194_GI	PIK3CA	c.1633G>A p.Glu545Lys	11.0%	Transcripts: ENST00000263967; These results are intended for research purposes	GI NGS v2.0
+154186-052-T	Pool_194_GI	TP53	c.733G>A p.Gly245Ser	14.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+152172-056-T	Pool_195_GI	TP53	c.215C>G p.Pro72Arg	6.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+152197-025-T	Pool_195_GI	APC	c.4132C>T p.Gln1378Ter	47.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+152197-025-T	Pool_195_GI	KRAS	c.38G>A p.Gly13Asp	38.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+152199-025-T	Pool_195_GI	APC	c.4132C>T p.Gln1378Ter	60.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+152199-025-T	Pool_195_GI	KRAS	c.38G>A p.Gly13Asp	43.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+152145-021-T	Pool_197_GI	APC	c.3444_3445delTG p.Glu1151fs	22.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+152145-021-T	Pool_197_GI	KRAS	c.35G>A p.Gly12Asp	21.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+152147-021-T	Pool_197_GI	KRAS	c.35G>A p.Gly12Asp	30.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+153882-030-T	Pool_197_GI	KRAS	c.34G>T p.Gly12Cys	52.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+15-6392-031-T	Pool_198_GI	ERBB2	ERBB2 Amplification		These results are intended for research purposes	GI NGS Panel v1.0
+15-6392-031-T	Pool_198_GI	TP53	c.818G>A p.Arg273His	33.0%	These results are intended for research purposes	GI NGS Panel v1.0
+15-6897-148-T	Pool_198_GI	APC	c.637C>T p.Arg213Ter	22.0%	These results are intended for research purposes	GI NGS Panel v1.0
+15-6897-148-T	Pool_198_GI	BRAF	c.1799T>A p.V600E	19.0%	These results are intended for research purposes	GI NGS Panel v1.0
+15-6897-148-T	Pool_198_GI	PTEN	c.655C>T p.Gln219Ter	23.0%	These results are intended for research purposes	GI NGS Panel v1.0
+15-6897-148-T	Pool_198_GI	TP53	c.517G>A p.Val173Met	27.0%	These results are intended for research purposes	GI NGS Panel v1.0
+15-6899-150-T	Pool_198_GI	CCND1	CCND1 Amplification		These results are intended for research purposes	GI NGS Panel v1.0
+15-6899-150-T	Pool_198_GI	PIK3CA	PIK3CA Amplification		These results are intended for research purposes	GI NGS Panel v1.0
+15-6899-150-T	Pool_198_GI	TP53	c.721T>G p.Ser241Ala	59.0%	These results are intended for research purposes	GI NGS Panel v1.0
+15-6902-154-T	Pool_198_GI	APC	c.2413C>T p.Arg805Ter and c.4285C>T p.Gln1429Ter	21.0% and 20.0%	These results are intended for research purposes	GI NGS Panel v1.0
+15-6902-154-T	Pool_198_GI	KRAS	c.35G>T p.Gly12Val	19.0%	These results are intended for research purposes	GI NGS Panel v1.0
+15-6902-154-T	Pool_198_GI	PTEN	c.633_634+18delCAGTAAGTGCTTGAAATTCT p.Cys211fs	16.0%	These results are intended for research purposes	GI NGS Panel v1.0
+15-6902-154-T	Pool_198_GI	SMAD4	c.43dupG p.Ala15fs	25.0%	These results are intended for research purposes	GI NGS Panel v1.0
+15-6902-154-T	Pool_198_GI	TP53	c.497C>A p.Ser166Ter	34.0%	These results are intended for research purposes	GI NGS Panel v1.0
+15-6904-158-T	Pool_198_GI	DOCK2	c.1658A>G p.Lys553Arg	19.0%	These results are intended for research purposes	GI NGS Panel v1.0
+15-6904-158-T	Pool_198_GI	KRAS	KRAS Amplification		These results are intended for research purposes	GI NGS Panel v1.0
+15-6904-158-T	Pool_198_GI	TP53	c.568C>A p.Pro190Thr	61.0%	These results are intended for research purposes	GI NGS Panel v1.0
+158008-164-T	Pool_214_GI	APC	c.3193C>T p.Gln1065Ter and c.4321_4322insCACCTCCT p.Pro1442fs	35.0% and 5.0%	These results are intended for research purposes	GI NGS Panel v1.0
+158008-164-T	Pool_214_GI	KRAS	c.38G>A p.Gly13Asp	34.0%	These results are intended for research purposes	GI NGS Panel v1.0
+158008-164-T	Pool_214_GI	SMAD4	c.1478A>T p.Asp493Val	31.0%	These results are intended for research purposes	GI NGS Panel v1.0
+158008-164-T	Pool_214_GI	TP53	c.574C>T p.Gln192Ter	44.0%	These results are intended for research purposes	GI NGS Panel v1.0
+158009-166-T	Pool_214_GI	APC	c.1660C>T p.Arg554Ter and c.4348C>T p.Arg1450Ter	36.0% and 34.0%	These results are intended for research purposes	GI NGS Panel v1.0
+158009-166-T	Pool_214_GI	KRAS	c.35G>T p.Gly12Val	60.0%	These results are intended for research purposes	GI NGS Panel v1.0
+158009-166-T	Pool_214_GI	TP53	c.524G>A p.Arg175His	68.0%	These results are intended for research purposes	GI NGS Panel v1.0
+158010-168-T	Pool_214_GI	TP53	c.659A>G p.Tyr220Cys	35.0%	These results are intended for research purposes	GI NGS Panel v1.0
+158011-169-T	Pool_214_GI	APC	c.3907C>T p.Gln1303Ter	10.0%	These results are intended for research purposes	GI NGS Panel v1.0
+158011-169-T	Pool_214_GI	CTNNB1	c.1165T>C p.Ser389Pro	13.0%	These results are intended for research purposes	GI NGS Panel v1.0
+158011-169-T	Pool_214_GI	IDH1	c.714G>A p.Gln238Gln	19.0%	These results are intended for research purposes	GI NGS Panel v1.0
+158011-169-T	Pool_214_GI	PIK3CA	c.3140A>G p.His1047Arg	11.0%	These results are intended for research purposes	GI NGS Panel v1.0
+158011-169-T	Pool_214_GI	SMAD4	c.1610A>G p.Asp537Gly	25.0%	These results are intended for research purposes	GI NGS Panel v1.0
+158011-169-T	Pool_214_GI	TP53	c.517G>A p.Val173Met	27.0%	These results are intended for research purposes	GI NGS Panel v1.0
+158012-171-T	Pool_214_GI	APC	c.2477T>A p.Leu826Ter	40.0%	These results are intended for research purposes	GI NGS Panel v1.0
+158012-171-T	Pool_214_GI	TP53	c.114delA p.Gln38fs	38.0%	These results are intended for research purposes	GI NGS Panel v1.0
+152193-028-T	Pool_220_GI	APC	c.637C>T p.Arg213Ter and c.3856G>T p.Glu1286Ter	17.0% and 17.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+152193-028-T	Pool_220_GI	ATM	c.6452+1G>A  and c.9022C>T p.Arg3008Cys	16.0% and 9.0%	Transcripts: ENST00000278616; These results are intended for research purposes	GI NGS v2.0
+152193-028-T	Pool_220_GI	ERBB4	c.1716+1G>T 	10.0%	Transcripts: ENST00000342788; These results are intended for research purposes	GI NGS v2.0
+152193-028-T	Pool_220_GI	KRAS	c.35G>A p.Gly12Asp	24.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+152193-028-T	Pool_220_GI	PIK3CA	c.1636C>A p.Gln546Lys	30.0%	Transcripts: ENST00000263967; These results are intended for research purposes	GI NGS v2.0
+006L-007-T	Pool_227_GI	ARID1A	c.1956dupG p.Met651fs	59.0%	Transcripts: ENST00000324856; These results are intended for research purposes	GI NGS v2.0
+006L-007-T	Pool_227_GI	TP53	c.482C>A p.Ala161Asp	57.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+021L-002-T	Pool_227_GI	APC	c.2413C>T p.Arg805Ter	38.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+021L-002-T	Pool_227_GI	KRAS	c.35G>A p.Gly12Asp	18.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+021L-002-T	Pool_227_GI	PIK3CA	c.1624G>A p.Glu542Lys	17.0%	Transcripts: ENST00000263967; These results are intended for research purposes	GI NGS v2.0
+022L-007-T	Pool_227_GI	ARID1A	c.1956dupG p.Met651fs	42.0%	Transcripts: ENST00000324856; These results are intended for research purposes	GI NGS v2.0
+022L-007-T	Pool_227_GI	TP53	c.482C>A p.Ala161Asp	47.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+152167-002-T	Pool_227_GI	APC	c.2413C>T p.Arg805Ter	39.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+152167-002-T	Pool_227_GI	KRAS	c.35G>A p.Gly12Asp	21.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+152167-002-T	Pool_227_GI	PIK3CA	c.1624G>A p.Glu542Lys	25.0%	Transcripts: ENST00000263967; These results are intended for research purposes	GI NGS v2.0
+028L-005-T	Pool_228_GI	FBXW7	c.1378C>T p.His460Tyr	21.0%	Transcripts: ENST00000281708; These results are intended for research purposes	GI NGS v2.0
+030L-011-T	Pool_229_GI	APC	c.1660C>T p.Arg554Ter and c.3958delG p.Val1320fs and c.4196G>A p.Arg1399His	16.0% and 34.0% and 28.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+030L-011-T	Pool_229_GI	FBXW7	c.916C>T p.Gln306Ter	33.0%	Transcripts: ENST00000281708; These results are intended for research purposes	GI NGS v2.0
+030L-011-T	Pool_229_GI	KRAS	c.37G>C p.Gly13Arg	31.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+030L-011-T	Pool_229_GI	TP53	c.844C>T p.Arg282Trp	40.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+150390-032-T	Pool_229_GI	APC	c.4017delT p.Gly1339fs and c.4099C>T p.Gln1367Ter	22.0% and 26.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+150390-032-T	Pool_229_GI	CTNNB1	c.455C>G p.Ala152Gly	28.0%	Transcripts: ENST00000396183; These results are intended for research purposes	GI NGS v2.0
+150390-032-T	Pool_229_GI	KRAS	c.38G>A p.Gly13Asp	27.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+150390-032-T	Pool_229_GI	NOTCH3	c.2748C>A p.Tyr916Ter	26.0%	Transcripts: ENST00000263388; These results are intended for research purposes	GI NGS v2.0
+150390-032-T	Pool_229_GI	TP53	c.424_425dupCC p.Pro142fs	31.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+152158-011-T	Pool_229_GI	APC	c.1660C>T p.Arg554Ter and c.4196G>A p.Arg1399His	22.0% and 36.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+152158-011-T	Pool_229_GI	FBXW7	c.916C>T p.Gln306Ter	39.0%	Transcripts: ENST00000281708; These results are intended for research purposes	GI NGS v2.0
+152158-011-T	Pool_229_GI	KRAS	c.37G>C p.Gly13Arg	37.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+152158-011-T	Pool_229_GI	TP53	c.844C>T p.Arg282Trp	54.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+152191-032-T	Pool_229_GI	APC	c.4017delT p.Gly1339fs and c.4099C>T p.Gln1367Ter	24.0% and 27.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+152191-032-T	Pool_229_GI	CTNNB1	c.455C>G p.Ala152Gly	28.0%	Transcripts: ENST00000396183; These results are intended for research purposes	GI NGS v2.0
+152191-032-T	Pool_229_GI	KRAS	c.38G>A p.Gly13Asp	31.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+152191-032-T	Pool_229_GI	NOTCH3	c.2748C>A p.Tyr916Ter	38.0%	Transcripts: ENST00000263388; These results are intended for research purposes	GI NGS v2.0
+152191-032-T	Pool_229_GI	TP53	c.424_425dupCC p.Pro142fs	44.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+150353-040-T	Pool_230_GI	APC	c.2985C>A p.Cys995Ter and c.4335delA p.Thr1445fs	28.0% and 28.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+150353-040-T	Pool_230_GI	KRAS	c.35G>T p.Gly12Val	49.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+150380-040-T	Pool_230_GI	APC	c.2985C>A p.Cys995Ter and c.4335delA p.Thr1445fs	22.0% and 29.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+150380-040-T	Pool_230_GI	KRAS	c.35G>T p.Gly12Val	29.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+152150-019-T	Pool_230_GI	NRAS	c.35G>A p.Gly12Asp	11.0%	Transcripts: ENST00000369535; These results are intended for research purposes	GI NGS v2.0
+152150-019-T	Pool_230_GI	PIK3CA	c.1624G>A p.Glu542Lys	10.0%	Transcripts: ENST00000263967; These results are intended for research purposes	GI NGS v2.0
+152150-019-T	Pool_230_GI	PTEN	c.445C>T p.Gln149Ter	19.0%	Transcripts: ENST00000371953; These results are intended for research purposes	GI NGS v2.0
+152150-019-T	Pool_230_GI	SMAD4	c.788G>A p.Gly263Glu	11.0%	Transcripts: ENST00000342988; These results are intended for research purposes	GI NGS v2.0
+152182-040-T	Pool_230_GI	APC	c.2985C>A p.Cys995Ter and c.4335delA p.Thr1445fs	10.0% and 11.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+152182-040-T	Pool_230_GI	KRAS	c.35G>T p.Gly12Val	21.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+153898-019-T	Pool_230_GI	NRAS	c.35G>A p.Gly12Asp	35.0%	Transcripts: ENST00000369535; These results are intended for research purposes	GI NGS v2.0
+153898-019-T	Pool_230_GI	PIK3CA	c.1624G>A p.Glu542Lys	38.0%	Transcripts: ENST00000263967; These results are intended for research purposes	GI NGS v2.0
+153898-019-T	Pool_230_GI	PTEN	c.445C>T p.Gln149Ter	57.0%	Transcripts: ENST00000371953; These results are intended for research purposes	GI NGS v2.0
+153898-019-T	Pool_230_GI	SMAD4	c.788G>A p.Gly263Glu	49.0%	Transcripts: ENST00000342988; These results are intended for research purposes	GI NGS v2.0
+152187-033-T	Pool_231_GI	APC	c.646C>T  p.Arg216Ter and c.3921_3925delAAAAG p.Lys1308fs	28.0% and 6.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+152187-033-T	Pool_231_GI	FBXW7	c.1394G>A p.Arg465His	16.0%	Transcripts: ENST00000281708; These results are intended for research purposes	GI NGS v2.0
+152187-033-T	Pool_231_GI	KRAS	c.436G>A p.Ala146Thr	46.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+152189-033-T	Pool_231_GI	APC	c.646C>T p.Arg216Ter	24.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+152189-033-T	Pool_231_GI	FBXW7	c.1394G>A p.Arg465His	19.0%	Transcripts: ENST00000281708; These results are intended for research purposes	GI NGS v2.0
+152189-033-T	Pool_231_GI	KRAS	c.436G>A p.Ala146Thr	47.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+153585-033-T	Pool_231_GI	APC	c.646C>T p.Arg216Ter	9.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+153585-033-T	Pool_231_GI	FBXW7	c.1394G>A p.Arg465His	8.0%	Transcripts: ENST00000281708; These results are intended for research purposes	GI NGS v2.0
+153585-033-T	Pool_231_GI	KRAS	c.436G>A p.Ala146Thr	24.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+153892-022-T	Pool_231_GI	RET	c.341G>A p.Arg114His	12.0%	Transcripts: ENST00000355710; These results are intended for research purposes	GI NGS v2.0
+154259-033-T	Pool_231_GI	APC	c.646C>T p.Arg216Ter	5.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+154259-033-T	Pool_231_GI	KRAS	c.436G>A p.Ala146Thr	7.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+150378-041-T	Pool_232_GI	APC	c.637C>T p.Arg213Ter and c.4468C>T p.His1490Tyr	28.0% and 23.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+150378-041-T	Pool_232_GI	ATM	c.7328G>A p.Arg2443Gln	24.0%	Transcripts: ENST00000278616; These results are intended for research purposes	GI NGS v2.0
+150378-041-T	Pool_232_GI	CTNNB1	c.1303A>G p.Lys435Glu	23.0%	Transcripts: ENST00000396183; These results are intended for research purposes	GI NGS v2.0
+150378-041-T	Pool_232_GI	KRAS	c.35G>C p.Gly12Ala	47.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+150378-041-T	Pool_232_GI	TP53	c.404G>A p.Cys135Tyr	59.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+152178-041-T	Pool_232_GI	APC	c.637C>T p.Arg213Ter and c.4469_4470dupAT p.His1490fs	14.0% and 12.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+152178-041-T	Pool_232_GI	ATM	c.7328G>A p.Arg2443Gln	15.0%	Transcripts: ENST00000278616; These results are intended for research purposes	GI NGS v2.0
+152178-041-T	Pool_232_GI	CTNNB1	c.1303A>G p.Lys435Glu	19.0%	Transcripts: ENST00000396183; These results are intended for research purposes	GI NGS v2.0
+152178-041-T	Pool_232_GI	KRAS	c.35G>C p.Gly12Ala	28.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+152178-041-T	Pool_232_GI	TP53	c.404G>A p.Cys135Tyr	42.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+152180-041-T	Pool_232_GI	APC	c.637C>T p.Arg213Ter and c.4469_4470dupAT p.His1490fs	14.0% and 10.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+152180-041-T	Pool_232_GI	ATM	c.7328G>A p.Arg2443Gln	11.0%	Transcripts: ENST00000278616; These results are intended for research purposes	GI NGS v2.0
+152180-041-T	Pool_232_GI	CTNNB1	c.1303A>G p.Lys435Glu	9.0%	Transcripts: ENST00000396183; These results are intended for research purposes	GI NGS v2.0
+152180-041-T	Pool_232_GI	KRAS	c.35G>C p.Gly12Ala	19.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+152180-041-T	Pool_232_GI	TP53	c.404G>A p.Cys135Tyr	28.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+154249-044-T	Pool_232_GI	APC	c.694C>T p.Arg232Ter	25.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+154249-044-T	Pool_232_GI	ERBB2	ERBB2 Amplification		Transcripts: ENST00000269571; These results are intended for research purposes	GI NGS v2.0
+154249-044-T	Pool_232_GI	TP53	c.955A>T p.Lys319Ter	53.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+154267-044-T	Pool_232_GI	APC	c.694C>T p.Arg232Ter	22.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+154267-044-T	Pool_232_GI	TP53	c.955A>T p.Lys319Ter	49.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+150384-037-T	Pool_233_GI	APC	c.2602G>T p.Glu868Ter and c.4497delA p.Gly1499fs	29.0% and 25.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+150384-037-T	Pool_233_GI	KRAS	c.35G>T p.Gly12Val	28.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+150384-037-T	Pool_233_GI	PIK3CA	c.1624G>A p.Glu542Lys	25.0%	Transcripts: ENST00000263967; These results are intended for research purposes	GI NGS v2.0
+150384-037-T	Pool_233_GI	TP53	c.818G>A p.Arg273His	42.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+152184-037-T	Pool_233_GI	KRAS	c.35G>T p.Gly12Val	7.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+152184-037-T	Pool_233_GI	PIK3CA	c.1624G>A p.Glu542Lys	6.0%	Transcripts: ENST00000263967; These results are intended for research purposes	GI NGS v2.0
+152184-037-T	Pool_233_GI	TP53	c.818G>A p.Arg273His	5.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+154261-035-T	Pool_233_GI	APC	c.1312+3A>C 	55.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+154261-035-T	Pool_233_GI	FBXW7	c.2065C>T p.Arg689Trp	25.0%	Transcripts: ENST00000281708; These results are intended for research purposes	GI NGS v2.0
+154261-035-T	Pool_233_GI	KRAS	c.35G>T p.Gly12Val	26.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+154261-035-T	Pool_233_GI	PTEN	c.911G>T p.Cys304Phe	27.0%	Transcripts: ENST00000371953; These results are intended for research purposes	GI NGS v2.0
+154261-035-T	Pool_233_GI	TCF7L2	c.932+1G>A 	26.0%	Transcripts: ENST00000627217; These results are intended for research purposes	GI NGS v2.0
+152183-038-T	Pool_234_GI	APC	c.674delA p.Glu225fs and c.3340C>T p.Arg1114Ter	29.0% and 26.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+152183-038-T	Pool_234_GI	BRAF	c.1742-1A>T 	47.0%	Transcripts: ENST00000288602; These results are intended for research purposes	GI NGS v2.0
+152183-038-T	Pool_234_GI	TP53	c.747G>T p.Arg249Ser and c.743G>A p.Arg248Gln	31.0% and 27.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+153589-038-T	Pool_234_GI	APC	c.674delA p.Glu225fs and c.3340C>T p.Arg1114Ter	17.0% and 16.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+153589-038-T	Pool_234_GI	BRAF	c.1742-1A>T 	26.0%	Transcripts: ENST00000288602; These results are intended for research purposes	GI NGS v2.0
+153589-038-T	Pool_234_GI	CDKN2B	c.*340G>A 	13.0%	Transcripts: ENST00000276925; These results are intended for research purposes	GI NGS v2.0
+153589-038-T	Pool_234_GI	TP53	c.747G>T p.Arg249Ser and c.743G>A p.Arg248Gln	25.0% and 17.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+150368-050-T	Pool_235_GI	APC	c.694C>T p.Arg232Ter and c.4630delG p.Glu1544fs	26.0% and 31.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+150368-050-T	Pool_235_GI	KRAS	c.38G>A p.Gly13Asp	28.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+150368-050-T	Pool_235_GI	TCF7L2	c.430C>T p.Gln144Ter and c.347G>A p.Gly116Asp	26.0% and 29.0%	Transcripts: ENST00000627217; These results are intended for research purposes	GI NGS v2.0
+150368-050-T	Pool_235_GI	TP53	c.818G>A p.Arg273His	41.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+154183-050-T	Pool_235_GI	APC	c.694C>T p.Arg232Ter and c.4630delG p.Glu1544fs	21.0% and 21.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+154183-050-T	Pool_235_GI	KRAS	c.38G>A p.Gly13Asp	17.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+154183-050-T	Pool_235_GI	TCF7L2	c.430C>T p.Gln144Ter and c.347G>A p.Gly116Asp	23.0% and 22.0%	Transcripts: ENST00000627217; These results are intended for research purposes	GI NGS v2.0
+154183-050-T	Pool_235_GI	TP53	c.818G>A p.Arg273His	24.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+154184-052-T	Pool_235_GI	CTNNB1	Exon 3 deletion		Transcripts: ENST00000396183; These results are intended for research purposes	GI NGS v2.0
+154184-052-T	Pool_235_GI	KRAS	c.35G>T p.Gly12Val	15.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+154184-052-T	Pool_235_GI	NRAS	c.38G>A p.Gly13Asp	19.0%	Transcripts: ENST00000369535; These results are intended for research purposes	GI NGS v2.0
+154184-052-T	Pool_235_GI	PIK3CA	c.1633G>A p.Glu545Lys	19.0%	Transcripts: ENST00000263967; These results are intended for research purposes	GI NGS v2.0
+154184-052-T	Pool_235_GI	TP53	c.733G>A p.Gly245Ser	23.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+154186-052-T	Pool_235_GI	CTNNB1	Exon 3 deletion		Transcripts: ENST00000396183; These results are intended for research purposes	GI NGS v2.0
+154186-052-T	Pool_235_GI	KRAS	c.35G>T p.Gly12Val	11.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+154186-052-T	Pool_235_GI	NRAS	c.38G>A p.Gly13Asp	10.0%	Transcripts: ENST00000369535; These results are intended for research purposes	GI NGS v2.0
+154186-052-T	Pool_235_GI	PIK3CA	c.1633G>A p.Glu545Lys	11.0%	Transcripts: ENST00000263967; These results are intended for research purposes	GI NGS v2.0
+154186-052-T	Pool_235_GI	TP53	c.733G>A p.Gly245Ser	14.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+152197-025-T	Pool_236_GI	APC	c.4132C>T p.Gln1378Ter	47.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+152197-025-T	Pool_236_GI	KRAS	c.38G>A p.Gly13Asp	38.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+152199-025-T	Pool_236_GI	APC	c.4132C>T p.Gln1378Ter	60.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+152199-025-T	Pool_236_GI	KRAS	c.38G>A p.Gly13Asp	43.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+150367-051-T	Pool_237_GI	AKT1	c.49G>A p.Glu17Lys	5.0%	Transcripts: ENST00000407796; These results are intended for research purposes	GI NGS v2.0
+150367-051-T	Pool_237_GI	APC	c.4069G>T p.Gly1357Ter and c.4142dupC p.Thr1380fs	21.0% and 16.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+150367-051-T	Pool_237_GI	KRAS	c.35G>A p.Gly12Asp	24.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+150367-051-T	Pool_237_GI	PIK3CA	c.1624G>A p.Glu542Lys	6.0%	Transcripts: ENST00000263967; These results are intended for research purposes	GI NGS v2.0
+150367-051-T	Pool_237_GI	SMAD4	c.766_767delinsAA p.Gly352Lys		Transcripts: ENST00000342988; These results are intended for research purposes	GI NGS v2.0
+150367-051-T	Pool_237_GI	TCF7L2	c.559delC p.His187fs	26.0%	Transcripts: ENST00000627217; These results are intended for research purposes	GI NGS v2.0
+150367-051-T	Pool_237_GI	TP53	c.643A>G p.Ser215Gly	31.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+152168-063-T	Pool_237_GI	APC	c.3921_3925delAAAAG p.Lys1308fs	31.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+152168-063-T	Pool_237_GI	TP53	c.524G>A p.Arg175His	39.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+152170-063-T	Pool_237_GI	APC	c.3921_3925delAAAAG p.Lys1308fs	17.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+152170-063-T	Pool_237_GI	TP53	c.524G>A p.Arg175His	36.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+152177-051-T	Pool_237_GI	APC	c.4069G>T p.Gly1357Ter and c.4142dupC p.Thr1380fs	16.0% and 13.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+152177-051-T	Pool_237_GI	KRAS	c.35G>A p.Gly12Asp	14.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+152177-051-T	Pool_237_GI	TCF7L2	c.559delC p.His187fs	14.0%	Transcripts: ENST00000627217; These results are intended for research purposes	GI NGS v2.0
+152177-051-T	Pool_237_GI	TP53	c.643A>G p.Ser215Gly	20.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+152145-021-T	Pool_238_GI	APC	c.3444_3445delTG p.Glu1151fs	22.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+152145-021-T	Pool_238_GI	KRAS	c.35G>A p.Gly12Asp	21.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+152147-021-T	Pool_238_GI	KRAS	c.35G>A p.Gly12Asp	30.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+153882-030-T	Pool_238_GI	APC	c.1312+5G>A 	46.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+153882-030-T	Pool_238_GI	KRAS	c.34G>T p.Gly12Cys	52.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+158712-019-T	Pool_242_GI	CDK6	CDK6 Amplification		These results are intended for research purposes	GI NGS v2.0
+158712-019-T	Pool_242_GI	DOCK2	c.*67G>A  and c.*161A>G 	9.0% and 10.0%	Transcripts: ENST00000256935; These results are intended for research purposes	GI NGS v2.0
+158712-019-T	Pool_242_GI	ERBB4	c.1164A>T p.Lys388Asn	8.0%	Transcripts: ENST00000342788; These results are intended for research purposes	GI NGS v2.0
+158712-019-T	Pool_242_GI	KRAS	KRAS Amplification		Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+158712-019-T	Pool_242_GI	RET	c.1510G>T p.Val504Leu	14.0%	Transcripts: ENST00000355710; These results are intended for research purposes	GI NGS v2.0
+158712-019-T	Pool_242_GI	ROS1	c.6686C>G p.Ser2229Cys and c.6682A>C p.Lys2228Gln and c.6637G>A p.Asp2213Asn	8.0% and 8.0% and 6.0%	Transcripts: ENST00000368508; These results are intended for research purposes	GI NGS v2.0
+158712-019-T	Pool_242_GI	TP53	c.512dupG p.Glu171fs	39.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+158716-073-T	Pool_242_GI	SMAD4	c.376G>T p.Val126Phe	39.0%	Transcripts: ENST00000342988; These results are intended for research purposes	GI NGS v2.0
+158716-073-T	Pool_242_GI	TP53	c.714T>G p.Cys238Trp	72.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+159001-145-T	Pool_242_GI	APC	c.4017delT p.Gly1339fs and c.4099C>T p.Gln1367Ter	21.0% and 24.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+159001-145-T	Pool_242_GI	CTNNB1	c.455C>G p.Ala152Gly	28.0%	Transcripts: ENST00000396183; These results are intended for research purposes	GI NGS v2.0
+159001-145-T	Pool_242_GI	KRAS	c.38G>A p.Gly13Asp	27.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+159001-145-T	Pool_242_GI	NOTCH3	c.2748C>A p.Tyr916Ter	25.0%	Transcripts: ENST00000263388; These results are intended for research purposes	GI NGS v2.0
+159001-145-T	Pool_242_GI	TP53	c.424_425dupCC p.Pro142fs	33.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+159002-199-T	Pool_242_GI	APC	c.835-1G>A  and c.3949G>T p.Glu1317Ter	21.0% and 22.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+159002-199-T	Pool_242_GI	FBXW7	c.1394G>A p.Arg465His	22.0%	Transcripts: ENST00000281708; These results are intended for research purposes	GI NGS v2.0
+159002-199-T	Pool_242_GI	KRAS	c.38G>A p.Gly13Asp	20.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+159002-199-T	Pool_242_GI	NOTCH1	c.5576C>T p.Ala1859Val	19.0%	Transcripts: ENST00000277541; These results are intended for research purposes	GI NGS v2.0
+158993-200-T	Pool_252_GI	APC	c.2713A>G p.Ser905Gly	13.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+158993-200-T	Pool_252_GI	DOCK2	c.536G>A p.Arg179Gln	26.0%	Transcripts: ENST00000256935; These results are intended for research purposes	GI NGS v2.0
+158993-200-T	Pool_252_GI	ERBB2	ERBB2 Amplification		Transcripts: ENST00000269571; These results are intended for research purposes	GI NGS v2.0
+158993-200-T	Pool_252_GI	ROS1	c.5928A>C p.Lys1976Asn	10.0%	Transcripts: ENST00000368508; These results are intended for research purposes	GI NGS v2.0
+158993-200-T	Pool_252_GI	TP53	c.811G>T p.Glu271Ter	39.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+158996-206-T	Pool_252_GI	APC	c.1778G>A p.Trp593Ter and c.4464_4468delATTAC p.Leu1489fs	11.0% and 18.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+158996-206-T	Pool_252_GI	SMAD4	c.1277C>G p.Pro426Arg	13.0%	Transcripts: ENST00000342988; These results are intended for research purposes	GI NGS v2.0
+158996-206-T	Pool_252_GI	TP53	c.844C>T p.Arg282Trp	30.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+158997-209-T	Pool_253_GI	APC	c.1690C>T p.Arg564Ter	29.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+158997-209-T	Pool_253_GI	ARID1A	c.1108delG p.Gly371fs	30.0%	Transcripts: ENST00000324856; These results are intended for research purposes	GI NGS v2.0
+158997-209-T	Pool_253_GI	CTNNB1	c.122C>T p.Thr41Ile and c.1723G>A p.Gly575Arg	28.0% and 24.0%	Transcripts: ENST00000396183; These results are intended for research purposes	GI NGS v2.0
+158997-209-T	Pool_253_GI	FBXW7	c.1513C>T p.Arg505Cys	22.0%	Transcripts: ENST00000281708; These results are intended for research purposes	GI NGS v2.0
+158997-209-T	Pool_253_GI	MAP2K2	c.196G>A p.Glu66Lys	32.0%	Transcripts: ENST00000262948; These results are intended for research purposes	GI NGS v2.0
+158997-209-T	Pool_253_GI	NOTCH1	c.3778G>A p.Val1260Met	24.0%	Transcripts: ENST00000277541; These results are intended for research purposes	GI NGS v2.0
+158997-209-T	Pool_253_GI	PIK3CA	c.1031T>G p.Val344Gly	29.0%	Transcripts: ENST00000263967; These results are intended for research purposes	GI NGS v2.0
+158997-209-T	Pool_253_GI	TP53	c.817C>T p.Arg273Cys	7.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+158997-209-T	Pool_253_GI	VHL	c.137A>T p.Glu46Val	31.0%	Transcripts: ENST00000256474; These results are intended for research purposes	GI NGS v2.0
+158999-213-T	Pool_253_GI	APC	c.3949G>T p.Glu1317Ter	32.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+158999-213-T	Pool_253_GI	FBXW7	c.1394G>A p.Arg465His	14.0%	Transcripts: ENST00000281708; These results are intended for research purposes	GI NGS v2.0
+158999-213-T	Pool_253_GI	KRAS	c.35G>T p.Gly12Val	29.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+158999-213-T	Pool_253_GI	NOTCH3	c.997G>A p.Val333Met	20.0%	Transcripts: ENST00000263388; These results are intended for research purposes	GI NGS v2.0
+158999-213-T	Pool_253_GI	TP53	c.487T>C p.Tyr163His	39.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+159000-214-T	Pool_253_GI	APC	c.3856G>T p.Glu1286Ter	8.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+159000-214-T	Pool_253_GI	NOTCH1	c.771T>A p.Asn257Lys	9.0%	Transcripts: ENST00000277541; These results are intended for research purposes	GI NGS v2.0
+159000-214-T	Pool_253_GI	NRAS	c.35G>A p.Gly12Asp	24.0%	Transcripts: ENST00000369535; These results are intended for research purposes	GI NGS v2.0
+159000-214-T	Pool_253_GI	PIK3CA	c.323G>A p.Arg108His	13.0%	Transcripts: ENST00000263967; These results are intended for research purposes	GI NGS v2.0
+159000-214-T	Pool_253_GI	TP53	c.848G>C p.Arg283Pro	23.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+158991-191-T	Pool_259_GI	APC	c.2287G>T p.Glu763Ter and c.4348C>T p.Arg1450Ter	42.0% and 37.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+158991-191-T	Pool_259_GI	KRAS	c.35G>T p.Gly12Val	40.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+158991-191-T	Pool_259_GI	TP53	c.643_645delAGT p.Ser215del and c.376-1G>A 	49.0% and 5.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+159551-185-T	Pool_259_GI	APC	c.1787C>G p.Ser596Ter	35.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+159551-185-T	Pool_259_GI	NOTCH1	c.1126T>A p.Cys376Ser	27.0%	Transcripts: ENST00000277541; These results are intended for research purposes	GI NGS v2.0
+159551-185-T	Pool_259_GI	TP53	c.814G>A p.Val272Met and c.437G>A p.Trp146Ter	14.0% and 30.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+159553-196-T	Pool_259_GI	BRAF	c.1799T>A p.Val600Glu	30.0%	Transcripts: ENST00000288602; These results are intended for research purposes	GI NGS v2.0
+159553-196-T	Pool_259_GI	ROS1	c.6720T>G p.Asn2240Lys and c.6481C>T p.Pro2161Ser	7.0% and 7.0%	Transcripts: ENST00000368508; These results are intended for research purposes	GI NGS v2.0
+159553-196-T	Pool_259_GI	TP53	c.817C>T p.Arg273Cys	40.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+159555-207-T	Pool_259_GI	FBXW7	FBXW7 Amplification		Transcripts: ENST00000281708; These results are intended for research purposes	GI NGS v2.0
+159555-207-T	Pool_259_GI	RET	c.2071G>A p.Gly691Ser	5.0%	Transcripts: ENST00000355710; These results are intended for research purposes	GI NGS v2.0
+159555-207-T	Pool_259_GI	TP53	c.1028delA p.Glu343fs	58.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+159556-215-T	Pool_259_GI	ARID1A	c.4700dupA p.Glu1566fs	10.0%	Transcripts: ENST00000324856; These results are intended for research purposes	GI NGS v2.0
+159556-215-T	Pool_259_GI	CDKN2A	c.145A>G p.Ile49Val	14.0%	Transcripts: ENST00000498124,ENST00000579755; These results are intended for research purposes	GI NGS v2.0
+159556-215-T	Pool_259_GI	TP53	c.396G>T p.Lys132Asn	29.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1510264-086-T	Pool_276_GI	SMAD4	c.954_957delAGAC p.Leu318fs	7.0%	Transcripts: ENST00000342988; These results are intended for research purposes	GI NGS v2.0
+1510264-086-T	Pool_276_GI	TP53	c.268dupC p.Ser90fs	43.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1510267-111-T	Pool_276_GI	BRAF	c.1799T>A p.Val600Glu	22.0%	Transcripts: ENST00000288602; These results are intended for research purposes	GI NGS v2.0
+1510267-111-T	Pool_276_GI	DOCK2	c.520G>C p.Asp174His	7.0%	Transcripts: ENST00000256935; These results are intended for research purposes	GI NGS v2.0
+1510267-111-T	Pool_276_GI	PIK3CA	c.1035T>A p.Asn345Lys	22.0%	Transcripts: ENST00000263967; These results are intended for research purposes	GI NGS v2.0
+1510267-111-T	Pool_276_GI	SMAD4	c.354_375delGTTTGACTTAAAATGTGATAGT p.Ala118fs and c.794G>A p.Arg265His and c.1199G>A p.Arg400His	6.0% and 25.0% and 24.0%	Transcripts: ENST00000342988; These results are intended for research purposes	GI NGS v2.0
+1510267-111-T	Pool_276_GI	VHL	c.541G>A p.Val181Ile	11.0%	Transcripts: ENST00000256474; These results are intended for research purposes	GI NGS v2.0
+1510274-152-T	Pool_276_GI	KRAS	KRAS Amplification		Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+1510274-152-T	Pool_276_GI	TP53	c.456dupC p.Pro152fs	54.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1510297-152-T	Pool_276_GI	KRAS	KRAS Amplification		Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+1510297-152-T	Pool_276_GI	TP53	c.456dupC p.Pro152fs	57.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1510275-157-T	Pool_277_GI	ARID1A	c.1113dupG p.Gly370fs	17.0%	Transcripts: ENST00000324856; These results are intended for research purposes	GI NGS v2.0
+1510275-157-T	Pool_277_GI	IDH1	c.394C>G p.Arg132Gly	25.0%	Transcripts: ENST00000415913; These results are intended for research purposes	GI NGS v2.0
+1510275-157-T	Pool_277_GI	KRAS	c.35G>C p.Gly12Ala	15.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+1510275-157-T	Pool_277_GI	PIK3CA	c.3140A>G p.His1047Arg	8.0%	Transcripts: ENST00000263967; These results are intended for research purposes	GI NGS v2.0
+1510277-165-T	Pool_277_GI	APC	c.637C>T p.Arg213Ter	41.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+1510277-165-T	Pool_277_GI	KRAS	c.35G>C p.Gly12Ala	46.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+1510277-165-T	Pool_277_GI	TP53	c.844C>T p.Arg282Trp	49.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1510280-173-T	Pool_277_GI	APC	c.4666dupA p.Glu1554fs	52.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+1510280-173-T	Pool_277_GI	TCF7L2	TCF7L2 Amplification		Transcripts: ENST00000627217; These results are intended for research purposes	GI NGS v2.0
+1510280-173-T	Pool_277_GI	TP53	c.916C>T p.Arg306Ter	55.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1510289-189-T	Pool_277_GI	KRAS	c.38G>A p.Gly13Asp	37.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+1510289-189-T	Pool_277_GI	TP53	c.818G>A p.Arg273His	62.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+159552-187-T	Pool_277_GI	BRAF	c.1799T>A p.Val600Glu	20.0%	Transcripts: ENST00000288602; These results are intended for research purposes	GI NGS v2.0
+159552-187-T	Pool_277_GI	CDKN2A	c.71C>G p.Pro24Arg	30.0%	Transcripts: ENST00000498124,ENST00000579755; These results are intended for research purposes	GI NGS v2.0
+159552-187-T	Pool_277_GI	TP53	c.385_389delGCCCT p.Ala129fs	24.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1510265-105-T	Pool_278_GI	APC	c.3810T>G p.Cys1270Trp and c.4322_4333delCACCTCCTCAAA p.Pro1442_Thr1445del	65.0% and 28.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+1510265-105-T	Pool_278_GI	KRAS	c.35G>T p.Gly12Val	70.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+1510265-105-T	Pool_278_GI	TP53	c.1024C>T p.Arg342Ter	73.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1510266-110-T	Pool_278_GI	APC	c.4666dupA p.Glu1554fs	41.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+1510266-110-T	Pool_278_GI	KRAS	c.437C>T p.Ala146Val	48.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+1510266-110-T	Pool_278_GI	PIK3CA	c.263G>A p.Arg88Gln	33.0%	Transcripts: ENST00000263967; These results are intended for research purposes	GI NGS v2.0
+1510266-110-T	Pool_278_GI	TP53	c.725G>A p.Cys242Tyr	44.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1510291-198-T	Pool_278_GI	KRAS	KRAS Amplification		Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+1510291-198-T	Pool_278_GI	TP53	c.404G>T p.Cys135Phe	62.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+159549-120-T	Pool_278_GI	CTNNB1	c.1469_1472dupGACT p.Leu491fs	13.0%	Transcripts: ENST00000396183; These results are intended for research purposes	GI NGS v2.0
+159549-120-T	Pool_278_GI	MAP2K2	c.1007delG p.Gly336fs	17.0%	Transcripts: ENST00000262948; These results are intended for research purposes	GI NGS v2.0
+159549-120-T	Pool_278_GI	SMAD4	c.987dupT p.Val330fs	18.0%	Transcripts: ENST00000342988; These results are intended for research purposes	GI NGS v2.0
+159938-205-T	Pool_278_GI	APC	c.4132C>T p.Gln1378Ter	51.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+159938-205-T	Pool_278_GI	KRAS	c.35G>T p.Gly12Val	39.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+159938-205-T	Pool_278_GI	PIK3CA	c.1637A>G p.Gln546Arg	46.0%	Transcripts: ENST00000263967; These results are intended for research purposes	GI NGS v2.0
+1510293-208-T	Pool_279_GI	KRAS	c.38G>A p.Gly13Asp	20.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+1510294-220-T	Pool_279_GI	APC	c.4349delG p.Arg1450fs	29.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+1510294-220-T	Pool_279_GI	KRAS	c.38G>A p.Gly13Asp	20.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+1510294-220-T	Pool_279_GI	PTEN	c.284C>T p.Pro95Leu and c.1012dupT p.Phe337fs	14.0% and 21.0%	Transcripts: ENST00000371953; These results are intended for research purposes	GI NGS v2.0
+1510294-220-T	Pool_279_GI	TP53	c.637C>T p.Arg213Ter	37.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1510295-221-T	Pool_279_GI	BRAF	c.1799T>A p.Val600Glu	37.0%	Transcripts: ENST00000288602; These results are intended for research purposes	GI NGS v2.0
+1510295-221-T	Pool_279_GI	TP53	c.743G>A p.Arg248Gln	39.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1510296-222-T	Pool_279_GI	ARID1A	c.3211delA p.Lys1072fs	28.0%	Transcripts: ENST00000324856; These results are intended for research purposes	GI NGS v2.0
+1510296-222-T	Pool_279_GI	FBXW7	c.1514G>A p.Arg505His	15.0%	Transcripts: ENST00000281708; These results are intended for research purposes	GI NGS v2.0
+1510296-222-T	Pool_279_GI	KRAS	c.35G>A p.Gly12Asp	12.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+1510296-222-T	Pool_279_GI	NOTCH3	c.6277G>A p.Ala2093Thr	10.0%	Transcripts: ENST00000263388; These results are intended for research purposes	GI NGS v2.0
+1510296-222-T	Pool_279_GI	PIK3CA	c.1624G>A p.Glu542Lys	12.0%	Transcripts: ENST00000263967; These results are intended for research purposes	GI NGS v2.0
+1510278-170-T	Pool_290_GI	APC	c.3289G>T p.Glu1097Ter and c.4189G>T p.Glu1397Ter and c.5232A>T p.Lys1744Asn	37.0% and 26.0% and 35.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+1510278-170-T	Pool_290_GI	CTNNB1	c.1159A>G p.Asn387Asp	44.0%	Transcripts: ENST00000396183; These results are intended for research purposes	GI NGS v2.0
+1510278-170-T	Pool_290_GI	KRAS	c.38G>A p.Gly13Asp	31.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+1510278-170-T	Pool_290_GI	PIK3CA	c.1636C>G p.Gln546Glu	30.0%	Transcripts: ENST00000263967; These results are intended for research purposes	GI NGS v2.0
+1510278-170-T	Pool_290_GI	PTEN	c.976dupG p.Asp326fs	39.0%	Transcripts: ENST00000371953; These results are intended for research purposes	GI NGS v2.0
+1510278-170-T	Pool_290_GI	SMAD4	c.733C>T p.Gln245Ter	40.0%	Transcripts: ENST00000342988; These results are intended for research purposes	GI NGS v2.0
+155452-129-T	Pool_290_GI	FBXW7	c.916C>T p.Gln306Ter	60.0%	Transcripts: ENST00000281708; These results are intended for research purposes	GI NGS v2.0
+155452-129-T	Pool_290_GI	KRAS	c.38G>A p.Gly13Asp	34.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+155452-129-T	Pool_290_GI	PIK3CA	c.278G>A p.Arg93Gln and c.3140A>G p.His1047Arg	33.0% and 36.0%	Transcripts: ENST00000263967; These results are intended for research purposes	GI NGS v2.0
+155452-129-T	Pool_290_GI	TP53	c.586C>T p.Arg196Ter	60.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+159856-138-T	Pool_290_GI	APC	c.1959-1C>T 	54.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+159856-138-T	Pool_290_GI	CTNNB1	c.2010C>G p.Tyr670Ter	20.0%	Transcripts: ENST00000396183; These results are intended for research purposes	GI NGS v2.0
+159856-138-T	Pool_290_GI	FBXW7	c.1919G>A p.Ser640Asn	26.0%	Transcripts: ENST00000281708; These results are intended for research purposes	GI NGS v2.0
+159856-138-T	Pool_290_GI	TP53	c.1009C>T p.Arg337Cys and c.853G>A p.Glu285Lys	28.0% and 27.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1600472-112-T	Pool_290_GI	ELMO1	c.479C>T p.Thr160Met	23.0%	Transcripts: ENST00000310758; These results are intended for research purposes	GI NGS v2.0
+1600472-112-T	Pool_290_GI	NOTCH3	c.4703G>A p.Arg1568Gln	26.0%	Transcripts: ENST00000263388; These results are intended for research purposes	GI NGS v2.0
+1600472-112-T	Pool_290_GI	TP53	c.514G>T p.Val172Phe	59.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1600473-184-T	Pool_290_GI	KRAS	c.35G>A p.Gly12Asp	39.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+1600473-184-T	Pool_290_GI	TP53	c.584T>A p.Ile195Asn	67.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1510269-115-T	Pool_291_GI	APC	c.4012C>T p.Gln1338Ter	24.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+1510269-115-T	Pool_291_GI	CDKN2A	c.154C>T p.Arg52Trp	18.0%	Transcripts: ENST00000498124,ENST00000579755; These results are intended for research purposes	GI NGS v2.0
+1510269-115-T	Pool_291_GI	KRAS	c.35G>T p.Gly12Val	19.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+1510269-115-T	Pool_291_GI	TP53	c.742C>T p.Arg248Trp	42.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1510276-160-T	Pool_291_GI	APC	c.532-1TT>-  and c.694C>T p.Arg232Ter	40.0% and 46.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+1510276-160-T	Pool_291_GI	TP53	c.637C>T p.Arg213Ter and c.473G>A p.Arg158His	64.0% and 32.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+159558-217-T	Pool_291_GI	TP53	c.782+1G>T 	21.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1510281-174-T	Pool_296_GI	APC	c.3340C>T p.Arg1114Ter	31.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+1510281-174-T	Pool_296_GI	FBXW7	c.1682C>A p.Thr561Lys	24.0%	Transcripts: ENST00000281708; These results are intended for research purposes	GI NGS v2.0
+1510281-174-T	Pool_296_GI	TP53	c.379T>A p.Ser127Thr	34.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1600980-059-T	Pool_296_GI	AKT1	c.49G>A p.Glu17Lys	68.0%	Transcripts: ENST00000407796; These results are intended for research purposes	GI NGS v2.0
+1600980-059-T	Pool_296_GI	APC	c.6082A>C p.Ser2028Arg	22.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+1600980-059-T	Pool_296_GI	ARID1A	c.5821C>T p.Arg1941Ter	31.0%	Transcripts: ENST00000324856; These results are intended for research purposes	GI NGS v2.0
+1600980-059-T	Pool_296_GI	BRAF	c.1799T>A p.Val600Glu	34.0%	Transcripts: ENST00000288602; These results are intended for research purposes	GI NGS v2.0
+1600980-059-T	Pool_296_GI	NOTCH3	c.2299C>T p.Arg767Cys	29.0%	Transcripts: ENST00000263388; These results are intended for research purposes	GI NGS v2.0
+1600980-059-T	Pool_296_GI	TP53	c.818G>A p.Arg273His	54.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1600981-142-T	Pool_296_GI	APC	c.3921_3925delAAAAG p.Lys1308fs	35.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+1600981-142-T	Pool_296_GI	KRAS	c.35G>T p.Gly12Val	44.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+1600981-142-T	Pool_296_GI	TP53	c.730G>T p.Gly244Cys	50.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1600982-188-T	Pool_296_GI	APC	c.3934G>T p.Gly1312Ter	64.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+1600982-188-T	Pool_296_GI	PIK3CA	c.1633G>A p.Glu545Lys	30.0%	Transcripts: ENST00000263967; These results are intended for research purposes	GI NGS v2.0
+1600982-188-T	Pool_296_GI	TP53	c.742C>T p.Arg248Trp	66.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1600474-195-T	Pool_297_GI	EGFR	EGFR Amplification		Transcripts: ENST00000275493; These results are intended for research purposes	GI NGS v2.0
+1600474-195-T	Pool_297_GI	TP53	c.637C>T p.Arg213Ter	35.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1600984-218-T	Pool_297_GI	BRAF	c.1799T>A p.Val600Glu	13.0%	Transcripts: ENST00000288602; These results are intended for research purposes	GI NGS v2.0
+1600984-218-T	Pool_297_GI	TP53	c.742C>T p.Arg248Trp	20.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1600984-218-T	Pool_297_GI	TRIM44	TRIM44 Amplification		These results are intended for research purposes	GI NGS v2.0
+159479-201-T	Pool_299_GI	TP53	c.376-1G>A 	11.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1600976-159-T	Pool_299_GI	KRAS	KRAS Amplification		Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+1600976-159-T	Pool_299_GI	TP53	c.818G>A p.Arg273His	29.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1600979-210-T	Pool_299_GI	APC	c.3955delC p.Pro1319fs	19.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+1600979-210-T	Pool_299_GI	DOCK2	c.2915G>A p.Arg972His	24.0%	Transcripts: ENST00000256935; These results are intended for research purposes	GI NGS v2.0
+154846-122-T	Pool_321a_GI	ARID1A	c.3654dupT p.Asp1219fs	48.0%	Transcripts: ENST00000324856; These results are intended for research purposes	GI NGS v2.0
+154846-122-T	Pool_321a_GI	ERBB4	c.1979G>C p.Gly660Ala	6.0%	Transcripts: ENST00000342788; These results are intended for research purposes	GI NGS v2.0
+154846-122-T	Pool_321a_GI	IDH1	c.394C>T p.Arg132Cys	32.0%	Transcripts: ENST00000415913; These results are intended for research purposes	GI NGS v2.0
+159001-145-50-T	Pool_341_GI	APC	c.4017delT p.Gly1339fs and c.4099C>T p.Gln1367Ter	23.0% and 31.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+159001-145-50-T	Pool_341_GI	CTNNB1	c.455C>G p.Ala152Gly	24.0%	Transcripts: ENST00000396183; These results are intended for research purposes	GI NGS v2.0
+159001-145-50-T	Pool_341_GI	KRAS	c.38G>A p.Gly13Asp	26.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+159001-145-50-T	Pool_341_GI	NOTCH3	c.2748C>A p.Tyr916Ter	24.0%	Transcripts: ENST00000263388; These results are intended for research purposes	GI NGS v2.0
+159001-145-50-T	Pool_341_GI	TCF7L2	c.346C>T p.Leu116Phe	6.0%	Transcripts: ENST00000627217; These results are intended for research purposes	GI NGS v2.0
+159001-145-50-T	Pool_341_GI	TP53	c.424_425dupCC p.Pro142fs	35.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1606228-3705-G006-T	1_GI	ATM	c.73-1G>A 	29.0%	Transcripts: ENST00000278616; These results are intended for research purposes	GI NGS v2.0
+1606228-3705-G006-T	1_GI	FBXW7	c.1268G>T p.Gly423Val	27.0%	Transcripts: ENST00000281708; These results are intended for research purposes	GI NGS v2.0
+1606228-3705-G006-T	1_GI	PIK3CA	c.3140A>G p.His1047Arg	34.0%	Transcripts: ENST00000263967; These results are intended for research purposes	GI NGS v2.0
+1609643-3705-0493-T	1_GI	AKT1	AKT1 No evidence of amplification| ThomasJones:Amplification		Transcripts: ENST00000407796; These results are intended for research purposes	GI NGS v2.0
+1609643-3705-0493-T	1_GI	BRAF	c.1799T>A p.Val600Glu	50.0%	Transcripts: ENST00000288602; These results are intended for research purposes	GI NGS v2.0
+1609643-3705-0493-T	1_GI	ELMO1	c.780+1G>A 	6.0%	Transcripts: ENST00000310758; These results are intended for research purposes	GI NGS v2.0
+1609643-3705-0493-T	1_GI	NOTCH1	NOTCH1 No evidence of amplification| ThomasJones:Amplification		Transcripts: ENST00000277541; These results are intended for research purposes	GI NGS v2.0
+1609643-3705-0493-T	1_GI	NOTCH3	c.4759G>A p.Asp1587Asn	5.0%	Transcripts: ENST00000263388; These results are intended for research purposes	GI NGS v2.0
+1610246-3705-0481-T	1_GI	APC	c.6173G>A p.Gly2058Asp	5.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+1610246-3705-0481-T	1_GI	ARID1A	c.2710dupG p.Ala904fs and c.3402dupT p.Pro1135fs	30.0% and 19.0%	Transcripts: ENST00000324856; These results are intended for research purposes	GI NGS v2.0
+1610246-3705-0481-T	1_GI	JAK3	c.2660G>A p.Arg887His	6.0%	Transcripts: ENST00000458235; These results are intended for research purposes	GI NGS v2.0
+1610246-3705-0481-T	1_GI	NOTCH1	c.7532C>T p.Thr2511Ile	6.0%	Transcripts: ENST00000277541; These results are intended for research purposes	GI NGS v2.0
+1610246-3705-0481-T	1_GI	PTEN	c.690_693delACCC p.Gly230fs and c.969delT p.Asn323fs	16.0% and 29.0%	Transcripts: ENST00000371953; These results are intended for research purposes	GI NGS v2.0
+1610246-3705-0481-T	1_GI	ROS1	c.5929G>A p.Val1977Ile	5.0%	Transcripts: ENST00000368508; These results are intended for research purposes	GI NGS v2.0
+1610249-3705-0510-T	1_GI	NOTCH2	c.3225A>C p.Lys1075Asn	48.0%	Transcripts: ENST00000256646; These results are intended for research purposes	GI NGS v2.0
+1610249-3705-0510-T	1_GI	TP53	c.422G>A p.Cys141Tyr	84.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1606230-3705-464-T	2_GI	APC	c.3875C>T p.Thr1292Met and c.5224C>T p.Arg1742Cys	15.0% and 12.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+1606230-3705-464-T	2_GI	ARID1A	c.4891delG p.Gly1632fs and c.5557C>T p.Gln1853Ter and c.6173T>G p.Ile2058Ser	11.0% and 14.0% and 7.0%	Transcripts: ENST00000324856; These results are intended for research purposes	GI NGS v2.0
+1606230-3705-464-T	2_GI	ATM	c.7307+1G>A 	12.0%	Transcripts: ENST00000278616; These results are intended for research purposes	GI NGS v2.0
+1606230-3705-464-T	2_GI	KRAS	c.445delA p.Arg149fs and c.440_442delAGA p.Lys147del	7.0% and 7.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+1606230-3705-464-T	2_GI	NOTCH2	c.6313C>T p.Arg2105Trp	14.0%	Transcripts: ENST00000256646; These results are intended for research purposes	GI NGS v2.0
+1606230-3705-464-T	2_GI	PTEN	c.697C>T p.Arg233Ter and c.812T>C p.Phe271Ser	15.0% and 13.0%	Transcripts: ENST00000371953; These results are intended for research purposes	GI NGS v2.0
+1606230-3705-464-T	2_GI	TP53	c.350G>T p.Gly117Val	14.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1609949-3705-0442-T	2_GI	NOTCH2	c.57C>G p.Cys19Trp	40.0%	Transcripts: ENST00000256646; These results are intended for research purposes	GI NGS v2.0
+1609949-3705-0442-T	2_GI	TP53	c.797G>T p.Gly266Val	90.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1609951-3705-0456-T	2_GI	NOTCH1	c.5720C>T p.Pro1907Leu	17.0%	Transcripts: ENST00000277541; These results are intended for research purposes	GI NGS v2.0
+1609951-3705-0456-T	2_GI	TP53	c.736A>G p.Met246Val	58.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1607485-1835-T	Pool_428A_GI	APC	c.3907C>T p.Gln1303Ter	41.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+1607485-1835-T	Pool_428A_GI	ARID1A	c.2560C>A p.Pro854Thr	48.0%	Transcripts: ENST00000324856; These results are intended for research purposes	GI NGS v2.0
+1607485-1835-T	Pool_428A_GI	CDKN2A	c.289G>A p.Ala97Thr and c.85C>T p.Arg29Ter	33.0% and 29.0%	Transcripts: ENST00000498124,ENST00000579755; These results are intended for research purposes	GI NGS v2.0
+1607485-1835-T	Pool_428A_GI	FBXW7	c.1435C>T p.Arg479Ter	49.0%	Transcripts: ENST00000281708; These results are intended for research purposes	GI NGS v2.0
+1607485-1835-T	Pool_428A_GI	KRAS	c.34G>A p.Gly12Ser	27.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+1607485-1835-T	Pool_428A_GI	NOTCH2	c.57C>G p.Cys19Trp	30.0%	Transcripts: ENST00000256646; These results are intended for research purposes	GI NGS v2.0
+1607485-1835-T	Pool_428A_GI	SMAD4	c.505C>T p.Gln169Ter	32.0%	Transcripts: ENST00000342988; These results are intended for research purposes	GI NGS v2.0
+1607485-1835-T	Pool_428A_GI	TP53	c.672+1T>C 	24.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1605528-SCOTT-T	Pool_428_GI	EGFR	EGFR Amplification		Transcripts: ENST00000275493; These results are intended for research purposes	GI NGS v2.0
+1605528-SCOTT-T	Pool_428_GI	TP53	c.797G>A p.Gly266Glu	25.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1609953-3705-0487-T	Pool_500b_GI	BRAF	c.1799T>A p.Val600Glu	55.0%	Transcripts: ENST00000288602; These results are intended for research purposes	GI NGS v2.0
+1610247-3705-0484-T	Pool_500b_GI	KRAS	c.35G>T p.Gly12Val	63.0%	Transcripts: ENST00000256078; These results are intended for research purposes	GI NGS v2.0
+1610247-3705-0484-T	Pool_500b_GI	RET	RET No evidence of amplification| ThomasJones:Amplification		Transcripts: ENST00000355710; These results are intended for research purposes	GI NGS v2.0
+1610249-3705-0510-T	Pool_500b_GI	NOTCH2	c.3225A>C p.Lys1075Asn	48.0%	Transcripts: ENST00000256646; These results are intended for research purposes	GI NGS v2.0
+1610249-3705-0510-T	Pool_500b_GI	TP53	c.422G>A p.Cys141Tyr	84.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1611033-MCC-T	Pool_500b_GI	TP53	c.840A>T p.Arg280Ser	73.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1701847-1830-T	Pool_564A_GI	APC	c.1710dupA p.Lys570fs	23.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+1701847-1830-T	Pool_564A_GI	JAK3	c.3081C>A p.Ser1027Arg	25.0%	Transcripts: ENST00000458235; These results are intended for research purposes	GI NGS v2.0
+1701847-1830-T	Pool_564A_GI	TP53	c.524G>A p.Arg175His	27.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1701843-1879-T	Pool_564_GI	APC	c.3862delG p.Gly1288fs	24.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+1701843-1879-T	Pool_564_GI	TP53	c.711G>A p.Met237Ile	30.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1701844-1877-T	Pool_564_GI	TP53	c.772G>C p.Glu258Gln	62.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1701845-1873-T	Pool_564_GI	APC	c.1409-1->G; c.4296delA,p.Pro1433GlnfsTer40 17% 	21.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+1701845-1873-T	Pool_564_GI	TP53	c.817C>T p.Arg273Cys	30.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1701846-1870-T	Pool_564_GI	TP53	c.818G>A p.Arg273His	20.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1701847-1830-T	Pool_564_GI	APC	c.1710dupA p.Lys570fs	23.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+1701847-1830-T	Pool_564_GI	TP53	c.524G>A p.Arg175His	27.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1701848-1866-T	Pool_564_GI	APC	c.2626C>T p.Arg876Ter and c.4216C>T p.Gln1406Ter	44.0% and 23.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+1701848-1866-T	Pool_564_GI	TP53	c.844C>T p.Arg282Trp	63.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1701922-1861-T	Pool_564_GI	APC	c.2413C>T p.Arg805Ter and c.3921_3925delAAAAG p.Lys1308fs	26.0% and 21.0%	Transcripts: ENST00000257430; These results are intended for research purposes	GI NGS v2.0
+1701922-1861-T	Pool_564_GI	TP53	c.524G>A p.Arg175His	62.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1702348-SUN-T	Pool_564_GI	ERBB2	ERBB2 Amplification		Transcripts: ENST00000269571; These results are intended for research purposes	GI NGS v2.0
+1702348-SUN-T	Pool_564_GI	NOTCH1	NOTCH1 No evidence of amplification| ThomasJones:Amplification		Transcripts: ENST00000277541; These results are intended for research purposes	GI NGS v2.0
+1702348-SUN-T	Pool_564_GI	TP53	c.747G>T p.Arg249Ser	77.0%	Transcripts: ENST00000269305; These results are intended for research purposes	GI NGS v2.0
+1706298-IMRAN-T	Pool_660_GI	CTNNB1	c.121A>G p.Thr41Ala	44.0%	Transcripts: ENST00000396183; These results are intended for research purposes	GI NGS v2.0
+1705942-096-T	Pool_670_GI	ARID1A	c.4777G>C p.Asp1593His	80.0%	Transcripts: ENST00000324856; These results are intended for research purposes	GI NGS v2.0
+1706298-IMRAN-T	Pool_660_NEXTSEQ	CTNNB1	c.121A>G p.Thr41Ala	44.0%	Transcripts: ENST00000349496.5; These results are intended for research purposes	GI NGS v2.0
+1803518-RF0012-T	Pool_804_NEXTSEQ	APC	c.3921_3925delAAAAG p.Lys1308fs	38.0%	Transcripts: ENST00000457016.1; These results are intended for research purposes	GI NGS v2.0
+1803518-RF0012-T	Pool_804_NEXTSEQ	NRAS	c.37G>C p.Gly13Arg	63.0%	Transcripts: ENST00000369535.4; These results are intended for research purposes	GI NGS v2.0
+1803518-RF0012-T	Pool_804_NEXTSEQ	TP53	c.395A>G p.Lys132Arg	62.0%	Transcripts: ENST00000269305.4; These results are intended for research purposes	GI NGS v2.0
+1803519-RM0017-T	Pool_804_NEXTSEQ	APC	c.637C>T p.Arg213Ter	14.0%	Transcripts: ENST00000457016.1; These results are intended for research purposes	GI NGS v2.0
+1803519-RM0017-T	Pool_804_NEXTSEQ	BRAF	c.1799T>A p.Val600Glu	1.0%	Transcripts: ENST00000288602.6; These results are intended for research purposes	GI NGS v2.0
+1803519-RM0017-T	Pool_804_NEXTSEQ	PIK3CA	c.3140A>G p.His1047Arg	2.0%	Transcripts: ENST00000263967.3; These results are intended for research purposes	GI NGS v2.0
+1803519-RM0017-T	Pool_804_NEXTSEQ	RET	c.2115C>T p.S705S	27.0%	Transcripts: ENST00000355710.3; These results are intended for research purposes	GI NGS v2.0
+1803519-RM0017-T	Pool_804_NEXTSEQ	SMAD4	c.868G>T p.Gly290Cys	13.0%	Transcripts: ENST00000588745.1; These results are intended for research purposes	GI NGS v2.0
+1803519-RM0017-T	Pool_804_NEXTSEQ	TCF7L2	c.1385dupA p.Arg459fs	34.0%	Transcripts: ENST00000369397.4; These results are intended for research purposes	GI NGS v2.0
+1803519-RM0017-T	Pool_804_NEXTSEQ	TP53	c.97-1G>A 	39.0%	Transcripts: ENST00000269305.4; These results are intended for research purposes	GI NGS v2.0
+1803520-RM0028-T	Pool_804_NEXTSEQ	APC	c.3340C>T p.Arg1114Ter and c.3921_3925delAAAAG p.Lys1308fs	18.0% and 15.0%	Transcripts: ENST00000457016.1; These results are intended for research purposes	GI NGS v2.0
+1803520-RM0028-T	Pool_804_NEXTSEQ	ELMO1	c.1739C>T p.Ser580Leu	1.0%	Transcripts: ENST00000310758.4; These results are intended for research purposes	GI NGS v2.0
+1803520-RM0028-T	Pool_804_NEXTSEQ	FBXW7	c.1436G>C p.Arg479Pro	14.0%	Transcripts: ENST00000281708.4; These results are intended for research purposes	GI NGS v2.0
+1803520-RM0028-T	Pool_804_NEXTSEQ	TP53	c.517G>T p.Val173Leu	24.0%	Transcripts: ENST00000269305.4; These results are intended for research purposes	GI NGS v2.0
+1803522-EP0033-T	Pool_804_NEXTSEQ	APC	c.5766G>A p.Q1922Q	20.0%	Transcripts: ENST00000457016.1; These results are intended for research purposes	GI NGS v2.0
+1803522-EP0033-T	Pool_804_NEXTSEQ	ARID1A	c.3211delA p.Lys1072fs and c.4248dupC p.Pro1415fs	20.0% and 19.0%	Transcripts: ENST00000457599.2; These results are intended for research purposes	GI NGS v2.0
+1803522-EP0033-T	Pool_804_NEXTSEQ	BRAF	c.1799T>A p.Val600Glu	19.0%	Transcripts: ENST00000288602.6; These results are intended for research purposes	GI NGS v2.0
+1803522-EP0033-T	Pool_804_NEXTSEQ	CTNNB1	c.-48-3T>A 	3.0%	Transcripts: ENST00000349496.5; These results are intended for research purposes	GI NGS v2.0
+1803522-EP0033-T	Pool_804_NEXTSEQ	DOCK2	c.1740G>A p.Met580Ile and c.3073G>T p.Gly1025Trp	8.0% and 17.0%	Transcripts: ENST00000520908.1; These results are intended for research purposes	GI NGS v2.0
+1803522-EP0033-T	Pool_804_NEXTSEQ	FBXW7	c.2001delG p.Gly667fs	20.0%	Transcripts: ENST00000281708.4; These results are intended for research purposes	GI NGS v2.0
+1803522-EP0033-T	Pool_804_NEXTSEQ	NOTCH2	c.5193A>G p.G1731G	19.0%	Transcripts: ENST00000256646.2; These results are intended for research purposes	GI NGS v2.0
+1803522-EP0033-T	Pool_804_NEXTSEQ	NOTCH3	c.5152G>A p.Ala1718Thr	20.0%	Transcripts: ENST00000263388.2; These results are intended for research purposes	GI NGS v2.0
+1803522-EP0033-T	Pool_804_NEXTSEQ	PIK3CA	c.3140A>G p.His1047Arg	17.0%	Transcripts: ENST00000263967.3; These results are intended for research purposes	GI NGS v2.0
+1803522-EP0033-T	Pool_804_NEXTSEQ	RET	c.950C>T p.Thr317Met and c.1649-1G>T 	16.0% and 20.0%	Transcripts: ENST00000355710.3; These results are intended for research purposes	GI NGS v2.0
+1803522-EP0033-T	Pool_804_NEXTSEQ	TCF7L2	c.-65T>- 	9.0%	Transcripts: ENST00000369397.4; These results are intended for research purposes	GI NGS v2.0
+1803522-EP0033-T	Pool_804_NEXTSEQ	TP53	c.376-4A>G 	19.0%	Transcripts: ENST00000269305.4; These results are intended for research purposes	GI NGS v2.0
+1803523-BK0044-T	Pool_804_NEXTSEQ	APC	APC No evidence of amplification| ThomasJones:No evidence of amplification| ThomasJones:Deletion		These results are intended for research purposes	GI NGS v2.0
+1803523-BK0044-T	Pool_804_NEXTSEQ	NOTCH1	NOTCH1 No evidence of amplification| ThomasJones:No evidence of amplification| ThomasJones:Amplification		These results are intended for research purposes	GI NGS v2.0
+1803523-BK0044-T	Pool_804_NEXTSEQ	TP53	c.319T>G p.Tyr107Asp	58.0%	Transcripts: ENST00000269305.4; These results are intended for research purposes	GI NGS v2.0
+1803524-CY0053-T	Pool_804_NEXTSEQ	APC	c.3340C>T p.Arg1114Ter	33.0%	Transcripts: ENST00000457016.1; These results are intended for research purposes	GI NGS v2.0
+1803524-CY0053-T	Pool_804_NEXTSEQ	KRAS	c.35G>T p.Gly12Val	29.0%	Transcripts: ENST00000256078.4; These results are intended for research purposes	GI NGS v2.0
+1803524-CY0053-T	Pool_804_NEXTSEQ	TP53	c.712T>G p.Cys238Gly	34.0%	Transcripts: ENST00000269305.4; These results are intended for research purposes	GI NGS v2.0
+1803525-KI0061-T	Pool_804_NEXTSEQ	APC	c.2248C>T p.Pro750Ser	24.0%	Transcripts: ENST00000457016.1; These results are intended for research purposes	GI NGS v2.0
+1803525-KI0061-T	Pool_804_NEXTSEQ	ARID1A	c.3590C>T p.Ser1197Phe	25.0%	Transcripts: ENST00000457599.2; These results are intended for research purposes	GI NGS v2.0
+1803525-KI0061-T	Pool_804_NEXTSEQ	BRAF	c.1799T>A p.Val600Glu	27.0%	Transcripts: ENST00000288602.6; These results are intended for research purposes	GI NGS v2.0
+1803525-KI0061-T	Pool_804_NEXTSEQ	CDK4	c.901A>G p.Asn301Asp	2.0%	Transcripts: ENST00000257904.6; These results are intended for research purposes	GI NGS v2.0
+1803525-KI0061-T	Pool_804_NEXTSEQ	JAK3	c.1907A>G p.Asn636Ser	25.0%	Transcripts: ENST00000527670.1; These results are intended for research purposes	GI NGS v2.0
+1803525-KI0061-T	Pool_804_NEXTSEQ	PIK3CA	c.3140A>G p.His1047Arg	26.0%	Transcripts: ENST00000263967.3; These results are intended for research purposes	GI NGS v2.0
+1803525-KI0061-T	Pool_804_NEXTSEQ	TCF7L2	c.1377delA p.Arg459fs	37.0%	Transcripts: ENST00000369397.4; These results are intended for research purposes	GI NGS v2.0
+1803805-L130-T	Pool_804_NEXTSEQ	MAP3K1	c.4144C>T p.Gln1382Ter	41.0%	Transcripts: ENST00000399503.3; These results are intended for research purposes	Breast NGS v1.1
+1803805-L130-T	Pool_804_NEXTSEQ	NF1	c.2309_2322delCTGCAGGAAACACT p.Thr770fs	64.0%	Transcripts: ENST00000358273.4; These results are intended for research purposes	Breast NGS v1.1
+1803806-L196-T	Pool_804_NEXTSEQ	ERBB2	c.2331_2339dupGGGCTCCCC p.Gly778_Ser779insSerProGly	54.0%	Transcripts: ENST00000584450.1; These results are intended for research purposes	Breast NGS v1.1
+1803806-L196-T	Pool_804_NEXTSEQ	NF1	c.5268+1G>T 	50.0%	Transcripts: ENST00000358273.4; These results are intended for research purposes	Breast NGS v1.1
+1803806-L196-T	Pool_804_NEXTSEQ	TP53	c.488A>G p.Tyr163Cys	51.0%	Transcripts: ENST00000269305.4; These results are intended for research purposes	Breast NGS v1.1
+1804158-CY0024-T	Pool_823A_NEXTSEQ	APC	c.2938delA p.Lys980fs	22.0%	Transcripts: ENST00000457016.1; These results are intended for research purposes	GI NGS v2.0
+1804158-CY0024-T	Pool_823A_NEXTSEQ	BRAF	c.1385G>T p.Arg462Ile	11.0%	Transcripts: ENST00000288602.6; These results are intended for research purposes	GI NGS v2.0
+1804158-CY0024-T	Pool_823A_NEXTSEQ	DOCK2	c.327C>A p.Ser109Arg	24.0%	Transcripts: ENST00000256935.8; These results are intended for research purposes	GI NGS v2.0
+1804158-CY0024-T	Pool_823A_NEXTSEQ	KRAS	c.35G>A p.Gly12Asp	28.0%	Transcripts: ENST00000256078.4; These results are intended for research purposes	GI NGS v2.0
+1804158-CY0024-T	Pool_823A_NEXTSEQ	PIK3CA	c.3140A>G p.His1047Arg	31.0%	Transcripts: ENST00000263967.3; These results are intended for research purposes	GI NGS v2.0
+1804158-CY0024-T	Pool_823A_NEXTSEQ	SMAD4	c.1045C>T p.Arg349Ter; SMAD4 No evidence of amplification| RidwanShaikh:Deletion	44.0%	Transcripts: ENST00000588745.1; These results are intended for research purposes	GI NGS v2.0
+1804158-CY0024-T	Pool_823A_NEXTSEQ	TP53	c.659A>G p.Tyr220Cys	43.0%	Transcripts: ENST00000269305.4; These results are intended for research purposes	GI NGS v2.0
+1804159-CY0025-T	Pool_823A_NEXTSEQ	APC	c.4360delA p.Lys1454fs	48.0%	Transcripts: ENST00000457016.1; These results are intended for research purposes	GI NGS v2.0
+1804159-CY0025-T	Pool_823A_NEXTSEQ	KRAS	c.35G>T p.Gly12Val	26.0%	Transcripts: ENST00000256078.4; These results are intended for research purposes	GI NGS v2.0
+1804159-CY0025-T	Pool_823A_NEXTSEQ	PIK3CA	c.1031_1051dupTGAATGTAAATATTCGAGACA p.Val344_Asn345insAsnValAsnIleArgAspMet	42.0%	Transcripts: ENST00000263967.3; These results are intended for research purposes	GI NGS v2.0
+1804159-CY0025-T	Pool_823A_NEXTSEQ	TP53	c.818G>A p.Arg273His	35.0%	Transcripts: ENST00000269305.4; These results are intended for research purposes	GI NGS v2.0
+1804160-EP0032-T	Pool_823A_NEXTSEQ	APC	c.568G>T p.Glu190Ter and c.4668_4669delTA p.Ile1557fs	65.0% and 7.0%	Transcripts: ENST00000457016.1; These results are intended for research purposes	GI NGS v2.0
+1804160-EP0032-T	Pool_823A_NEXTSEQ	ATM	c.8081G>T p.Gly2694Val	42.0%	Transcripts: ENST00000452508.2; These results are intended for research purposes	GI NGS v2.0
+1804160-EP0032-T	Pool_823A_NEXTSEQ	ELMO1	c.1561G>A p.Glu521Lys	13.0%	Transcripts: ENST00000310758.4; These results are intended for research purposes	GI NGS v2.0
+1804160-EP0032-T	Pool_823A_NEXTSEQ	FBXW7	c.2065C>T p.Arg689Trp	8.0%	Transcripts: ENST00000281708.4; These results are intended for research purposes	GI NGS v2.0
+1804160-EP0032-T	Pool_823A_NEXTSEQ	KRAS	c.34G>T p.Gly12Cys	47.0%	Transcripts: ENST00000256078.4; These results are intended for research purposes	GI NGS v2.0
+1804160-EP0032-T	Pool_823A_NEXTSEQ	PTEN	c.476G>T p.Arg159Met and c.1027-1G>T 	39.0% and 22.0%	Transcripts: ENST00000371953.3; These results are intended for research purposes	GI NGS v2.0
+1804160-EP0032-T	Pool_823A_NEXTSEQ	TCF7L2	c.23G>T p.Arg8Met	18.0%	Transcripts: ENST00000542695.1; These results are intended for research purposes	GI NGS v2.0
+1804160-EP0032-T	Pool_823A_NEXTSEQ	TP53	c.584T>C p.Ile195Thr and c.321C>A p.Tyr107Ter	6.0% and 55.0%	Transcripts: ENST00000269305.4; These results are intended for research purposes	GI NGS v2.0
+1804161-EP0035-T	Pool_823A_NEXTSEQ	APC	c.2206A>T p.Lys736Ter	64.0%	Transcripts: ENST00000457016.1; These results are intended for research purposes	GI NGS v2.0
+1804161-EP0035-T	Pool_823A_NEXTSEQ	NRAS	c.181C>A p.Gln61Lys	64.0%	Transcripts: ENST00000369535.4; These results are intended for research purposes	GI NGS v2.0
+1804162-EP0043-T	Pool_823A_NEXTSEQ	AKT1	c.345+2G>A 	27.0%	Transcripts: ENST00000555458.1; These results are intended for research purposes	GI NGS v2.0
+1804162-EP0043-T	Pool_823A_NEXTSEQ	ARID1A	c.4245G>A p.Q1415Q	5.0%	Transcripts: ENST00000324856.7; These results are intended for research purposes	GI NGS v2.0
+1804162-EP0043-T	Pool_823A_NEXTSEQ	BRAF	c.1799T>A p.Val600Glu	26.0%	Transcripts: ENST00000288602.6; These results are intended for research purposes	GI NGS v2.0
+1804162-EP0043-T	Pool_823A_NEXTSEQ	CDKN2B	c.*2100A>T 	21.0%	Transcripts: ENST00000276925.6; These results are intended for research purposes	GI NGS v2.0
+1804162-EP0043-T	Pool_823A_NEXTSEQ	ERBB4	c.1573C>T p.Arg525Cys	22.0%	Transcripts: ENST00000342788.4; These results are intended for research purposes	GI NGS v2.0
+1804162-EP0043-T	Pool_823A_NEXTSEQ	FBXW7	c.907C>T p.Gln303Ter	17.0%	Transcripts: ENST00000281708.4; These results are intended for research purposes	GI NGS v2.0
+1804162-EP0043-T	Pool_823A_NEXTSEQ	IDH2	c.*123->T 	39.0%	Transcripts: ENST00000559482.1; These results are intended for research purposes	GI NGS v2.0
+1804162-EP0043-T	Pool_823A_NEXTSEQ	NOTCH1	c.4591C>T p.L1531L and c.4393C>A p.Leu1465Met	20.0% and 23.0%	Transcripts: ENST00000277541.6; These results are intended for research purposes	GI NGS v2.0
+1804162-EP0043-T	Pool_823A_NEXTSEQ	PIK3CA	c.3140A>G p.His1047Arg	22.0%	Transcripts: ENST00000263967.3; These results are intended for research purposes	GI NGS v2.0
+1804163-EP0075-T	Pool_823A_NEXTSEQ	APC	c.3396dupA p.Glu1132fs and c.3402delC p.Asp1134fs	21.0% and 21.0%	Transcripts: ENST00000457016.1; These results are intended for research purposes	GI NGS v2.0
+1804163-EP0075-T	Pool_823A_NEXTSEQ	TP53	c.375+1G>A 	41.0%	Transcripts: ENST00000269305.4; These results are intended for research purposes	GI NGS v2.0
+1804164-EP0078-T	Pool_823A_NEXTSEQ	APC	c.4216C>T p.Gln1406Ter and c.4385_4386delAG p.Lys1462fs	15.0% and 12.0%	Transcripts: ENST00000457016.1; These results are intended for research purposes	GI NGS v2.0
+1804164-EP0078-T	Pool_823A_NEXTSEQ	ARID1A	c.4350delC p.Gly1450fs and c.4141C>T p.Arg1381Cys	18.0% and 17.0%	Transcripts: ENST00000457599.2; These results are intended for research purposes	GI NGS v2.0
+1804164-EP0078-T	Pool_823A_NEXTSEQ	CDK4	c.268A>G p.Thr90Ala	15.0%	Transcripts: ENST00000257904.6; These results are intended for research purposes	GI NGS v2.0
+1804164-EP0078-T	Pool_823A_NEXTSEQ	CDKN2B	c.*2274T>C 	20.0%	Transcripts: ENST00000276925.6; These results are intended for research purposes	GI NGS v2.0
+1804164-EP0078-T	Pool_823A_NEXTSEQ	ERBB4	c.2476C>T p.Gln826Ter	19.0%	Transcripts: ENST00000342788.4; These results are intended for research purposes	GI NGS v2.0
+1804164-EP0078-T	Pool_823A_NEXTSEQ	KRAS	c.35G>C p.Gly12Ala	18.0%	Transcripts: ENST00000256078.4; These results are intended for research purposes	GI NGS v2.0
+1804164-EP0078-T	Pool_823A_NEXTSEQ	NOTCH1	c.6358C>T p.Arg2120Cys	19.0%	Transcripts: ENST00000277541.6; These results are intended for research purposes	GI NGS v2.0
+1804164-EP0078-T	Pool_823A_NEXTSEQ	NOTCH3	c.*441C>-  and c.6465A>C p.G2155G and c.4529G>A p.Arg1510His and c.1738G>A p.Glu580Lys	24.0% and 11.0% and 14.0% and 20.0%	Transcripts: ENST00000263388.2; These results are intended for research purposes	GI NGS v2.0
+1804164-EP0078-T	Pool_823A_NEXTSEQ	TCF7L2	c.-65T>- 	20.0%	Transcripts: ENST00000369397.4; These results are intended for research purposes	GI NGS v2.0
+1804165-KI0068-T	Pool_823A_NEXTSEQ	TP53	c.595G>T p.Gly199Ter	34.0%	Transcripts: ENST00000269305.4; These results are intended for research purposes	GI NGS v2.0
+1804166-RF0047-T	Pool_823A_NEXTSEQ	APC	c.847C>T p.Arg283Ter and c.4067C>G p.Ser1356Ter	32.0% and 29.0%	Transcripts: ENST00000457016.1; These results are intended for research purposes	GI NGS v2.0
+1804166-RF0047-T	Pool_823A_NEXTSEQ	ATM	c.1006T>C p.Phe336Leu	23.0%	Transcripts: ENST00000452508.2; These results are intended for research purposes	GI NGS v2.0
+1804166-RF0047-T	Pool_823A_NEXTSEQ	KRAS	c.38G>A p.Gly13Asp	30.0%	Transcripts: ENST00000256078.4; These results are intended for research purposes	GI NGS v2.0
+1804166-RF0047-T	Pool_823A_NEXTSEQ	NOTCH1	c.*8G>A 	26.0%	Transcripts: ENST00000277541.6; These results are intended for research purposes	GI NGS v2.0
+1804166-RF0047-T	Pool_823A_NEXTSEQ	PIK3CA	c.1633G>A p.Glu545Lys	7.0%	Transcripts: ENST00000263967.3; These results are intended for research purposes	GI NGS v2.0
+1804167-RF0050-T	Pool_823A_NEXTSEQ	APC	c.3856G>T p.Glu1286Ter	35.0%	Transcripts: ENST00000457016.1; These results are intended for research purposes	GI NGS v2.0
+1804167-RF0050-T	Pool_823A_NEXTSEQ	ERBB4	c.3668A>C p.Lys1223Thr	15.0%	Transcripts: ENST00000342788.4; These results are intended for research purposes	GI NGS v2.0
+1804167-RF0050-T	Pool_823A_NEXTSEQ	KRAS	c.35G>T p.Gly12Val	23.0%	Transcripts: ENST00000256078.4; These results are intended for research purposes	GI NGS v2.0
+1804167-RF0050-T	Pool_823A_NEXTSEQ	PIK3CA	c.1634A>G p.Glu545Gly	18.0%	Transcripts: ENST00000263967.3; These results are intended for research purposes	GI NGS v2.0
+1804167-RF0050-T	Pool_823A_NEXTSEQ	SMAD4	c.863delT p.Leu288fs	22.0%	Transcripts: ENST00000342988.3; These results are intended for research purposes	GI NGS v2.0
+1804168-RF0055-T	Pool_823A_NEXTSEQ	APC	c.4099C>T p.Gln1367Ter	68.0%	Transcripts: ENST00000457016.1; These results are intended for research purposes	GI NGS v2.0
+1804168-RF0055-T	Pool_823A_NEXTSEQ	KRAS	c.183A>C p.Gln61His	37.0%	Transcripts: ENST00000256078.4; These results are intended for research purposes	GI NGS v2.0
+1804168-RF0055-T	Pool_823A_NEXTSEQ	SMAD4	SMAD4 No evidence of amplification| RidwanShaikh:Deletion		These results are intended for research purposes	GI NGS v2.0
+1804168-RF0055-T	Pool_823A_NEXTSEQ	TP53	c.817C>T p.Arg273Cys	49.0%	Transcripts: ENST00000269305.4; These results are intended for research purposes	GI NGS v2.0
+1804170-RM0013-T	Pool_823A_NEXTSEQ	APC	c.694C>T p.Arg232Ter	36.0%	Transcripts: ENST00000457016.1; These results are intended for research purposes	GI NGS v2.0
+1804170-RM0013-T	Pool_823A_NEXTSEQ	NRAS	c.34G>T p.Gly12Cys	36.0%	Transcripts: ENST00000369535.4; These results are intended for research purposes	GI NGS v2.0
+1804171-RM0015-T	Pool_823A_NEXTSEQ	APC	c.3944C>G p.Ser1315Ter	21.0%	Transcripts: ENST00000457016.1; These results are intended for research purposes	GI NGS v2.0
+1804171-RM0015-T	Pool_823A_NEXTSEQ	CDKN2B	c.*2709T>- 	5.0%	Transcripts: ENST00000276925.6; These results are intended for research purposes	GI NGS v2.0
+1804172-RM0016-T	Pool_823A_NEXTSEQ	APC	c.4077dupA p.Lys1359fs and c.4078T>A p.Ser1360Thr	15.0% and 15.0%	Transcripts: ENST00000457016.1; These results are intended for research purposes	GI NGS v2.0
+1804172-RM0016-T	Pool_823A_NEXTSEQ	TP53	c.701A>G p.Tyr234Cys	17.0%	Transcripts: ENST00000269305.4; These results are intended for research purposes	GI NGS v2.0
+1804173-RM0017-T	Pool_823A_NEXTSEQ	ARID1A	c.666delC p.Tyr222fs and c.1632delC p.His544fs	8.0% and 5.0%	Transcripts: ENST00000457599.2; These results are intended for research purposes	GI NGS v2.0
+1804173-RM0017-T	Pool_823A_NEXTSEQ	BRAF	c.1799T>A p.Val600Glu	14.0%	Transcripts: ENST00000288602.6; These results are intended for research purposes	GI NGS v2.0
+1804173-RM0017-T	Pool_823A_NEXTSEQ	CDKN2A	c.*178C>T 	8.0%	Transcripts: ENST00000304494.5; These results are intended for research purposes	GI NGS v2.0
+1804173-RM0017-T	Pool_823A_NEXTSEQ	NOTCH2	c.1280G>A p.Cys427Tyr	7.0%	Transcripts: ENST00000256646.2; These results are intended for research purposes	GI NGS v2.0
+1804173-RM0017-T	Pool_823A_NEXTSEQ	PIK3CA	c.3140A>G p.His1047Arg	12.0%	Transcripts: ENST00000263967.3; These results are intended for research purposes	GI NGS v2.0
+1804173-RM0017-T	Pool_823A_NEXTSEQ	PTEN	c.795delA p.Leu265fs	20.0%	Transcripts: ENST00000371953.3; These results are intended for research purposes	GI NGS v2.0
+1804177-RM0052-T	Pool_823A_NEXTSEQ	APC	c.847C>T p.Arg283Ter	32.0%	Transcripts: ENST00000457016.1; These results are intended for research purposes	GI NGS v2.0
+1804177-RM0052-T	Pool_823A_NEXTSEQ	ATM	c.802C>T p.Gln268Ter	17.0%	Transcripts: ENST00000452508.2; These results are intended for research purposes	GI NGS v2.0
+1804177-RM0052-T	Pool_823A_NEXTSEQ	BRAF	c.1799T>A p.Val600Glu	25.0%	Transcripts: ENST00000288602.6; These results are intended for research purposes	GI NGS v2.0
+1804178-RM0056-T	Pool_823A_NEXTSEQ	APC	c.1495C>T p.Arg499Ter and c.3883G>T p.Glu1295Ter	19.0% and 19.0%	Transcripts: ENST00000457016.1; These results are intended for research purposes	GI NGS v2.0
+1804178-RM0056-T	Pool_823A_NEXTSEQ	NOTCH1	NOTCH1 No evidence of amplification| RidwanShaikh:Deletion		These results are intended for research purposes	GI NGS v2.0
+1804180-RM0013-T	Pool_823A_NEXTSEQ	APC	c.2785C>A p.His929Asn and c.3184C>T p.Gln1062Ter and c.3948delT p.Ala1316fs	7.0% and 36.0% and 35.0%	Transcripts: ENST00000457016.1; These results are intended for research purposes	GI NGS v2.0
+1804180-RM0013-T	Pool_823A_NEXTSEQ	ARID1A	c.4891_4895delGGGGG p.Gly1631fs and c.5064dupA p.Glu1687fs	14.0% and 5.0%	Transcripts: ENST00000457599.2; These results are intended for research purposes	GI NGS v2.0
+1804180-RM0013-T	Pool_823A_NEXTSEQ	KRAS	c.351A>T p.Lys117Asn and c.35G>A p.Gly12Asp	10.0% and 6.0%	Transcripts: ENST00000256078.4; These results are intended for research purposes	GI NGS v2.0
+1804180-RM0013-T	Pool_823A_NEXTSEQ	NRAS	c.35G>A p.Gly12Asp	5.0%	Transcripts: ENST00000369535.4; These results are intended for research purposes	GI NGS v2.0
+1804183-RM0039-T	Pool_823A_NEXTSEQ	TP53	c.742C>T p.Arg248Trp	5.0%	Transcripts: ENST00000269305.4; These results are intended for research purposes	GI NGS v2.0
+1804181-RM0016-T	Pool_860_NEXTSEQ	APC	c.4077dupA p.Lys1359fs and c.4078T>A p.Ser1360Thr	33.0% and 33.0%	Transcripts: ENST00000457016.1; These results are intended for research purposes	GI NGS v2.0
+1804181-RM0016-T	Pool_860_NEXTSEQ	TP53	c.701A>G p.Tyr234Cys	48.0%	Transcripts: ENST00000269305.4; These results are intended for research purposes	GI NGS v2.0
+1805823-BK0099-T	Pool_860_NEXTSEQ	AKT1	c.368A>G p.Gln123Arg	17.0%	Transcripts: ENST00000555458.1; These results are intended for research purposes	GI NGS v2.0
+1805823-BK0099-T	Pool_860_NEXTSEQ	ARID1A	c.1010delG p.Trp337fs and c.3211delA p.Lys1072fs	19.0% and 19.0%	Transcripts: ENST00000457599.2; These results are intended for research purposes	GI NGS v2.0
+1805823-BK0099-T	Pool_860_NEXTSEQ	BRAF	c.1799T>A p.Val600Glu	19.0%	Transcripts: ENST00000288602.6; These results are intended for research purposes	GI NGS v2.0
+1805823-BK0099-T	Pool_860_NEXTSEQ	IDH2	c.-61C>T 	20.0%	Transcripts: ENST00000559482.1; These results are intended for research purposes	GI NGS v2.0
+1805823-BK0099-T	Pool_860_NEXTSEQ	MAP2K1	c.179T>C p.Val60Ala	8.0%	Transcripts: ENST00000307102.5; These results are intended for research purposes	GI NGS v2.0
+1805823-BK0099-T	Pool_860_NEXTSEQ	NOTCH2	c.6937G>T p.Gly2313Cys	17.0%	Transcripts: ENST00000256646.2; These results are intended for research purposes	GI NGS v2.0
+1805823-BK0099-T	Pool_860_NEXTSEQ	PIK3CA	c.3140A>G p.His1047Arg	17.0%	Transcripts: ENST00000263967.3; These results are intended for research purposes	GI NGS v2.0
+1805823-BK0099-T	Pool_860_NEXTSEQ	TCF7L2	c.1377delA p.Arg459fs	19.0%	Transcripts: ENST00000369397.4; These results are intended for research purposes	GI NGS v2.0
+1805824-BK0103-T	Pool_860_NEXTSEQ	APC	c.3944C>A p.Ser1315Ter	17.0%	Transcripts: ENST00000457016.1; These results are intended for research purposes	GI NGS v2.0
+1805824-BK0103-T	Pool_860_NEXTSEQ	DOCK2	c.3605C>T p.Ala1202Val	17.0%	Transcripts: ENST00000520908.1; These results are intended for research purposes	GI NGS v2.0
+1805824-BK0103-T	Pool_860_NEXTSEQ	EGFR	EGFR Amplification		These results are intended for research purposes	GI NGS v2.0
+1805824-BK0103-T	Pool_860_NEXTSEQ	NOTCH2	c.6168T>G p.His2056Gln and c.6156_6164delTCGCATGCA p.Arg2053_His2055del	9.0% and 8.0%	Transcripts: ENST00000256646.2; These results are intended for research purposes	GI NGS v2.0
+1805824-BK0103-T	Pool_860_NEXTSEQ	TP53	c.707_709delACA p.Tyr236_Met237delinsLeu	18.0%	Transcripts: ENST00000269305.4; These results are intended for research purposes	GI NGS v2.0
+1805825-CE0059-T	Pool_860_NEXTSEQ	APC	c.526G>T p.Glu176Ter and c.1847dupT p.Phe615fs and c.4135G>T p.Glu1379Ter	23.0% and 11.0% and 25.0%	Transcripts: ENST00000457016.1; These results are intended for research purposes	GI NGS v2.0
+1805825-CE0059-T	Pool_860_NEXTSEQ	FBXW7	c.1972C>T p.Arg658Ter and c.1745C>T p.Ser582Leu and c.1394G>A p.Arg465His	10.0% and 10.0% and 14.0%	Transcripts: ENST00000281708.4; These results are intended for research purposes	GI NGS v2.0
+1805825-CE0059-T	Pool_860_NEXTSEQ	KRAS	c.35G>A p.Gly12Asp	28.0%	Transcripts: ENST00000256078.4; These results are intended for research purposes	GI NGS v2.0
+1805825-CE0059-T	Pool_860_NEXTSEQ	TCF7L2	c.932+1G>A 	17.0%	Transcripts: ENST00000369397.4; These results are intended for research purposes	GI NGS v2.0
+1805825-CE0059-T	Pool_860_NEXTSEQ	TP53	c.742C>T p.Arg248Trp	11.0%	Transcripts: ENST00000269305.4; These results are intended for research purposes	GI NGS v2.0
+1805829-GH0076-T	Pool_860_NEXTSEQ	APC	c.3340C>T p.Arg1114Ter	28.0%	Transcripts: ENST00000457016.1; These results are intended for research purposes	GI NGS v2.0
+1805829-GH0076-T	Pool_860_NEXTSEQ	TP53	c.395A>G p.Lys132Arg	35.0%	Transcripts: ENST00000269305.4; These results are intended for research purposes	GI NGS v2.0
+1805830-KI0082-T	Pool_860_NEXTSEQ	APC	c.2365C>T p.Gln789Ter	28.0%	Transcripts: ENST00000457016.1; These results are intended for research purposes	GI NGS v2.0
+1805830-KI0082-T	Pool_860_NEXTSEQ	PIK3CA	c.1633G>A p.Glu545Lys	43.0%	Transcripts: ENST00000263967.3; These results are intended for research purposes	GI NGS v2.0
+1805830-KI0082-T	Pool_860_NEXTSEQ	RET	c.1024G>T p.Ala342Ser	38.0%	Transcripts: ENST00000355710.3; These results are intended for research purposes	GI NGS v2.0
+1805830-KI0082-T	Pool_860_NEXTSEQ	TP53	c.456dupC p.Pro152fs	73.0%	Transcripts: ENST00000269305.4; These results are intended for research purposes	GI NGS v2.0
+1805831-NM0086-T	Pool_860_NEXTSEQ	CDKN2A	c.502T>C p.Ter168Gluext*13	30.0%	Transcripts: ENST00000498124.1; These results are intended for research purposes	GI NGS v2.0
+1805831-NM0086-T	Pool_860_NEXTSEQ	CTNNB1	c.121A>G p.Thr41Ala	55.0%	Transcripts: ENST00000349496.5; These results are intended for research purposes	GI NGS v2.0
+1805831-NM0086-T	Pool_860_NEXTSEQ	KRAS	c.38G>A p.Gly13Asp	36.0%	Transcripts: ENST00000256078.4; These results are intended for research purposes	GI NGS v2.0
+1805831-NM0086-T	Pool_860_NEXTSEQ	SMAD4	c.1231A>T p.Lys411Ter	6.0%	Transcripts: ENST00000588745.1; These results are intended for research purposes	GI NGS v2.0
+1805832-NM0091-T	Pool_860_NEXTSEQ	ARID1A	c.4011_4026delTTCCTATGGCAATCAG p.Asp1337fs	7.0%	Transcripts: ENST00000457599.2; These results are intended for research purposes	GI NGS v2.0
+1805832-NM0091-T	Pool_860_NEXTSEQ	KRAS	c.38G>A p.Gly13Asp	8.0%	Transcripts: ENST00000256078.4; These results are intended for research purposes	GI NGS v2.0
+1805832-NM0091-T	Pool_860_NEXTSEQ	TCF7L2	c.1246_1249dupAATG p.Glu417fs	7.0%	Transcripts: ENST00000369397.4; These results are intended for research purposes	GI NGS v2.0
+1805832-NM0091-T	Pool_860_NEXTSEQ	TP53	c.743G>A p.Arg248Gln	8.0%	Transcripts: ENST00000269305.4; These results are intended for research purposes	GI NGS v2.0
+1805833-NM0109-T	Pool_860_NEXTSEQ	AKT1	c.197C>T p.Thr66Met	26.0%	Transcripts: ENST00000555458.1; These results are intended for research purposes	GI NGS v2.0
+1805833-NM0109-T	Pool_860_NEXTSEQ	ARID1A	c.2087delC p.Ser696fs and c.5764delC p.Pro1923fs	29.0% and 25.0%	Transcripts: ENST00000457599.2; These results are intended for research purposes	GI NGS v2.0
+1805833-NM0109-T	Pool_860_NEXTSEQ	DOCK2	c.2204C>T p.Thr735Met	19.0%	Transcripts: ENST00000520908.1; These results are intended for research purposes	GI NGS v2.0
+1805833-NM0109-T	Pool_860_NEXTSEQ	ERBB4	c.3753C>A p.Ser1251Arg	29.0%	Transcripts: ENST00000342788.4; These results are intended for research purposes	GI NGS v2.0
+1805833-NM0109-T	Pool_860_NEXTSEQ	MAP2K1	c.506dupA p.Ile167fs	22.0%	Transcripts: ENST00000566326.1; These results are intended for research purposes	GI NGS v2.0
+1805833-NM0109-T	Pool_860_NEXTSEQ	NOTCH1	c.2764T>C p.Cys922Arg	26.0%	Transcripts: ENST00000277541.6; These results are intended for research purposes	GI NGS v2.0
+1805837-SA0140-T	Pool_860_NEXTSEQ	APC	c.646-1G>A p.R216Q and c.847C>T p.Arg283Ter and c.4666dupA p.Glu1554fs	9.0% and 10.0% and 10.0%	Transcripts: ENST00000457016.1; These results are intended for research purposes	GI NGS v2.0
+1805837-SA0140-T	Pool_860_NEXTSEQ	HRAS	c.-10C>T 	46.0%	Transcripts: ENST00000451590.1; These results are intended for research purposes	GI NGS v2.0
+1805837-SA0140-T	Pool_860_NEXTSEQ	KRAS	c.34G>A p.Gly12Ser	17.0%	Transcripts: ENST00000256078.4; These results are intended for research purposes	GI NGS v2.0
+1805837-SA0140-T	Pool_860_NEXTSEQ	NOTCH1	c.757A>G p.Asn253Asp	9.0%	Transcripts: ENST00000277541.6; These results are intended for research purposes	GI NGS v2.0
+1805837-SA0140-T	Pool_860_NEXTSEQ	NOTCH2	c.4101C>T p.F1367F	8.0%	Transcripts: ENST00000256646.2; These results are intended for research purposes	GI NGS v2.0
+1805837-SA0140-T	Pool_860_NEXTSEQ	TCF7L2	c.1064C>T p.Ala355Val	8.0%	Transcripts: ENST00000369397.4; These results are intended for research purposes	GI NGS v2.0
+1805837-SA0140-T	Pool_860_NEXTSEQ	TP53	c.817C>T p.Arg273Cys	9.0%	Transcripts: ENST00000269305.4; These results are intended for research purposes	GI NGS v2.0
+1805838-BK0070-T	Pool_860_NEXTSEQ	APC	c.4463_4464dupTA p.Leu1488fs	21.0%	Transcripts: ENST00000457016.1; These results are intended for research purposes	GI NGS v2.0
+1805838-BK0070-T	Pool_860_NEXTSEQ	TP53	c.375+1G>A p.T125T	18.0%	Transcripts: ENST00000269305.4; These results are intended for research purposes	GI NGS v2.0
