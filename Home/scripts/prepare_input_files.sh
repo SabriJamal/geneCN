@@ -25,11 +25,11 @@ fi
 ####################################
 #NOTE! Grep might be specific to exclude non gene targets
 #Gene list for pipeline
-awk '{print $4}' $bedfile | grep -v "chr" | grep -v "QC" | grep -v "ANTRX2" | grep -v "C19MC" | grep -v "FAM46C" | grep -v "upstream" | grep -v "YqCEN" | grep -v "RhoA" | cut -d"_" -f1 | sort | uniq > $mydirec/OUTPUT/panel_$panel.gene.list
+awk '{print $4}' $bedfile | grep -v "chr" | grep -v "QC" | grep -v "ANTRX2" | grep -v "C19MC" | grep -v "FAM46C" | grep -v "upstream" | grep -v "YqCEN" | grep -v "RhoA" | grep -Piv "(\d+q)|(\d+p)" | grep -Piv "(X|Y)(p|q)(CEN|TEL)" | grep -iv "IRF1" | grep -iv "LUC7L2" | grep -iv "NRD1"| grep -Piv "\d+(CEN|TEL)" | grep -iv "\w*tx" | grep -v "WTX" | grep -v "CN" | grep -Piv "rs\d+" | grep -v "MYCL1" | cut -d"_" -f1 | sort | uniq > $mydirec/OUTPUT/panel_$panel.gene.list
 
 #Gene list for UCSC
 mkdir  $mydirec/OUTPUT/UCSC
-awk '{print $4}' $bedfile | grep -v "chr" | grep -v "QC" | grep -v "ANTRX2" | grep -v "C19MC" | grep -v "FAM46C" | grep -v "upstream" | grep -v "YqCEN" | grep -v "RhoA" | cut -d"_" -f1 | sort | uniq > $mydirec/OUTPUT/UCSC/panel_$panel.UCSC.gene.list
+awk '{print $4}' $bedfile | grep -v "chr" | grep -v "QC" | grep -v "ANTRX2" | grep -v "C19MC" | grep -v "FAM46C" | grep -v "upstream" | grep -v "YqCEN" | grep -v "RhoA" | grep -Piv "(\d+q)|(\d+p)" | grep -Piv "(X|Y)(p|q)(CEN|TEL)" | grep -iv "IRF1" | grep -iv "LUC7L2" | grep -iv "NRD1"| grep -Piv "\d+(CEN|TEL)" | grep -iv "\w*tx" | grep -v "WTX" | grep -v "CN" | grep -Piv "rs\d+" | grep -v "MYCL1" | cut -d"_" -f1 | sort | uniq > $mydirec/OUTPUT/UCSC/panel_$panel.UCSC.gene.list
 
 ## Check if sufficient args given ##
 ####################################
@@ -58,7 +58,7 @@ fi
 
 bedtools sort -faidx $mydirec/OUTPUT/chromosomes_in_order.txt -i $bedfile | bedtools merge | bedtools makewindows -w 375 -b -| awk '{if (($3-$2) >= 90) print}' | bedtools nuc -fi $mydirec/REFERENCES/hg19.fa -bed - | cut -f 1-3,5 | sed 1d > $mydirec/OUTPUT/panel_$panel.gc.bed
 
-ln -s $mydirec/OUTPUT/panel_$panel.gc.bed $mydirec/REFERENCES/panel_$panel.gc.TumourAsRef.bed 
+#ln -s $mydirec/OUTPUT/panel_$panel.gc.bed $mydirec/REFERENCES/panel_$panel.gc.TumourAsRef.bed 
 
 
 ## Echo outputted file ##
@@ -76,9 +76,9 @@ fi
 #	echo -e "ERROR! Wrote empty windows bed\n"
 #fi
 
-if [ ! -f $mydirec/OUTPUT/UCSC/USCSC_geneTranscripts.out ];
+if [ ! -f $mydirec/OUTPUT/UCSC/panel_$panel.UCSC.geneTranscripts.out ];
 then
-	echo "USCSC gene transcript list not found please create using gene list in $mydirec/OUTPUT/USCSC folder, name file $mydirec/OUTPUT/UCSC/USCSC_geneTranscripts.out and run script again"
+	echo "USCSC gene transcript list not found please create using gene list in $mydirec/OUTPUT/USCSC folder, name file $mydirec/OUTPUT/UCSC/panel_$panel.UCSC.geneTranscripts.out and run script again"
 	echo "Please see image file in $mydirec/UCSC_instrucitons/UCSC_instructions_transcript_generation for chosen inputs when generating transcript file"
 	echo "Use $mydirec/OUTPUT/UCSC/panel_<panel>.gene.list as input"
 	echo "Exiting..."
@@ -87,7 +87,7 @@ fi
 
 ## Create Gene genomic windows, genes for CNA identification ##
 ###############################################################
-perl ../supporting_scripts/find_gene_windows.pl -t $mydirec/OUTPUT/UCSC/USCSC_geneTranscripts.out -g $mydirec/OUTPUT/panel_$panel.gene.list -o $mydirec/OUTPUT/panel_$panel.geneOmicWindow.bed -e 10000
+perl ../supporting_scripts/find_gene_windows.pl -t $mydirec/OUTPUT/UCSC/panel_$panel.UCSC.geneTranscripts.out -g $mydirec/OUTPUT/panel_$panel.gene.list -o $mydirec/OUTPUT/panel_$panel.geneOmicWindow.bed -e 10000
 
 ## Annotate targets (CNA identication targets) and background and concatenate ##
 ################################################################################
