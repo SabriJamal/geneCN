@@ -1,1 +1,0 @@
-/scratch/DMP/DUDMP/TRANSGEN/sjamal/2.Scripts/geneCN/Home/scripts/prepare_input_files.sh
