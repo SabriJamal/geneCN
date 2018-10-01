@@ -1,0 +1,14 @@
+Warning: HIST1H3B has only 2 windows
+Warning: CXCR4 has only 3 windows
+Warning: GNAQ has only 1 windows
+Warning: BCL2 has only 2 windows
+Warning: H3F3A has only 2 windows
+Warning: ID3 has only 2 windows
+Warning: MYD88 has only 1 windows
+Warning: GNA11 has only 1 windows
+Warning: H3F3B has only 3 windows
+Warning: HIST1H3C has only 2 windows
+Warning: B2M has only 3 windows
+Warning: VHL has only 3 windows
+Warning: BTK has only 1 windows
+2.createNP_profile.sh: line 63: /scratch/DMP/DUDMP/TRANSGEN/sjamal/2.Scripts/geneCN/Home/TEST_DATA/TumourAsReference/RMH200/1700375-TruQ1-T.sort.bam: Permission denied
