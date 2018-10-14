@@ -1,0 +1,2 @@
+sample	segments	stdev	mad	iqr	bivar
+/Users/sjamal/Documents/Work/2.scripts/geneCN/CNVkit_tests/Result/PooledReference/CNV_kit_PAED_21388/AdditionalTests/../1709561-118-T.sort.cnr	54	0.549879	0.396552	0.53492	0.443287

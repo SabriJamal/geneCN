@@ -1,0 +1,5 @@
+gene	chromosome	location	change	probes_left	probes_right
+7qCEN	chr7	57938684	-0.0381597	9	9
+15q_CEN	chr15	29009511	-0.948789	7	6
+C19M_CN	chr19	54172542	0.187332	2	44
+MIR512-2_C19MC_CN	chr19	54172542	0.187332	1	13
