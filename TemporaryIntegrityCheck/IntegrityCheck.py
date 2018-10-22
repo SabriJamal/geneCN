@@ -46,27 +46,39 @@ for folder in list_direc.stdout.readlines():
                 for line in md5b4:
                     line = line.rstrip()
                     key = re.split("/s*", line)[0].strip()
+                    run_name = re.split("/", line)
+                    run_name = run_name[len(run_name) - 5]
+
                     sample = re.split("/", line)
                     sample = sample[len(sample) - 1]
-                    sample = re.split("_", sample)[0]
+                    #sample = re.split("_", sample)[0]
+                    sample = run_name + ":" + sample
+
 
                     if(key and sample and sample != "" and key != ""):
                         md5_b4_dict[sample] = key
                         key = "" #reset
                         sample = "" #reset
+                        md5before = "" #reset
+                        md5before_bol = False #reset
+
 
             with open(os.path.join(mydirec, folder, md5after), "r") as md5AF:
                 for line in md5AF:
                     line = line.rstrip()
                     key = re.split("=", line)
                     key = key[len(key) - 1 ].strip()
+                    run_name = re.split("/", line)[6]
                     sample = re.split("/", line)[7]
-                    sample = re.split("_", sample)[0]
+                    sample = re.split("\)", sample)[0]
+                    sample = run_name + ":" + sample
 
                     if(key and sample and sample != "" and key != ""):
                         md5_after_dict[sample] = key
                         key = "" #reset
                         sample = "" #reset
+                        md5after = "" #reset
+                        md5after_bol = False
 
 with open(os.path.join(mydirec, "integrity_report.txt"), "w") as int_report_out:
     ## Check if equal if true  write report file to system
