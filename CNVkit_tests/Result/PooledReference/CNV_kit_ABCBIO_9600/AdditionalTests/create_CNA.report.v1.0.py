@@ -64,7 +64,7 @@ def get_CNA(CNA_in, CNA_out, bed, thresh=0.2, ploidy=2):
 ## Output CNA report file ##
 ############################
 	with open(file_out, "w") as OUT:
-		OUT.write("Gene" + "\t" + "Min_log2"  + "\t" + "Max_log2"  + "\t" + "#ROI"  + "\t" + "#Exons_del"  + "\t" + "Exons_del_names"  + "\t" + "#Exons_amp"  + "\t" + "Exons_amp_names"  + "\t" + "%_Exon_del" + "\t" + "%_Exon_amp"  + "\t" + "Min_copy_number"  + "\t" + "Max_copy_number" + "\n")
+		OUT.write("Gene" + "\t" + "Min_log2"  + "\t" + "Max_log2"  + "\t" + "nr_ROI"  + "\t" + "nr_Exons_del"  + "\t" + "Exons_del_names"  + "\t" + "nr_Exons_amp"  + "\t" + "Exons_amp_names"  + "\t" + "perc_Exon_del" + "\t" + "perc_Exon_amp"  + "\t" + "Min_copy_number"  + "\t" + "Max_copy_number" + "\n")
 		for gene_name,val_array in CNA_dict.items():
 			#print(gene_name)
 			del_exon_counter = 0
