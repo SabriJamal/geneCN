@@ -53,7 +53,7 @@ def ChangeFileNames(GTFile, report_out):
                             report_out.write("Name changed" + "\t" + file + " => " + moldx + "_" + suffix + "\n")
                             subp.Popen("mv " + os.path.join(mydirec,run_folder,file) + " " + os.path.join(mydirec,run_folder,moldx + "_" + suffix), stdout=subp.PIPE, shell=True).wait()
                             moldx = "" #reset
-                            sample_name = "" #reset
+                            #sample_name = "" #reset
 
                             #print("Match Found") #Debugging
 
@@ -65,4 +65,6 @@ def ChangeFileNames(GTFile, report_out):
                         continue #skip iteration when reading other files
 
 
-ChangeFileNames("/Users/sjamal/Documents/Work/2.Scripts/Python/RemoveNonAnonymisedIdentifier/InputDatafolder/NonAnonymised_data_afterRemovingDuplicates_checkedRS.txt", "test")
+ChangeFileNames("/scratch/DMP/DUDMP/TRANSGEN/transgen-mdx/ngs/009.Archived_Data/DataFastqMigration2/InputDataFolder/NonAnonymised_data_CheckedAG.txt", "NameChangeReport.txt")
+
+subp.Popen("grep -iv \"NTC\" NameChangeReport.txt | grep -iv \"Pro\" | grep -iv \"blend\" | grep -iv \"Undet\" > NameChangeReport_noControl.txt", stdout=subp.PIPE, shell=True)
