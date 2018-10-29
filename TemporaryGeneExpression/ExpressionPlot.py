@@ -5,6 +5,7 @@ import re
 import pandas as pd
 import seaborn as sns; sns.set()
 import matplotlib.pyplot as plt
+import math
 #import pdb ##Debugging
 #pdb.set_trace() #Debugging
 
@@ -164,6 +165,7 @@ def plot_heatmap(data):
     genes = data[1]
     sample_list = data[2]
     module = data[3]
+    log_constant = 0.0001
 
     if(len(data) == 5):
         norm_factor = data[4]
@@ -181,6 +183,10 @@ def plot_heatmap(data):
                 count += 1
                 if(count % 2 == 0):
                     item = float(item)/norm_factor
+                    try:
+                        item = math.log2(item + log_constant) #log_constant to avoid 0 based values
+                    except ValueError:
+                        item = 0
                     #item = float(item)
                     observation.append(item)
                 else:
@@ -194,11 +200,11 @@ def plot_heatmap(data):
     feature_df = pd.DataFrame(features, columns=sample_list, index=gene_expression_list) ##Generate Panda dataframe
     plt.figure(figsize=(30,30)) ##Setting figure size
     ax = sns.heatmap(feature_df, annot=True) ##Plot heatmap
-    plt.savefig('heatmap_RNAExpression_30x30_{module}_FPKM.png'.format(module=module))
+    plt.savefig('heatmap_RNAExpression_30x30_{module}_log2_FPKM.png'.format(module=module))
 
 #important_genes(("/Users/sjamal/Documents/Work/2.scripts/Python/bed_files/panel_PAEDV2.bed"))
-feature_data_list = collect_data_FeatureCount("/Users/sjamal/Documents/Work/2.scripts/Python/bed_files/panel_PAEDV2.bed")
-#feature_data_list = collect_data_StringTie("/Users/sjamal/Documents/Work/2.scripts/Python/bed_files/panel_PAEDV2.bed")
+#feature_data_list = collect_data_FeatureCount("/Users/sjamal/Documents/Work/2.scripts/Python/bed_files/panel_PAEDV2.bed")
+feature_data_list = collect_data_StringTie("/Users/sjamal/Documents/Work/2.scripts/Python/bed_files/panel_PAEDV2.bed")
 plot_heatmap(feature_data_list)
 
 
