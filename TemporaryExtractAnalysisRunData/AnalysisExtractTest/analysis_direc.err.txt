@@ -1,0 +1,1 @@
+SampleSheet.hpc.csv contains mulitple run folders for => Pool_997_NEXTSEQ
