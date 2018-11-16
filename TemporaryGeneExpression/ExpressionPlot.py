@@ -6,7 +6,7 @@ import pandas as pd
 import seaborn as sns; sns.set()
 import matplotlib.pyplot as plt
 import math
-#import pdb ##Debugging
+import pdb ##Debugging
 #pdb.set_trace() #Debugging
 
 def extract_system_name(item):
@@ -184,8 +184,10 @@ def plot_heatmap(data):
                 if(count % 2 == 0):
                     item = float(item)/norm_factor
                     try:
-                        item = math.log2(item + log_constant) #log_constant to avoid 0 based values
+                        #item = math.log2(item + log_constant) #log_constant to avoid 0 based values
+                        item = math.sqrt(item)
                     except ValueError:
+                        print("Coercing values to zero")
                         item = 0
                     #item = float(item)
                     observation.append(item)
@@ -200,11 +202,64 @@ def plot_heatmap(data):
     feature_df = pd.DataFrame(features, columns=sample_list, index=gene_expression_list) ##Generate Panda dataframe
     plt.figure(figsize=(30,30)) ##Setting figure size
     ax = sns.heatmap(feature_df, annot=True) ##Plot heatmap
-    plt.savefig('heatmap_RNAExpression_30x30_{module}_log2_FPKM.png'.format(module=module))
+    plt.savefig('heatmap_RNAExpression_30x30_{module}_sqrt_FPKM.png'.format(module=module))
+
+    ## Adding median and mean columns
+    feature_df["median"] = feature_df.median(axis=1)
+    feature_df["mean"] = feature_df.mean(axis=1)
+
+    ## Single Plot
+    #feature_df.plot.scatter(x=feature_df.columns[0], y="median")
+    #plt.savefig("Median." + feature_df.columns[0] + ".png")
+
+    ###################################
+    ## Annotate data points in graph ##
+    ###################################
+    for col in feature_df.columns[0:len(feature_df.columns) - 2]:
+        feature_df.plot.scatter(x=col, y="median")
+        for samp,med, mean in zip(feature_df[col].iteritems(), feature_df["median"], feature_df["mean"]):
+            label = samp[0]
+            value = samp[1]
+            data_point = [value, med]
+
+            ##Annotate all data points
+            #plt.annotate(label,data_point)
+
+            ##Annotate only values larger than median
+            #if(value >= med):
+            #    plt.annotate(label, data_point)
+
+            ##Annotate only values larger than mean
+            if(value >= mean):
+                plt.annotate(label, data_point)
+
+        ## Plots and saves all figures seperately
+        plt.savefig("Median." + col + ".png")
+        plt.show()
+
+    #############################
+    ## Hierarchical clustering ##
+    #############################
+    ## Import relevant machine learning packages
+    ## Tutorial => https://joernhees.de/blog/2015/08/26/scipy-hierarchical-clustering-and-dendrogram-tutorial/
+    import scipy
+    import sklearn
+    from scipy.cluster.hierarchy import dendrogram, linkage, fcluster, cophenet
+    from scipy.spatial.distance import pdist
+    from sklearn.cluster import AgglomerativeClustering
+    X = feature_df.iloc[:,0:len(feature_df.columns) - 2]
+    Z = linkage(X, 'ward')
+    dendrogram(Z)
+    #plt.show() #Plot dendrogram
+    plt.savefig("Cluster_dendrogram.png")
+    pdb.set_trace()
+
+
+
 
 #important_genes(("/Users/sjamal/Documents/Work/2.scripts/Python/bed_files/panel_PAEDV2.bed"))
-#feature_data_list = collect_data_FeatureCount("/Users/sjamal/Documents/Work/2.scripts/Python/bed_files/panel_PAEDV2.bed")
-feature_data_list = collect_data_StringTie("/Users/sjamal/Documents/Work/2.scripts/Python/bed_files/panel_PAEDV2.bed")
+feature_data_list = collect_data_FeatureCount("/Users/sjamal/Documents/Work/2.scripts/Python/bed_files/panel_PAEDV2.bed")
+#feature_data_list = collect_data_StringTie("/Users/sjamal/Documents/Work/2.scripts/Python/bed_files/panel_PAEDV2.bed")
 plot_heatmap(feature_data_list)
 
 
