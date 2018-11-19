@@ -3,11 +3,12 @@ import subprocess as subp
 import os
 import re
 import pandas as pd
+import numpy as np
 import seaborn as sns; sns.set()
 import matplotlib.pyplot as plt
 import math
 import pdb ##Debugging
-#pdb.set_trace() #Debugging
+pdb.set_trace() #Debugging
 
 def extract_system_name(item):
     file = re.search("b\'(.*)\\\\n", str(item)).group(1)
@@ -182,10 +183,11 @@ def plot_heatmap(data):
             for item in feature_obs:
                 count += 1
                 if(count % 2 == 0):
-                    item = float(item)/norm_factor
+                    #item = float(item)/norm_factor
                     try:
                         #item = math.log2(item + log_constant) #log_constant to avoid 0 based values
-                        item = math.sqrt(item)
+                        #item = math.sqrt(item)
+                        item = float(item)
                     except ValueError:
                         print("Coercing values to zero")
                         item = 0
@@ -200,6 +202,17 @@ def plot_heatmap(data):
             genes_discarded.append(gene)
 
     feature_df = pd.DataFrame(features, columns=sample_list, index=gene_expression_list) ##Generate Panda dataframe
+
+    ##Clustered heatmap
+    #Recommendation is to normalize to number of reads and plot without normalization using
+        #z_score or=1
+        #standard_scale=1
+    sns.clustermap(feature_df, metric="euclidean", z_score=1, method="ward")
+    plt.savefig("heatmap_clustered_{module}.png".format(module=module))
+
+
+    ##Noramlize DataFrame
+    #feature_df = feature_df.applymap(np.sqrt)
     plt.figure(figsize=(30,30)) ##Setting figure size
     ax = sns.heatmap(feature_df, annot=True) ##Plot heatmap
     plt.savefig('heatmap_RNAExpression_30x30_{module}_sqrt_FPKM.png'.format(module=module))
@@ -252,7 +265,42 @@ def plot_heatmap(data):
     dendrogram(Z)
     #plt.show() #Plot dendrogram
     plt.savefig("Cluster_dendrogram.png")
+
+    ##Plots PCA analysis of 3 features
+    pca_analysis(feature_df)
+    plt.show()
     pdb.set_trace()
+
+
+def pca_analysis(dataframe):
+    feature_df = dataframe
+    from sklearn.preprocessing import StandardScaler
+    from sklearn.decomposition import PCA
+
+
+    X = feature_df.iloc[:,0:6]
+    X = StandardScaler().fit_transform(X) ## Standardize values and sttore as numpy/matrix
+    pca = PCA()
+    principal_components = pca.fit_transform(X)
+    principal_df = pd.DataFrame(data=principal_components, columns=["P1","P2","P3","P4","P5","P6"])
+    finalDf = principal_df.copy()
+    finalDf["target"] = feature_df.index
+    fig = plt.figure(figsize = (8,8))
+    ax = fig.add_subplot(1,1,1)
+    ax.set_xlabel('Principal Component 1', fontsize = 15)
+    ax.set_ylabel('Principal Component 2', fontsize = 15)
+    ax.set_title('2 component PCA', fontsize = 20)
+    targets = feature_df.index[0:3]
+    colors = ['r', 'g', 'b']
+    for target, color in zip(targets,colors):
+        indicesToKeep = finalDf['target'] == target
+        ax.scatter(finalDf.loc[indicesToKeep, ["P1","P2","P3","P4","P5","P6"]]
+        , finalDf.loc[indicesToKeep, ["P1","P2","P3","P4","P5","P6"]]
+        , c = color
+        , s = 50)
+        ax.legend(targets)
+        ax.grid()
+
 
 
 
