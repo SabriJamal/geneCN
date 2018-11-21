@@ -8,12 +8,18 @@ import seaborn as sns; sns.set()
 import matplotlib.pyplot as plt
 import math
 import pdb ##Debugging
-pdb.set_trace() #Debugging
+#pdb.set_trace() #Debugging
 
+########################################################################################
+## General funciton to extract system file/directory name without trailing characters ##
+########################################################################################
 def extract_system_name(item):
     file = re.search("b\'(.*)\\\\n", str(item)).group(1)
     return(file)
 
+###########################################################################################
+## Takes path to bed file as input and selects only genes from bed file for heatmap plot ##
+###########################################################################################
 def important_genes(bed):
     bed = bed ##Collect important genes from bed file
     cmd = "awk '{print $4'}" + " " + bed + " | " + "sort" + " | " + "uniq"
@@ -26,8 +32,9 @@ def important_genes(bed):
     return(uniq_genes_list)
 
 
-    #Do through subprocess using awk '{print $X} | sort | uniq' fileX
-
+########################################################
+## Function to collect data from FeatureCounts output ##
+########################################################
 def collect_data_FeatureCount(bed):
     module = "FeatureCounts"
     feature_dict={}
@@ -92,6 +99,9 @@ def collect_data_FeatureCount(bed):
     output = [feature_dict, genes, sample_list, module, norm_factor]
     return(output)
 
+####################################################
+## Function to collect data from StringTie output ##
+####################################################
 def collect_data_StringTie(bed):
     module = "StringTie"
     feature_dict={}
@@ -155,18 +165,19 @@ def collect_data_StringTie(bed):
     output = [feature_dict, genes, sample_list, module]
     return(output)
 
-
+###############################
+## Function to plot heat map ##
+###############################
 def plot_heatmap(data):
     observation = []
     count = 0
     features = []
     genes_discarded = []
     gene_expression_list = []
-    feature_dict = data[0]
+    feature_dict = data[0] #feature_dict is of form key = Gene | val = [Sample1, Expression1,...,SampleN, ExpressionN]
     genes = data[1]
     sample_list = data[2]
     module = data[3]
-    log_constant = 0.0001
 
     if(len(data) == 5):
         norm_factor = data[4]
@@ -175,6 +186,9 @@ def plot_heatmap(data):
         print("Values were already converted, no normalization factor needed")
 
 
+    #############################################################################################
+    ## Stores expression values for each gene in a list. Preparing format to create Data frame ##
+    #############################################################################################
     for gene, feature_list in feature_dict.items():
         if(gene in genes):
             gene_expression_list.append(gene)
@@ -183,51 +197,66 @@ def plot_heatmap(data):
             for item in feature_obs:
                 count += 1
                 if(count % 2 == 0):
-                    #item = float(item)/norm_factor
-                    try:
-                        #item = math.log2(item + log_constant) #log_constant to avoid 0 based values
-                        #item = math.sqrt(item)
-                        item = float(item)
-                    except ValueError:
-                        print("Coercing values to zero")
-                        item = 0
-                    #item = float(item)
+                    item = float(item)/norm_factor
                     observation.append(item)
                 else:
                     continue #Skip to avoid catching sample names
-            features.append(observation)
+            features.append(observation) # nested list where each new list is expresison for a gene
             observation = [] #reset
 
         else:
+            ## i.e all other genes in genome
             genes_discarded.append(gene)
 
+    #############################################################################
+    ## Create data frame. Create mask for all 0 values to be masked in heatmap ##
+    #############################################################################
     feature_df = pd.DataFrame(features, columns=sample_list, index=gene_expression_list) ##Generate Panda dataframe
+    feature_df.applymap(np.log2).replace(float('-inf'),0)
+    mask = feature_df.isin(values=[0])
 
-    ##Clustered heatmap
-    #Recommendation is to normalize to number of reads and plot without normalization using
+    ##############################################################################
+    ## Agglomerative Hiearchical clustering fused with heatmap with dendrogram  ##
+    ## Issue - labels do not fit properly                                       ##
+    ##############################################################################
+
+    ## Limiting which labels to be shown https://stackoverflow.com/questions/27037241/changing-the-rotation-of-tick-labels-in-seaborn-heatmap ##
+
+    ##Normalization factors, z_score used before
         #z_score or=1
         #standard_scale=1
-    sns.clustermap(feature_df, metric="euclidean", z_score=1, method="ward")
+#    plt.figure(figsize=(30,30)) ##Setting figure size
+    sns.clustermap(feature_df, metric="euclidean", method="ward", mask=mask, cmap="Blues")
     plt.savefig("heatmap_clustered_{module}.png".format(module=module))
 
+    pdb.set_trace()
 
-    ##Noramlize DataFrame
-    #feature_df = feature_df.applymap(np.sqrt)
-    plt.figure(figsize=(30,30)) ##Setting figure size
-    ax = sns.heatmap(feature_df, annot=True) ##Plot heatmap
-    plt.savefig('heatmap_RNAExpression_30x30_{module}_sqrt_FPKM.png'.format(module=module))
+    #######################################
+    ## Create heatmap without dendrogram ##
+    #######################################
+#    plt.figure(figsize=(30,30)) ##Setting figure size
+#    ax = sns.heatmap(feature_df, annot=True) ##Plot heatmap
+#    plt.savefig('heatmap_RNAExpression_30x30_{module}_sqrt_FPKM.png'.format(module=module))
+#
+#    ## Create heatmap of NaN values, VISUALIZATION
+#    sns.heatmap(feature_df.isnull(), cbar=False)
+#
+#    ## Create heatmap of 0 based values, VISUALIZATION
+#    sns.heatmap(feature_df.isin(values=[0]), cbar=False)
 
-    ## Adding median and mean columns
+######################################################
+## Plots expression levels against e.g. median/mean ##
+######################################################
+def plot_df_data_points(dataframe):
+    feature_df = dataframe.copy()
+
+    ## Adding median and mean columns ##
     feature_df["median"] = feature_df.median(axis=1)
     feature_df["mean"] = feature_df.mean(axis=1)
 
-    ## Single Plot
-    #feature_df.plot.scatter(x=feature_df.columns[0], y="median")
-    #plt.savefig("Median." + feature_df.columns[0] + ".png")
-
-    ###################################
-    ## Annotate data points in graph ##
-    ###################################
+    ####################################################################################
+    ## Create scatter plot where annotating data points in graph fulfilling condition ##
+    ####################################################################################
     for col in feature_df.columns[0:len(feature_df.columns) - 2]:
         feature_df.plot.scatter(x=col, y="median")
         for samp,med, mean in zip(feature_df[col].iteritems(), feature_df["median"], feature_df["mean"]):
@@ -247,8 +276,14 @@ def plot_heatmap(data):
                 plt.annotate(label, data_point)
 
         ## Plots and saves all figures seperately
-        plt.savefig("Median." + col + ".png")
+        #plt.savefig("Median." + col + ".png")
         plt.show()
+
+###############################################################################
+## Function to perform clustering and investigate occurence of cluster joins ##
+###############################################################################
+def agglom_clustering(dataframe):
+    feature_df = dataframe.copy()
 
     #############################
     ## Hierarchical clustering ##
@@ -263,22 +298,28 @@ def plot_heatmap(data):
     X = feature_df.iloc[:,0:len(feature_df.columns) - 2]
     Z = linkage(X, 'ward')
     dendrogram(Z)
-    #plt.show() #Plot dendrogram
-    plt.savefig("Cluster_dendrogram.png")
+    plt.show() #Plot dendrogram
+#   plt.savefig("Cluster_dendrogram.png")
 
-    ##Plots PCA analysis of 3 features
+    ##############################################################
+    ## Plots PCA analysis of 3 features using two components.   ##
+    ## Issue - This needs to be looked into. Seems like         ##
+    ## analysis is incorrect as each principal component should ##
+    ## be its own feature/gene                                  ##
+    ##############################################################
     pca_analysis(feature_df)
     plt.show()
-    pdb.set_trace()
 
-
+################################################################
+## Function to perform pca_analysis, dimensionality reduction ##
+################################################################
 def pca_analysis(dataframe):
-    feature_df = dataframe
+    feature_df = dataframe.copy()
     from sklearn.preprocessing import StandardScaler
     from sklearn.decomposition import PCA
 
 
-    X = feature_df.iloc[:,0:6]
+    X = feature_df.iloc[:,0:6] ##Hard coded, expects 6 columns are samples
     X = StandardScaler().fit_transform(X) ## Standardize values and sttore as numpy/matrix
     pca = PCA()
     principal_components = pca.fit_transform(X)
